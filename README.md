@@ -25,16 +25,80 @@ MCP name: `eu.ansvar/slovenian-law-mcp`
 - Optional paid enrichment pipeline (case law ingestion, cross-references, EU import)
 - Stdio transport (CLI/MCP clients) and streamable HTTP transport (Vercel API)
 
-## Installation
+## Quick Start
 
-```bash
-npm install @ansvar/slovenian-law-mcp
+### Use Remotely (No Install Needed)
+
+> Connect directly to the hosted version — zero dependencies, nothing to install.
+
+**Endpoint:** `https://slovenian-law-mcp.vercel.app/mcp`
+
+| Client | How to Connect |
+|--------|---------------|
+| **Claude.ai** | Settings > Connectors > Add Integration > paste URL |
+| **Claude Code** | `claude mcp add slovenian-law --transport http https://slovenian-law-mcp.vercel.app/mcp` |
+| **Claude Desktop** | Add to config (see below) |
+| **GitHub Copilot** | Add to VS Code settings (see below) |
+
+**Claude Desktop** — add to `claude_desktop_config.json`:
+
+```json
+{
+  "mcpServers": {
+    "slovenian-law": {
+      "type": "url",
+      "url": "https://slovenian-law-mcp.vercel.app/mcp"
+    }
+  }
+}
 ```
 
-Run as stdio MCP server:
+**GitHub Copilot** — add to VS Code `settings.json`:
+
+```json
+{
+  "github.copilot.chat.mcp.servers": {
+    "slovenian-law": {
+      "type": "http",
+      "url": "https://slovenian-law-mcp.vercel.app/mcp"
+    }
+  }
+}
+```
+
+### Use Locally (npm)
 
 ```bash
 npx @ansvar/slovenian-law-mcp
+```
+
+**Claude Desktop** — add to `claude_desktop_config.json`:
+
+**macOS:** `~/Library/Application Support/Claude/claude_desktop_config.json`
+**Windows:** `%APPDATA%\Claude\claude_desktop_config.json`
+
+```json
+{
+  "mcpServers": {
+    "slovenian-law": {
+      "command": "npx",
+      "args": ["-y", "@ansvar/slovenian-law-mcp"]
+    }
+  }
+}
+```
+
+**Cursor / VS Code:**
+
+```json
+{
+  "mcp.servers": {
+    "slovenian-law": {
+      "command": "npx",
+      "args": ["-y", "@ansvar/slovenian-law-mcp"]
+    }
+  }
+}
 ```
 
 ## Local Development
