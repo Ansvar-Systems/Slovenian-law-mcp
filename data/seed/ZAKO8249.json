@@ -2999,5 +2999,367 @@
       "title": "(začetek uporabe zakona)",
       "content": "Ta zakon začne veljati 31. decembra 2021."
     }
+  ],
+  "definitions": [
+    {
+      "document_id": "ZAKO8249",
+      "term": "bilanca površin",
+      "definition": "izračun in prikaz nepozidanih stavbnih zemljišč, členjena na posamezne kategorije namenske rabe prostora in razvojne stopnje, teh površin, kot izhajajo iz evidence stavbnih zemljišč; je podlaga za izračun izkoriščenosti prostih površin ali lokacij, ki so primerne za zgostitve, prenovo ali spremembo rabe, ali kadar se načrtujejo nove površine stavbnih zemljišč kot širitev ureditvenega območja naselja;",
+      "source_provision": "3"
+    },
+    {
+      "document_id": "ZAKO8249",
+      "term": "bruto tlorisna površina objekta",
+      "definition": "bruto tlorisna površina stavbe, določena v skladu s predpisom, ki ureja izračun površin stavb ali bruto tlorisna površina gradbenih inženirskih objektov, določena kot bruto tlorisna površina, izračunana s smiselno uporabo predpisa, ki ureja izračun površin stavb;",
+      "source_provision": "3"
+    },
+    {
+      "document_id": "ZAKO8249",
+      "term": "celovita presoja vplivov na okolje",
+      "definition": "presoja, s katero se ocenijo vplivi prostorskega akta na okolje v skladu s predpisi, ki urejajo varstvo okolja;",
+      "source_provision": "3"
+    },
+    {
+      "document_id": "ZAKO8249",
+      "term": "dostopnost",
+      "definition": "dosegljivost lokacije, dejavnosti in storitev različnim uporabnikom s sredstvi trajnostne mobilnosti (hodljivost, kolesarjenje, javni potniški promet); meri se v dolžinskih in časovnih enotah;",
+      "source_provision": "3"
+    },
+    {
+      "document_id": "ZAKO8249",
+      "term": "druga gospodarska javna infrastruktura",
+      "definition": "gospodarska javna infrastruktura, ki ni komunalna oprema, in je namenjena zagotavljanju opremljenosti stavbnega zemljišča kot sta elektroenergetsko omrežje in državna cesta;",
+      "source_provision": "3"
+    },
+    {
+      "document_id": "ZAKO8249",
+      "term": "drugi akt urejanja prostora",
+      "definition": "akt, ki ni prostorski akt, vendar se z njim v skladu s tem zakonom ureja prostor; ti akti so splošni in posamični pravni akti, ki se v skladu s tem zakonom izdajo na njihovi podlagi ali na podlagi prostorskih aktov;",
+      "source_provision": "3"
+    },
+    {
+      "document_id": "ZAKO8249",
+      "term": "drugo naselje",
+      "definition": "manjše pozidano in poseljeno območje, ki nima lastnosti, značilnih za urbano naselje, ter je lahko glede na velikost, lego in dejavnost podeželsko naselje, suburbano naselje ali vas;",
+      "source_provision": "3"
+    },
+    {
+      "document_id": "ZAKO8249",
+      "term": "drugo urbano naselje",
+      "definition": "večje pozidano in poseljeno naselje v katerem mestne funkcije prevladujejo nad agrarnimi, nima pa statusa mesta; v drugem urbanem naselju so storitvene, oskrbne in druge dejavnosti, ki oskrbujejo prebivalce naselja in bližnje območje;",
+      "source_provision": "3"
+    },
+    {
+      "document_id": "ZAKO8249",
+      "term": "drugo ureditveno območje",
+      "definition": "površine zunaj ureditvenega območja naselja, namenjene izvajanju dejavnosti, ki zaradi tehničnih, tehnoloških, funkcionalnih in prostorskih razlogov ne spadajo v ureditveno območje naselja;",
+      "source_provision": "3"
+    },
+    {
+      "document_id": "ZAKO8249",
+      "term": "družbena infrastruktura",
+      "definition": "prostorske ureditve namenjene izvajanju dejavnosti splošnega pomena, s katerimi se zagotavljajo dobrine, ki so v javnem interesu na področju vzgoje in izobraževanja, znanosti, športa, zdravstva, socialnega varstva, kulture ter drugih dejavnosti splošnega in splošno gospodarskega pomena, ki so kot take določene z zakonom ali odlokom lokalne skupnosti;",
+      "source_provision": "3"
+    },
+    {
+      "document_id": "ZAKO8249",
+      "term": "gospodarska javna infrastruktura",
+      "definition": "prostorske ureditve, namenjene opravljanju gospodarskih javnih služb, in prostorske ureditve za druge namene v javnem interesu na področju energetike, prometa, elektronskih komunikacij in drugih gospodarskih dejavnosti, ki so kot take določene z zakonom ali odlokom lokalne skupnosti; gospodarska javna infrastruktura je državnega in lokalnega pomena;",
+      "source_provision": "3"
+    },
+    {
+      "document_id": "ZAKO8249",
+      "term": "gradbena parcela",
+      "definition": "zemljišče trajno določeno za redno rabo tega objekta; gradbena parcela obsega zemljišče pod objektom in zemljišče ob objektu, ki pripada temu objektu, in je trajno namenjeno redni rabi tega objekta;",
+      "source_provision": "3"
+    },
+    {
+      "document_id": "ZAKO8249",
+      "term": "grajena površina",
+      "definition": "površina v poselitvenem območju, ki ni v naravnem stanju, ker je utrjena, tlakovana, pozidana ipd. (npr. ulice, ceste, trgi, tržnice, utrjene površine za šport in rekreacijo) in druga površina, na kateri prevladuje delež grajene površine, in sicer ne glede na lastnino, funkcijo ali lego v prostoru;",
+      "source_provision": "3"
+    },
+    {
+      "document_id": "ZAKO8249",
+      "term": "grajeno javno dobro",
+      "definition": "zemljišče, objekt ali njegov del, namenjen taki splošni rabi, kot jo glede na namen njegove uporabe določa zakon ali na njegovi podlagi izdan predpis; grajeno javno dobro je državnega in lokalnega pomena ter je lahko v lasti države, občine ali v zasebni lasti;",
+      "source_provision": "3"
+    },
+    {
+      "document_id": "ZAKO8249",
+      "term": "izjemna krajina",
+      "definition": "naravna ali kulturna krajina, ki izkazuje visoko prizoriščno vrednost kot odraz ene ali več edinstvenih oziroma neponovljivih lastnosti: svojevrstne zgradbe, edinstvene rabe tal, posebnega naselbinskega vzorca ali izjemnih naravnih prvin in je kot taka prepoznavna na ravni Slovenije;",
+      "source_provision": "3"
+    },
+    {
+      "document_id": "ZAKO8249",
+      "term": "izvedbena regulacija prostora",
+      "definition": "skozi namensko rabo prostora in prostorske izvedbene pogoje določen način rabe prostora in izvajanja posegov v prostor v določenem območju;",
+      "source_provision": "3"
+    },
+    {
+      "document_id": "ZAKO8249",
+      "term": "javna površina",
+      "definition": "praviloma odprta prostorska ureditev, namenjena splošni rabi, naravna ali ustvarjena z gradbenimi ali drugimi posegi v prostor, kot so cesta, ulica, pasaža, trg, tržnica, atrij, parkirišče, pokopališče, park, zelenica, otroško igrišče, športno igrišče ter druga površina za rekreacijo in prosti čas; javna površina je grajena ali zelena; javna površina je lahko v lasti države, občine ali v zasebni lasti;",
+      "source_provision": "3"
+    },
+    {
+      "document_id": "ZAKO8249",
+      "term": "krajina",
+      "definition": "območje, kot ga zaznavajo ljudje ter ima prepoznavne naravne, kulturne ali poselitvene značilnosti, ki so rezultat delovanja in medsebojnega vplivanja narave in človeka;",
+      "source_provision": "3"
+    },
+    {
+      "document_id": "ZAKO8249",
+      "term": "mesto",
+      "definition": "gospodarsko, družbeno in kulturno središče širšega območja ter ima status mesta, pridobljen v skladu s predpisi, ki urejajo lokalno samoupravo; ima kulturno-zgodovinske, urbanistične in arhitektonske značilnosti, ki ga ločijo od drugih naselij in opravlja več funkcij;",
+      "source_provision": "3"
+    },
+    {
+      "document_id": "ZAKO8249",
+      "term": "mnenje",
+      "definition": "akt, s katerim nosilec urejanja prostora ugotovi, ali so bile pri pripravi prostorskega akta in v postopkih državnega prostorskega načrtovanja upoštevane njegove smernice oziroma predpisi z njegovega delovnega področja;",
+      "source_provision": "3"
+    },
+    {
+      "document_id": "ZAKO8249",
+      "term": "nadomestna gradnja",
+      "definition": "gradnja, pri kateri se najprej odstrani obstoječi objekt ter namesto njega zgradi nov objekt, ki glede lege, gabaritov, oblike, namembnosti in zunanjega videza objekta ne odstopa bistveno od obstoječega objekta;",
+      "source_provision": "3"
+    },
+    {
+      "document_id": "ZAKO8249",
+      "term": "nakupovalno središče",
+      "definition": "prostorsko zaokroženo območje, ki ga sestavlja en ali več objektov, namenjenih pretežno trgovski dejavnosti; v območju so lahko oziroma se lahko načrtujejo tudi posamični dopolnjujoči objekti, namenjeni družbenim, poslovnim in obrtnim dejavnostim;",
+      "source_provision": "3"
+    },
+    {
+      "document_id": "ZAKO8249",
+      "term": "namenska raba prostora",
+      "definition": "s prostorskimi akti določena raba površin in objektov, ki ob upoštevanju pretežnosti in prepletanja dopustnih dejavnosti določa namen, za katerega se lahko te uporabljajo;",
+      "source_provision": "3"
+    },
+    {
+      "document_id": "ZAKO8249",
+      "term": "naselje",
+      "definition": "območje obstoječega naselja, ki obsega zemljišča, pozidana s stanovanjskimi in drugimi stavbami ter gradbeno-inženirskimi objekti in pripadajočimi površinami, potrebnimi za njihovo uporabo, ter javne površine; naselje tvori skupina najmanj desetih stanovanjskih stavb; naselja se med seboj razlikujejo po funkciji in vlogi v omrežju naselij ter velikosti, urbanistični ureditvi in arhitekturi; naselja se razvrščajo na mesta, druga urbana naselja in druga naselja;",
+      "source_provision": "3"
+    },
+    {
+      "document_id": "ZAKO8249",
+      "term": "nepremičninske evidence",
+      "definition": "evidence, ki se o nepremičninah in njihovih sestavinah vodijo v skladu s predpisi o katastru nepremičnin;",
+      "source_provision": "3"
+    },
+    {
+      "document_id": "ZAKO8249",
+      "term": "nosilci urejanja prostora",
+      "definition": "ministrstva, organi lokalnih skupnosti, izvajalci javnih služb ter nosilci javnih pooblastil, ki sodelujejo v postopkih priprave prostorskih aktov in v postopkih državnega prostorskega načrtovanja; nosilci urejanja prostora so državni in lokalni;",
+      "source_provision": "3"
+    },
+    {
+      "document_id": "ZAKO8249",
+      "term": "območje za gospodarski razvoj",
+      "definition": "prostorsko zaokroženo območje, ki ga sestavlja en ali več objektov, namenjenih pretežno proizvodnim, industrijskim in obrtnim dejavnostim; v območju so lahko oziroma se lahko načrtujejo tudi posamični objekti, namenjeni komunalni, storitveni, poslovni, trgovski in gostinski dejavnosti;",
+      "source_provision": "3"
+    },
+    {
+      "document_id": "ZAKO8249",
+      "term": "obstoječi objekt",
+      "definition": "zakonito zgrajen objekt, pri katerem so pretežno ohranjeni vsi konstrukcijski elementi, brez katerih objekt ne more funkcionirati;",
+      "source_provision": "3"
+    },
+    {
+      "document_id": "ZAKO8249",
+      "term": "podatki iz prikaza stanja prostora",
+      "definition": "podatki o dejanskem in pravnem stanju prostora;",
+      "source_provision": "3"
+    },
+    {
+      "document_id": "ZAKO8249",
+      "term": "pomožni objekt",
+      "definition": "objekt, ki funkcionalno dopolnjuje glavne obstoječe oziroma načrtovane objekte tako, da izboljšuje in dopolnjuje njihove bivalne, delovne oziroma obratovalne pogoje; lahko je samostoječi ali se osnovnega objekta dotika, vendar z njim konstrukcijsko ni povezan; po velikosti praviloma ne presega osnovnih objektov in zanj niso potrebni novi komunalni in drugi priključki; ko sta določena obseg in velikost gradbene parcele ali pripadajočega zemljišča objekta, se pomožni objekt lahko gradi izključno na zemljišču, ki je namenjeno redni rabi objekta; dopustnost pomožnih objektov se določi v prostorskem izvedbenem aktu;",
+      "source_provision": "3"
+    },
+    {
+      "document_id": "ZAKO8249",
+      "term": "posamična poselitev",
+      "definition": "zemljišča zunaj ureditvenega območja naselja ali drugega ureditvenega območja, pozidana s posamičnimi stavbami do največ devet stanovanjskih stavb, ali nepozidana tako, da skupaj s pozidanimi tvorijo zaključeno celoto;",
+      "source_provision": "3"
+    },
+    {
+      "document_id": "ZAKO8249",
+      "term": "poseg v prostor",
+      "definition": "gradnja objekta v skladu s predpisi, ki urejajo graditev (v nadaljnjem besedilu: gradbeni poseg) in izvedba dejanj, s katerim se ustvarjajo, spreminjajo ali vzdržujejo druge ustvarjene in naravne fizične strukture v prostoru ter spreminja njegova podoba ali raba (v nadaljnjem besedilu: negradbeni poseg);",
+      "source_provision": "3"
+    },
+    {
+      "document_id": "ZAKO8249",
+      "term": "poselitev",
+      "definition": "sestav fizičnih struktur za človekovo bivanje ter izvajanje družbenih, storitvenih, proizvodnih ter prostočasnih dejavnosti v poselitvenih območjih;",
+      "source_provision": "3"
+    },
+    {
+      "document_id": "ZAKO8249",
+      "term": "poselitvena območja",
+      "definition": "ureditvena območja naselij, druga ureditvena območja in posamična poselitev;",
+      "source_provision": "3"
+    },
+    {
+      "document_id": "ZAKO8249",
+      "term": "pravni režim",
+      "definition": "javnopravna omejitev v prostoru, ki določa ali neposredno vpliva na načrtovane prostorske ureditve in izvedbeno regulacijo prostora, ter je namenjen varovanju javnega interesa na področju ohranjanja narave, varstva kulturne dediščine, varstva okolja in naravnih dobrin in virov, varstva kmetijskih zemljišč, varstva gozdov, upravljanja z vodami, varovanja zdravja ljudi, obrambe države in varstva pred naravnimi in drugimi nesrečami ter varovanja gospodarske javne infrastrukture;",
+      "source_provision": "3"
+    },
+    {
+      "document_id": "ZAKO8249",
+      "term": "prenova območja",
+      "definition": "zbir različnih dejavnosti za oživitev razvrednotenega območja, s katerimi se, s pomočjo instrumentov prostorskega načrtovanja in zemljiške politike ter drugimi ukrepi, zagotovi ohranitev kakovostnih grajenih struktur ter izboljšanje funkcionalnih, tehničnih, prostorsko-oblikovalskih, bivalnih, gospodarskih, socialnih, kulturnih in okoljskih razmer;",
+      "source_provision": "3"
+    },
+    {
+      "document_id": "ZAKO8249",
+      "term": "presoja sprejemljivosti na varovana območja",
+      "definition": "presoja sprejemljivosti vplivov oziroma posledic prostorskega akta glede na varstvene cilje varovanih območij v skladu s predpisi, ki urejajo ohranjanje narave;",
+      "source_provision": "3"
+    },
+    {
+      "document_id": "ZAKO8249",
+      "term": "pripadajoče zemljišče objekta",
+      "definition": "zemljišče, ki se uporablja za rabo tega objekta;",
+      "source_provision": "3"
+    },
+    {
+      "document_id": "ZAKO8249",
+      "term": "prostor",
+      "definition": "skupek fizičnih struktur na zemeljskem površju in pod njim, ki ga tvorijo poselitvena območja in krajina v medsebojnem prepletanju, ter morje;",
+      "source_provision": "3"
+    },
+    {
+      "document_id": "ZAKO8249",
+      "term": "prostorska ureditev",
+      "definition": "sklop obstoječih ali usklajeno načrtovanih posegov v prostor in dejavnosti v določenem območju;",
+      "source_provision": "3"
+    },
+    {
+      "document_id": "ZAKO8249",
+      "term": "prostorski akt",
+      "definition": "akt, s katerim se opredeljuje prostorski razvoj države, regij in občin (prostorski strateški akt) ter akt, s katerim se načrtujejo prostorske ureditve in določa izvedbena regulacija prostora (prostorski izvedbeni akt);",
+      "source_provision": "3"
+    },
+    {
+      "document_id": "ZAKO8249",
+      "term": "prostorski izvedbeni pogoji",
+      "definition": "pogoji in rešitve za urbanistično in krajinsko ureditev in oblikovanje naselij in krajine, za umestitev prostorskih ureditev v prostor ter arhitekturno oblikovanje objektov in izvedbo drugih posegov v prostor;",
+      "source_provision": "3"
+    },
+    {
+      "document_id": "ZAKO8249",
+      "term": "prostorski razvoj",
+      "definition": "usmerjanje človekovih dejavnosti in spreminjanje prostora zaradi razvojnih in varstvenih interesov;",
+      "source_provision": "3"
+    },
+    {
+      "document_id": "ZAKO8249",
+      "term": "prostorsko načrtovanje",
+      "definition": "kontinuirana interdisciplinarna dejavnost, s katero se z dogovarjanjem in usklajevanjem med udeleženci urejanja prostora na strateški ravni načrtuje prostorski razvoj, na izvedbeni pa se načrtujejo prostorske ureditve in določa izvedbena regulacija prostora; prostorsko načrtovanje se udejanja z izdelavo in pripravo prostorskih aktov ter postopki državnega prostorskega načrtovanja;",
+      "source_provision": "3"
+    },
+    {
+      "document_id": "ZAKO8249",
+      "term": "razvojna regija",
+      "definition": "funkcionalna ozemeljska celota, ki se določi v skladu s predpisi, ki urejajo skladen regionalni razvoj;",
+      "source_provision": "3"
+    },
+    {
+      "document_id": "ZAKO8249",
+      "term": "razvojni dokument",
+      "definition": "dokument razvojnega načrtovanja, ki je krovni usmerjevalni dokument, in drugi usmerjevalni dokumenti, kot so resolucija, sektorska strategija, programski dokument in drugi taki dokumenti, ki jih sprejme država ali občina;",
+      "source_provision": "3"
+    },
+    {
+      "document_id": "ZAKO8249",
+      "term": "razvoj stavbnih zemljišč",
+      "definition": "zaporedje načrtovalskih, upravnih ali investicijskih nalog, cilj katerih je razvoj stavbnega zemljišča do najvišje razvojne stopnje – urejenega zazidljivega zemljišča in pozidava takega zemljišča;",
+      "source_provision": "3"
+    },
+    {
+      "document_id": "ZAKO8249",
+      "term": "razvrednoteno območje",
+      "definition": "območje, ki mu je zaradi neprimerne ali opuščene rabe znižana gospodarska, socialna, okoljska ali vizualna vrednost ali vrednost po merilih varstva kulturne dediščine in je potrebno prenove; razvrednoteno območje lahko po fizičnih, funkcionalnih, okoljskih, socialnih merilih ter merilih varstva kulturne dediščine izkazuje različne vrste in stopnje razvrednotenja;",
+      "source_provision": "3"
+    },
+    {
+      "document_id": "ZAKO8249",
+      "term": "smernice",
+      "definition": "akti, v katerih nosilci urejanja prostora konkretizirajo predpise in razvojne dokumente s svojega delovnega področja za pripravo prostorskih aktov in v postopkih državnega prostorskega načrtovanja;",
+      "source_provision": "3"
+    },
+    {
+      "document_id": "ZAKO8249",
+      "term": "sorodni predpis",
+      "definition": "splošni pravni akt države ali občine, ki po svoji naravi in namenu, kot ju opredeljujejo pravne podlage za njegovo izdajo, ni prostorski akt, vendar vsebuje elemente prostorskega načrtovanja ter z določanjem pravnih režimov neposredno vpliva na načrtovane prostorske ureditve in izvedbeno regulacijo prostora;",
+      "source_provision": "3"
+    },
+    {
+      "document_id": "ZAKO8249",
+      "term": "stavbno zemljišče",
+      "definition": "zemljišče, ki je s prostorskimi izvedbenimi akti namenjeno graditvi objektov;",
+      "source_provision": "3"
+    },
+    {
+      "document_id": "ZAKO8249",
+      "term": "udeleženci pri urejanju prostora",
+      "definition": "pripravljavci prostorskih aktov in drugih aktov urejanja prostora, nosilci urejanja prostora, upravni organi ter organizacije, strokovna in interesna združenja in splošna javnost, ki sodelujejo v postopkih priprave prostorskih aktov in sprejetja drugih odločitev v prostoru in jih te odločitve zadevajo;",
+      "source_provision": "3"
+    },
+    {
+      "document_id": "ZAKO8249",
+      "term": "upravljavec zbirke podatkov",
+      "definition": "subjekt, ki vodi in vzdržuje zbirko podatkov, ki se uporablja v okviru prostorskega informacijskega sistema;",
+      "source_provision": "3"
+    },
+    {
+      "document_id": "ZAKO8249",
+      "term": "urbani razvoj",
+      "definition": "usmerjanje in načrtovanje razvoja v mestih, drugih urbanih naseljih in širših mestnih območjih;",
+      "source_provision": "3"
+    },
+    {
+      "document_id": "ZAKO8249",
+      "term": "urbano naselje",
+      "definition": "mesto ali drugo urbano naselje; v urbanem naselju so storitvene, oskrbne in druge dejavnosti za oskrbo prebivalcev;",
+      "source_provision": "3"
+    },
+    {
+      "document_id": "ZAKO8249",
+      "term": "začasna raba prostora",
+      "definition": "taka raba prostora na stavbnih zemljiščih v ureditvenih območjih naselij in drugih ureditvenih območjih, ki ni načrtovana v prostorskih izvedbenih aktih, vendar pa do izvedbe načrtovanih posegov v prostor omogoča izvedbo začasnih posegov v prostor in začasno izvajanje dejavnosti in s tem smotrno rabo ter aktivacijo zemljišč in objektov, ki niso v uporabi;",
+      "source_provision": "3"
+    },
+    {
+      "document_id": "ZAKO8249",
+      "term": "zeleni sistem",
+      "definition": "celovito načrtovan sistem varstva in razvoja zelenih površin in drugih naravnih in ustvarjenih struktur v prostoru, ki se med sabo funkcionalno povezujejo in dopolnjujejo; namenjen je zagotavljanju kakovostnega življenjskega okolja ter uresničevanju socialnih, okoljskih, ekoloških, podnebnih, gospodarskih, kulturnih, strukturnih in oblikovnih funkcij na ravni naselij, regije in države; z njim načrtujemo tudi zeleno infrastrukturo;",
+      "source_provision": "3"
+    },
+    {
+      "document_id": "ZAKO8249",
+      "term": "zeleni sistem naselja",
+      "definition": "načrtovan za območje naselja s povezavami z zaledjem in vključuje zelene površine naselja;",
+      "source_provision": "3"
+    },
+    {
+      "document_id": "ZAKO8249",
+      "term": "zeleni sistem regije",
+      "definition": "načrtovan za območje regije kot omrežje raznolikih, regionalno pomembnih in medsebojno funkcionalno povezanih območij, ki lahko vključujejo odprti prostor z zelenimi, vodnimi in obvodnimi površinami, rekreacijska in varovana območja ter območja, pomembna za ekološko povezljivost;",
+      "source_provision": "3"
+    },
+    {
+      "document_id": "ZAKO8249",
+      "term": "zelena površina",
+      "definition": "površina v poselitvenem območju z določeno mero naravnosti (npr. parki, mestni gozdovi, zelenje ob vodnih površinah, zelenice, drevoredi, zelenje ob ulicah in cestah, rekreacijske površine, otroška igrišča, pokopališča, vrtovi ipd.) in posamezne naravne fizične strukture v tem območju (npr. drevesa in druga vegetacija), in sicer ne glede na lastnino, funkcijo ali lego v prostoru.\n(2) Izrazi, uporabljeni v tem zakonu, pomen katerih ni določen v prejšnjem odstavku, imajo pomen v skladu z zakonom, ki ureja graditev.\n(3) Izraz parcela ima pomen, kot ga določa zakon, ki ureja kataster nepremičnin.",
+      "source_provision": "3"
+    }
   ]
 }

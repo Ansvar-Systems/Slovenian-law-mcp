@@ -3309,5 +3309,19 @@
       "article": "302",
       "content": "Ta zakon začne veljati devetdeseti dan po objavi v Uradnem listu Republike Slovenije."
     }
+  ],
+  "definitions": [
+    {
+      "document_id": "ZAKO1008",
+      "term": "izraz “kmet“ označuje osebo, ki ji",
+      "definition": "kmetijska proizvodnja pretežen vir prihodkov;",
+      "source_provision": "16"
+    },
+    {
+      "document_id": "ZAKO1008",
+      "term": "izraz “neposredna dejanja izvršbe in zavarovanja“ označuje vsa v zakonu navedena dejanja, s katerimi izvršitelji zagotavljajo izvršitev ali zavarovanje upnikove terjatve in dejanja, ki",
+      "definition": "potrebna za njihovo pripravo in izvedbo;",
+      "source_provision": "16"
+    }
   ]
 }

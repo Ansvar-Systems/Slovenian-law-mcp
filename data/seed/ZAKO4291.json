@@ -7079,5 +7079,13 @@
       "title": "(razveljavitev predpisov)",
       "content": "Ta zakon začne veljati petnajsti dan po objavi v Uradnem listu Republike Slovenije."
     }
+  ],
+  "definitions": [
+    {
+      "document_id": "ZAKO4291",
+      "term": "členom tega zakona, v kateri imajo država ali samoupravne lokalne skupnosti skupaj ali samostojno, neposredno ali posredno večinski delež. Subjekt javnega interesa",
+      "definition": "lahko tudi druga družba, zavezana k obvezni reviziji, če je tako določeno z drugim zakonom;\n-        »točka za podporo poslovnim subjektom« je točka za podporo poslovnim subjektom po zakonu, ki ureja poslovni register.",
+      "source_provision": "3"
+    }
   ]
 }

@@ -53,6 +53,30 @@ function normalizeYear(yearStr: string): number {
   return year;
 }
 
+/**
+ * EU citations use two formats:
+ * - Modern (post-Lisbon): "2016/679" → year=2016, number=679
+ * - Older: "1215/2012" → number=1215, year=2012
+ *
+ * Heuristic: if the first value is not a plausible year (1950–2040) but the
+ * second is, swap them.
+ */
+function resolveYearAndNumber(first: number, second: number): { year: number; number: number } {
+  const isPlausibleYear = (n: number) => n >= 1950 && n <= 2040;
+  const expand = (n: number) => (n < 100 ? (n >= 50 ? 1900 + n : 2000 + n) : n);
+  if (isPlausibleYear(first)) {
+    return { year: first, number: second };
+  }
+  if (isPlausibleYear(expand(second))) {
+    return { year: expand(second), number: first };
+  }
+  if (isPlausibleYear(second)) {
+    return { year: second, number: first };
+  }
+  // Fallback: treat first as year (original behaviour)
+  return { year: first, number: second };
+}
+
 function typeFromSlovenian(word: string): 'directive' | 'regulation' {
   return word.toLowerCase().startsWith('direktiv') ? 'directive' : 'regulation';
 }
@@ -72,8 +96,9 @@ export function extractEUReferences(text: string): ExtractedEUReference[] {
     const article = match[1] || undefined;
     const docType = typeFromSlovenian(match[2]);
     const community = match[3];
-    const year = normalizeYear(match[4]);
-    const number = parseInt(match[5], 10);
+    const rawFirst = normalizeYear(match[4]);
+    const rawSecond = parseInt(match[5], 10);
+    const { year, number } = resolveYearAndNumber(rawFirst, rawSecond);
 
     const precedingStart = Math.max(0, match.index - 50);
     const precedingText = text.slice(precedingStart, match.index);
@@ -99,8 +124,9 @@ export function extractEUReferences(text: string): ExtractedEUReference[] {
   while ((match = OLD_STYLE_PATTERN.exec(text)) !== null) {
     const article = match[1] || undefined;
     const docType = typeFromSlovenian(match[2]);
-    const year = normalizeYear(match[3]);
-    const number = parseInt(match[4], 10);
+    const rawFirst = normalizeYear(match[3]);
+    const rawSecond = parseInt(match[4], 10);
+    const { year, number } = resolveYearAndNumber(rawFirst, rawSecond);
     const community = match[5];
 
     const precedingStart = Math.max(0, match.index - 50);

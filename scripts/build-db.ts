@@ -227,7 +227,7 @@ CREATE TABLE IF NOT EXISTS eu_documents (
   type TEXT NOT NULL CHECK(type IN ('directive', 'regulation', 'decision')),
   year INTEGER NOT NULL,
   number INTEGER NOT NULL,
-  community TEXT CHECK(community IN ('EU', 'EG', 'EEG', 'Euratom')),
+  community TEXT CHECK(community IN ('EU', 'EG', 'EEG', 'ES', 'EGS', 'Euratom')),
   celex_number TEXT,
   title TEXT,
   title_sl TEXT,

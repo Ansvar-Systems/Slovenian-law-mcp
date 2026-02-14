@@ -1616,5 +1616,313 @@
       "article": "152",
       "content": "(1) Ta zakon začne veljati en mesec po objavi v Uradnem listu Republike Slovenije, uporabljati pa se začne tri mesece od njegove uveljavitve, razen določbe četrtega odstavka 34. člena, ki začne veljati in se uporabljati z dnem objave.\n(2) Določba 50. člena tega zakona, se v delu, ki ureja dovolitev zadrževanja in izdajo dovoljenja za začasno prebivanje žrtvi nezakonitega zaposlovanja, začne uporabljati z dnem, ko začnejo v Republiki Sloveniji veljati predpisi, ki urejajo kazniva dejanja in odgovornost pravnih oseb za kazniva dejanja, usklajeni z Direktivo 2009/52/ES Evropskega parlamenta in Sveta z dne 18. junija 2009 o minimalnih standardih glede sankcij in ukrepov zoper delodajalce nezakonito prebivajočih državljanov tretjih držav (UL L št. 168, 30.6.2009, str. 24)."
     }
+  ],
+  "definitions": [
+    {
+      "document_id": "ZAKO5761",
+      "term": "Tujec ali tujka (v nadaljnjem besedilu: tujec),",
+      "definition": "vsakdo, ki nima državljanstva Republike Slovenije.",
+      "source_provision": "2"
+    },
+    {
+      "document_id": "ZAKO5761",
+      "term": "Oseba brez državljanstva",
+      "definition": "tujec, ki ga nobena država v skladu s svojimi pravnimi akti nima za svojega državljana.",
+      "source_provision": "2"
+    },
+    {
+      "document_id": "ZAKO5761",
+      "term": "Vstop",
+      "definition": "prihod, zapustitev pa odhod z državnega ozemlja Republike Slovenije.",
+      "source_provision": "2"
+    },
+    {
+      "document_id": "ZAKO5761",
+      "term": "Tranzit",
+      "definition": "prehod državnega ozemlja Republike Slovenije.",
+      "source_provision": "2"
+    },
+    {
+      "document_id": "ZAKO5761",
+      "term": "Mejna kontrola",
+      "definition": "kontrola na državni meji, ki jo izvajajo pristojni organi zaradi nameravanega vstopa, tranzita in izstopa tujcev z državnega ozemlja Republike Slovenije.",
+      "source_provision": "2"
+    },
+    {
+      "document_id": "ZAKO5761",
+      "term": "Potna listina",
+      "definition": "potni list ali potnemu listu enakovredna listina za potovanje, če je tako določeno z mednarodnim sporazumom.",
+      "source_provision": "2"
+    },
+    {
+      "document_id": "ZAKO5761",
+      "term": "Veljavna potna listina",
+      "definition": "listina, ki jo je izdal za to pristojen mednarodni subjekt, če sta iz nje nesporno razvidni istovetnost imetnika in rok njene veljavnosti.",
+      "source_provision": "2"
+    },
+    {
+      "document_id": "ZAKO5761",
+      "term": "Dnevni delovni migrant",
+      "definition": "tujec s stalnim bivanjem v sosednji državi, v katero se vrača in ki prihaja dnevno v Republiko Slovenijo na delo ali zaradi zaposlitve ali dela.",
+      "source_provision": "2"
+    },
+    {
+      "document_id": "ZAKO5761",
+      "term": "Prevoznik",
+      "definition": "fizična ali pravna oseba, ki se poklicno ukvarja s prevozom potnikov po kopenski, zračni ali vodni poti.",
+      "source_provision": "2"
+    },
+    {
+      "document_id": "ZAKO5761",
+      "term": "Napoteni delavec",
+      "definition": "tujec, ki je v delovnem razmerju pri tujem delodajalcu v času izvajanja pogodbene storitve na ozemlju Republike Slovenije in zanj tuj delodajalec plačuje prispevke za socialno zavarovanje.",
+      "source_provision": "2"
+    },
+    {
+      "document_id": "ZAKO5761",
+      "term": "Rezident za daljši čas",
+      "definition": "tujec, ki ni državljan EU in ima v državi članici Evropske unije dovoljenje za stalno ali dolgotrajno prebivanje, izdano z veljavnostjo najmanj pet let na predpisanem obrazcu Evropske unije o enotni obliki dovoljenja za prebivanje za državljane tretjih držav, na katerem je pri vrsti dovoljenja označeno, da je rezident za daljši čas.",
+      "source_provision": "2"
+    },
+    {
+      "document_id": "ZAKO5761",
+      "term": "Državljan EU",
+      "definition": "tujec z državljanstvom druge države članice Evropske unije.",
+      "source_provision": "2"
+    },
+    {
+      "document_id": "ZAKO5761",
+      "term": "Tretja država",
+      "definition": "vsaka država, ki ni članica Evropske unije.",
+      "source_provision": "2"
+    },
+    {
+      "document_id": "ZAKO5761",
+      "term": "Raziskovalna organizacija",
+      "definition": "pravna oseba javnega ali zasebnega prava, ki izpolnjuje pogoje za izvajanje raziskovalne in razvojne dejavnosti, določene s predpisi, ki urejajo raziskovalno in razvojno dejavnost v Republiki Sloveniji, in lahko sklepa sporazume o gostovanju s tujimi raziskovalci v skladu s predpisi, ki urejajo raziskovalno in razvojno dejavnost v Republiki Sloveniji.",
+      "source_provision": "2"
+    },
+    {
+      "document_id": "ZAKO5761",
+      "term": "Raziskovalec",
+      "definition": "tujec, ki ni državljan EU, z doktoratom ali z ustreznimi visokošolskimi kvalifikacijami, ki omogočajo vpis v programe doktorskih študijev, ki ga raziskovalna organizacija izbere za izvajanje raziskovalnega dela.",
+      "source_provision": "2"
+    },
+    {
+      "document_id": "ZAKO5761",
+      "term": "Visokošolski zavodi",
+      "definition": "univerze, fakultete, umetniške akademije in visoke strokovne šole v skladu z zakonom, ki ureja visoko šolstvo.",
+      "source_provision": "2"
+    },
+    {
+      "document_id": "ZAKO5761",
+      "term": "Visokošolski učitelj",
+      "definition": "tujec, ki ni državljan EU, določen z zakonom, ki ureja visoko šolstvo.",
+      "source_provision": "2"
+    },
+    {
+      "document_id": "ZAKO5761",
+      "term": "Visokošolski sodelavec",
+      "definition": "tujec, ki ni državljan EU, določen z zakonom, ki ureja visoko šolstvo.",
+      "source_provision": "2"
+    },
+    {
+      "document_id": "ZAKO5761",
+      "term": "Višješolski zavodi oziroma višje strokovne šole",
+      "definition": "javne ali zasebne šole v skladu z zakonom, ki ureja višje strokovno izobraževanje.",
+      "source_provision": "2"
+    },
+    {
+      "document_id": "ZAKO5761",
+      "term": "Višješolski predavatelj",
+      "definition": "tujec, ki ni državljan EU, določen z zakonom, ki ureja višje strokovno izobraževanje.",
+      "source_provision": "2"
+    },
+    {
+      "document_id": "ZAKO5761",
+      "term": "Sporazum o gostovanju",
+      "definition": "sporazum med raziskovalcem iz tretje države in raziskovalno organizacijo oziroma sporazum med visokošolskim zavodom in visokošolskim učiteljem ali visokošolskim sodelavcem oziroma sporazum med višješolskim zavodom in višješolskim predavateljem, s katerim se raziskovalec zaveže, da si bo prizadeval dokončati raziskovalno dejavnost, visokošolski učitelj, visokošolski sodelavec ali višješolski predavatelj, da bo opravil pedagoško delo, raziskovalna organizacija pa se zaveže, da bo v ta namen gostila raziskovalca, visokošolski ali višješolski zavod pa se zaveže, da bo v ta namen gostil visokošolskega učitelja, visokošolskega sodelavca oziroma višješolskega predavatelja.",
+      "source_provision": "2"
+    },
+    {
+      "document_id": "ZAKO5761",
+      "term": "Preživetvena raven",
+      "definition": "temeljno sporazumevanje v slovenskem jeziku, omejeno na preproste, predvidljive, vsakodnevne situacije, v katerih je izražanje rutinsko in se ponavlja.",
+      "source_provision": "2"
+    },
+    {
+      "document_id": "ZAKO5761",
+      "term": "Žrtev trgovine z ljudmi",
+      "definition": "tujec, ki ni državljan EU, in je bil zaradi prostitucije ali drugih oblik spolnih zlorab, prisilnega dela, beračenja, suženjstva ali njemu podobnega razmerja, služabništva, storitve kaznivih dejanj ali trgovine z organi, človeškimi tkivi ali krvjo kupljen, prevzet, nastanjen, prepeljan, prodan, izročen ali je bilo z njim kako drugače razpolagano.",
+      "source_provision": "2"
+    },
+    {
+      "document_id": "ZAKO5761",
+      "term": "Garant",
+      "definition": "pravna oseba ali samostojni podjetnik posameznik s sedežem v Republiki Sloveniji ali fizična oseba s prijavljenim stalnim ali začasnim prebivališčem v Republiki Sloveniji, ki med bivanjem tujca v Republiki Sloveniji z garantnim pismom jamči za kritje vseh stroškov, nastalih v zvezi z bivanjem in nastanitvijo tujca v Republiki Sloveniji in vrnitvijo in odstranitvijo tujca v matično državo.",
+      "source_provision": "2"
+    },
+    {
+      "document_id": "ZAKO5761",
+      "term": "Garantno pismo",
+      "definition": "dokument, s katerim državljan tretje države v postopku izdaje vizuma dokazuje namen bivanja v Republiki Sloveniji, nastanitev in zadostna sredstva za pre­življanje med bivanjem v Republiki Sloveniji in za vrnitev v matično državo.",
+      "source_provision": "2"
+    },
+    {
+      "document_id": "ZAKO5761",
+      "term": "Diplomatsko predstavništvo",
+      "definition": "predstavništvo Republike Slovenije v tujini, pod vodstvom veleposlanika, ki je pristojno za opravljanje konzularnih nalog v skladu z Dunajsko konvencijo o diplomatskih odnosih z dne",
+      "source_provision": "2"
+    },
+    {
+      "document_id": "ZAKO5761",
+      "term": "aprila 1961 in Dunajsko konvencijo o konzularnih odnosih z dne 24. aprila 1963.\n27.   Konzulat",
+      "definition": "predstavništvo Republike Slovenije v tujini, pod vodstvom poklicnega konzularnega funkcionarja, ki je pristojno za opravljanje konzularnih nalog v skladu z Dunajsko konvencijo o konzularnih odnosih z dne",
+      "source_provision": "2"
+    },
+    {
+      "document_id": "ZAKO5761",
+      "term": "aprila 1963.\n28.   Žrtev nezakonitega zaposlovanja",
+      "definition": "mladoletni tujec, ki ni državljan EU, in v Republiki Sloveniji prebiva nezakonito in je zaposlen ali opravlja delo in tujec, ki ni državljan EU, in v Republiki Sloveniji prebiva nezakonito in je zaposlen ali opravlja delo v posebno izkoriščevalskih delovnih pogojih, kot jih določa zakon, ki ureja preprečevanje zaposlovanja in dela na črno.",
+      "source_provision": "2"
+    },
+    {
+      "document_id": "ZAKO5761",
+      "term": "Modra karta EU",
+      "definition": "dovoljenje za začasno prebivanje zaradi visokokvalificirane zaposlitve z oznako »modra karta EU«, ki ga izda država članica Evropske unije za visokokvalificirano zaposlitev tujcu, ki ni državljan EU in imetniku omogoča, da vstopi, prebiva in dela v državi članici Evropske unije.",
+      "source_provision": "2"
+    },
+    {
+      "document_id": "ZAKO5761",
+      "term": "Visokokvalificirana zaposlitev",
+      "definition": "zaposlitev državljana tretje države, kot jo za namen pridobitve modre karte EU opredeljuje zakon, ki ureja zaposlovanje in delo tujcev v Republiki Sloveniji.",
+      "source_provision": "2"
+    },
+    {
+      "document_id": "ZAKO5761",
+      "term": "Prostovoljni odhod",
+      "definition": "prostovoljno izpolnitev obveznosti vrnitve tujca v skladu s tem zakonom.",
+      "source_provision": "2"
+    },
+    {
+      "document_id": "ZAKO5761",
+      "term": "Nevarnost pobega pomeni, da obstajajo okoliščine, ki jih določa ta zakon, zaradi katerih se domneva, da bi se državljan tretje države, ki",
+      "definition": "v postopku vrnitve, vrnitvi lahko izognil.",
+      "source_provision": "2"
+    },
+    {
+      "document_id": "ZAKO5761",
+      "term": "Odstranitev",
+      "definition": "vrnitev tujca v državo izvora, državo tranzita, drugo tretjo državo, ki ga je pripravljena sprejeti, ali v državo članico Evropske unije, v kateri izpolnjuje pogoje za prebivanje.",
+      "source_provision": "2"
+    },
+    {
+      "document_id": "ZAKO5761",
+      "term": "Premestitev znotraj gospodarske družbe",
+      "definition": "začasno napotitev zaradi opravljanja poklicne dejavnosti ali usposabljanja tujca, ki ni državljan EU, iz gospodarske družbe s sedežem v tretji državi, ki ima pred in med premestitvijo s tujcem sklenjeno pogodbo o zaposlitvi, v povezano družbo s sedežem v Republiki Sloveniji ter kratkotrajno ali dolgotrajno premestitev med povezano družbo s sedežem v drugi državi članici Evropske unije in povezano družbo s sedežem v Republiki Sloveniji.",
+      "source_provision": "2"
+    },
+    {
+      "document_id": "ZAKO5761",
+      "term": "Oseba, premeščena znotraj gospodarske družbe,",
+      "definition": "tujec, ki ni državljan EU, ki prebiva in je zaposlen v tretji državi in je premeščen v povezano družbo s sedežem v Republiki Sloveniji.",
+      "source_provision": "2"
+    },
+    {
+      "document_id": "ZAKO5761",
+      "term": "Subjekt gostitelj",
+      "definition": "gospodarska družba s sedežem v Republiki Sloveniji, v katero je tujec premeščen v okviru premestitve znotraj povezanih družb.",
+      "source_provision": "2"
+    },
+    {
+      "document_id": "ZAKO5761",
+      "term": "Povezane družbe",
+      "definition": "gospodarske družbe, določene z zakonom, ki ureja zaposlovanje, samozaposlovanje in delo tujcev.",
+      "source_provision": "2"
+    },
+    {
+      "document_id": "ZAKO5761",
+      "term": "Vodstveni delavec",
+      "definition": "tujec, ki ni državljan EU, ki zaseda vodstveno mesto v subjektu gostitelju, za kar se šteje mesto, ki zahteva vodenje gospodarske družbe ali njenega dela in nadzor nad delom drugih nadzornih, strokovnih ali poslovodnih delavcev ter omogoča neposredni ali posredni vpliv na kadrovske zadeve.",
+      "source_provision": "2"
+    },
+    {
+      "document_id": "ZAKO5761",
+      "term": "Strokovnjak",
+      "definition": "tujec, ki ni državljan EU, s posebnim znanjem in poklicnimi izkušnjami, ki so bistvene na področju izvajanja registriranih dejavnosti v subjektu gostitelju, v katerega je premeščen.",
+      "source_provision": "2"
+    },
+    {
+      "document_id": "ZAKO5761",
+      "term": "Zaposleni na usposabljanju",
+      "definition": "tujec, ki ni državljan EU, z najmanj visokošolsko izobrazbo, ki je v subjekt gostitelja premeščen zaradi poklicnega razvoja ali plačanega usposabljanja v poslovnih tehnikah ali metodah.",
+      "source_provision": "2"
+    },
+    {
+      "document_id": "ZAKO5761",
+      "term": "Sezonski delavec",
+      "definition": "tujec, ki ni državljan EU, s stalnim prebivališčem v tretji državi, ki v Republiki Sloveniji opravlja sezonsko delo, kot je to opredeljeno v zakonu, ki ureja zaposlovanje, samozaposlovanje in delo tujcev.",
+      "source_provision": "2"
+    },
+    {
+      "document_id": "ZAKO5761",
+      "term": "Žrtev družinskega nasilja",
+      "definition": "tujec, ki ni državljan EU, in je žrtev nasilja v družini, kot ga opredeljuje zakon, ki ureja preprečevanje nasilja v družini.",
+      "source_provision": "2"
+    },
+    {
+      "document_id": "ZAKO5761",
+      "term": "Pripravnik",
+      "definition": "tujec, ki ni državljan EU, z doseženo stopnjo višješolske oziroma visokošolske izobrazbe oziroma tujec, ki je vključen v študijski program, ki mu omogoča pridobitev stopnje višješolske oziroma visokošolske izobrazbe, in je bil sprejet na ozemlje Republike Slovenije v okviru programa opravljanja pripravništva, da bi pridobil znanje, prakso in izkušnje v poklicnem okolju.",
+      "source_provision": "2"
+    },
+    {
+      "document_id": "ZAKO5761",
+      "term": "Prostovoljec",
+      "definition": "tujec, ki ni državljan EU in je bil sprejet na ozemlje Republike Slovenije z namenom opravljanja prostovoljskega dela, kot ga določa zakon, ki ureja prostovoljstvo.",
+      "source_provision": "2"
+    },
+    {
+      "document_id": "ZAKO5761",
+      "term": "Evropska potna listina za vrnitev nezakonito prebivajočih državljanov tretjih držav",
+      "definition": "potna listina, ki se izda državljanu tretje države, ki je v postopku odstranitve in si ne more ali si noče pridobiti potne ali potni listini enakovredne listine države, katere državljan je.",
+      "source_provision": "2"
+    },
+    {
+      "document_id": "ZAKO5761",
+      "term": "Nezakonito prebivanje",
+      "definition": "prisotnost tujca na ozemlju Republike Slovenije, ki ne izpolnjuje ali ne izpolnjuje več pogojev za vstop ali prebivanje v skladu z Zakonikom o schengenskih mejah oziroma določbami tega zakona.",
+      "source_provision": "2"
+    },
+    {
+      "document_id": "ZAKO5761",
+      "term": "Potovalna odobritev ima pomen, kot",
+      "definition": "določen z Uredbo 2018/1240/EU.",
+      "source_provision": "2"
+    },
+    {
+      "document_id": "ZAKO5761",
+      "term": "ETIAS",
+      "definition": "Evropski sistem za potovalne informacije in odobritve v skladu z Uredbo 2018/1240/EU.",
+      "source_provision": "2"
+    },
+    {
+      "document_id": "ZAKO5761",
+      "term": "in 45.a člena tega zakona. Dovoljenje za začasno prebivanje zaradi študija ali iz drugih utemeljenih razlogov se rezidentu za daljši čas izda in podaljšuje za čas, ki",
+      "definition": "potreben za izpolnitev namena bivanja in v skladu z veljavnostjo, opredeljeno v tem zakonu pri posamezni vrsti dovoljenja za začasno prebivanje. Družinskemu članu se dovoljenje za začasno prebivanje izda in podaljšuje za enako časovno obdobje kot rezidentu za daljši čas. Rezident za daljši čas lahko prebiva v Republiki Sloveniji samo v skladu z namenom, zaradi katerega mu je bilo izdano enotno dovoljenje oziroma dovoljenje za začasno prebivanje.\n(5) O izdanem enotnem dovoljenju zaradi zaposlitve ali dela, samozaposlitve, opravljanja sezonskega dela, opravljanja dela kot napoteni delavec ali za dnevnega delovnega migranta, dovoljenju za začasno ali stalno prebivanje, podaljšanju enotnega dovoljenja oziroma dovoljenja za začasno prebivanje, izdani odločbi ali sklepu ter odstranitvi rezidenta za daljši čas in njegovih družinskih članov mora pristojni organ preko nacionalne kontaktne točke obvestiti pristojni organ druge države članice Evropske unije, v kateri ima tujec status rezidenta za daljši čas.\n(6) Za družinske člane rezidenta za daljši čas, ki imajo v drugi državi članici Evropske unije dovoljenje za prebivanje, vendar z njim v državi članici Evropske unije, v kateri ima status rezidenta za daljši čas, niso prebivali v družinski skupnosti in za njegove družinske člane, ki v drugi državi članici Evropske unije nimajo dovoljenja za prebivanje, se glede izdaje dovoljenja za prebivanje zaradi združitve družine uporablja ureditev iz",
+      "source_provision": "48"
+    },
+    {
+      "document_id": "ZAKO5761",
+      "term": "člena tega zakona. Ta ureditev se uporablja tudi za družinske člane rezidenta za daljši čas, ki",
+      "definition": "njegovi družinski člani postali zatem, ko je zapustil državo članico Evropske unije, v kateri ima status rezidenta za daljši čas.\n(7) Tujcu, ki je slovenskega rodu do drugega kolena v ravni vrsti in ki želi prebivati v Republiki Sloveniji, se lahko izda dovoljenje za začasno prebivanje, če izpolnjuje pogoje iz tretjega odstavka",
+      "source_provision": "48"
+    },
+    {
+      "document_id": "ZAKO5761",
+      "term": "člena tega zakona.\n(8) Tujec, ki",
+      "definition": "slovenskega rodu do drugega kolena v ravni vrsti in ki zakonito prebiva v Republiki Sloveniji na podlagi veljavne osebne izkaznice oziroma veljavnega potnega lista, ali na podlagi veljavnega potnega lista in dovoljenja za prebivanje, ki ga izda druga država članica Evropske unije, ali na podlagi vizuma C, ki ga izda pristojni organ Republike Slovenije ali druga država pogodbenica Konvencije o izvajanju schengenskega sporazuma z dne",
+      "source_provision": "48"
+    }
   ]
 }

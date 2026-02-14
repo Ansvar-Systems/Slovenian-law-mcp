@@ -5403,5 +5403,145 @@
       "title": "(razveljavitev predpisov)",
       "content": "Ta zakon začne veljati petnajsti dan po objavi zakona v Uradnem listu Republike Slovenije, uporabljati pa se začne 1. oktobra 2008, razen naslednjih določb, ki se začnejo uporabljati z njegovo uveljavitvijo:\n-       1., 2. in 7. poglavja,\n-       točke drugega odstavka 108. člena, 110. člena in prvega odstavka 111. člena v obsegu, potrebnem za izpolnitev obveznosti iz drugega, četrtega in petega odstavka 497. člena tega zakona,\n-       114. člena, sedmega in osmega odstavka 122. člena in četrtega odstavka 413. člena v zvezi s 498. členom in\n-       10. poglavja tega zakona."
     }
+  ],
+  "definitions": [
+    {
+      "document_id": "ZAKO4735",
+      "term": "2 tega zakona",
+      "definition": "opredeljeni pojmi, uporabljeni v tem zakonu, če ni za posamezen pojem določeno, da je namen njegove opredelitve ožji.\n(2) V oddelku 8.1 tega zakona so opredeljeni pojmi, uporabljeni v",
+      "source_provision": "3"
+    },
+    {
+      "document_id": "ZAKO4735",
+      "term": "OZ",
+      "definition": "Obligacijski zakonik (Uradni list RS, št. 97/07 – uradno prečiščeno besedilo, 64/16 – odl. US in 20/18 – OROZ631),",
+      "source_provision": "4"
+    },
+    {
+      "document_id": "ZAKO4735",
+      "term": "ZD",
+      "definition": "Zakon o dedovanju (Uradni list SRS, št. 15/76, 23/78, Uradni list RS, št. 13/94 – ZN, 40/94 – odl. US, 117/00 – odl. US, 67/01, 83/01 – OZ, 73/04 – ZN-C, 31/13 – odl. US in 63/16),",
+      "source_provision": "4"
+    },
+    {
+      "document_id": "ZAKO4735",
+      "term": "ZGD-1",
+      "definition": "Zakon o gospodarskih družbah (Uradni list RS, št. 65/09 – uradno prečiščeno besedilo, 33/11, 91/11, 32/12, 57/12, 44/13 – odl. US, 82/13, 55/15, 15/17 in 22/19 – ZPosS,158/20 – ZIntPK-C in 18/21, 18/23 – ZDU-10 in 75/23),",
+      "source_provision": "4"
+    },
+    {
+      "document_id": "ZAKO4735",
+      "term": "ZIZ",
+      "definition": "Zakon o izvršbi in zavarovanju (Uradni list RS, št. 3/07 – uradno prečiščeno besedilo, 93/07, 37/08 – ZST-1, 45/08 – ZArbit, 28/09, 51/10, 26/11, 17/13 – odl. US, 45/14 – odl. US, 53/14, 58/14 – odl. US, 54/15, 76/15 – odl. US, 11/18, 53/19 – odl. US in 66/19 – ZDavP-2M, 23/20 – SPZ-B in 36/21, 81/22 in 81/22 – odl. US),",
+      "source_provision": "4"
+    },
+    {
+      "document_id": "ZAKO4735",
+      "term": "ZNVP",
+      "definition": "Zakon o nematerializiranih vrednostnih papirjih (Uradni list RS, št. 75/15, 74/16 – ORZNVP48, 5/17, 15/18 – odl. US in 43/19),",
+      "source_provision": "4"
+    },
+    {
+      "document_id": "ZAKO4735",
+      "term": "ZSReg",
+      "definition": "Zakon o sodnem registru (Uradni list RS, št. 54/07 – uradno prečiščeno besedilo, 65/08, 49/09, 82/13 – ZGD-1H, 17/15, 54/17 in 16/19 – ZNP-1 in 75/23),",
+      "source_provision": "4"
+    },
+    {
+      "document_id": "ZAKO4735",
+      "term": "ZZK-1",
+      "definition": "Zakon o zemljiški knjigi (Uradni list RS, št. 58/03, 37/08 – ZST-1, 45/08, 28/09, 25/11, 14/15 – ZUUJFO, 69/17, 11/18 – ZIZ-L in 16/19 – ZNP-1 in 121/21) in",
+      "source_provision": "4"
+    },
+    {
+      "document_id": "ZAKO4735",
+      "term": "SPZ",
+      "definition": "Stvarnopravni zakonik (Uradni list RS, št. 87/02, 91/13 in 23/20).",
+      "source_provision": "4"
+    },
+    {
+      "document_id": "ZAKO4735",
+      "term": "s predlogom",
+      "definition": "dovoljeno ponuditi prestrukturiranje zavarovanih terjatev z odložitvijo dospelosti teh terjatev oziroma znižanjem obrestnih mer, po katerih se od začetka postopka prisilne poravnave obrestuje glavnica zavarovane terjatve;",
+      "source_provision": "221.n"
+    },
+    {
+      "document_id": "ZAKO4735",
+      "term": "predmet predloga",
+      "definition": "lahko poleg prestrukturiranja iz",
+      "source_provision": "221.n"
+    },
+    {
+      "document_id": "ZAKO4735",
+      "term": "točke tega odstavka tudi preoblikovanje ločitvenih pravic, s katerimi",
+      "definition": "zavarovane te terjatve, v skupne ločitvene pravice v korist vseh imetnikov zavarovanih terjatev kot skupnosti.\n(2) V primeru iz prvega odstavka tega člena se o sprejetju prisilne poravnave glasuje v dveh razredih:",
+      "source_provision": "221.n"
+    },
+    {
+      "document_id": "ZAKO4735",
+      "term": "v razredu nezavarovanih upnikov glasujejo upniki glede nezavarovanih terjatev, za katere učinkuje prisilna poravnava, in",
+      "definition": "v tem razredu prisilna poravnava sprejeta, če je dosežena večina iz",
+      "source_provision": "221.n"
+    },
+    {
+      "document_id": "ZAKO4735",
+      "term": "člena tega zakona;\n3.     prisilna poravnava",
+      "definition": "sprejeta, če je sprejeta v obeh razredih;",
+      "source_provision": "221.n"
+    },
+    {
+      "document_id": "ZAKO4735",
+      "term": "če",
+      "definition": "predmet prisilne poravnave tudi prestrukturiranje iz",
+      "source_provision": "221.n"
+    },
+    {
+      "document_id": "ZAKO4735",
+      "term": "točke prvega odstavka tega člena, veljajo ta posebna pravila:\n-  prisilna poravnava s prestrukturiranjem iz 2. točke prvega odstavka tega člena",
+      "definition": "sprejeta v razredu ločitvenih upnikov, če zanjo glasujejo upniki, katerih skupni ponderirani zneski terjatev so najmanj 85/100 osnove iz tretjega odstavka",
+      "source_provision": "221.n"
+    },
+    {
+      "document_id": "ZAKO4735",
+      "term": "člena tega zakona;\n-  če ni dosežena večina iz prve alineje te točke in",
+      "definition": "dosežena večina iz",
+      "source_provision": "221.n"
+    },
+    {
+      "document_id": "ZAKO4735",
+      "term": "točke in tretje alineje 2. točke tega odstavka, velja, da",
+      "definition": "sprejeta prisilna poravnava glede preostalih načinov prestrukturiranja, razen prestrukturiranja iz",
+      "source_provision": "221.n"
+    },
+    {
+      "document_id": "ZAKO4735",
+      "term": "če",
+      "definition": "sprejeta prisilna poravnava, katere predmet je prestrukturiranje z izčlenitvijo iz prvega odstavka 221.o člena tega zakona, o imenovanjih iz šestega odstavka 221.u člena tega zakona odloča samo upniški odbor ločitvenih upnikov.\n(4) V primeru iz prvega odstavka tega člena veljajo tudi naslednja posebna pravila:",
+      "source_provision": "221.n"
+    },
+    {
+      "document_id": "ZAKO4735",
+      "term": "člena in 1. točke tretjega odstavka 221.p člena tega zakona vsebovati opozorilo, da bo prisilna poravnava, če bo potrjena, učinkovala tudi na zavarovane terjatve, in poziv upnikom, ki",
+      "definition": "imetniki zavarovanih terjatev, da prijavijo svoje terjatve v postopku prisilne poravnave;",
+      "source_provision": "221.n"
+    },
+    {
+      "document_id": "ZAKO4735",
+      "term": "drugi odstavek 145. člena, peti odstavek 146. člena in 185.a člen tega zakona se uporabljajo samo, če",
+      "definition": "za uspešno finančno prestrukturiranje dolžnika treba prestrukturirati zavarovane finančne terjatve v obsegu, ki je večji od obsega, v katerem za zavarovane finančne terjatve učinkuje potrjena prisilna poravnava po 221.t členu tega zakona;",
+      "source_provision": "221.n"
+    },
+    {
+      "document_id": "ZAKO4735",
+      "term": "če načrt finančnega prestrukturiranja, priložen dolžnikovemu predlogu za začetek postopka prisilne poravnave, ni vseboval predloga prisilne poravnave z vsebino iz prvega odstavka tega člena in",
+      "definition": "tak predlog vključen v načrt finančnega prestrukturiranja, priložen zahtevi za spremembo načrta finančnega prestrukturiranja: z objavo sklepa, s katerim dovoli spremembo načrta finančnega prestrukturiranja,",
+      "source_provision": "221.n"
+    },
+    {
+      "document_id": "ZAKO4735",
+      "term": "če",
+      "definition": "predlog prisilne poravnave z vsebino iz prvega odstavka tega člena vključen v načrt finančnega prestrukturiranja, priložen naknadnemu predlogu prisilne poravnave: z objavo sklepa, s katerim ugotovi, da so izpolnjeni pogoji za glasovanje o tem naknadnem predlogu prisilne poravnave.\n(6) Za poseben oklic zavarovanim upnikom se smiselno uporabljajo",
+      "source_provision": "221.n"
+    }
   ]
 }

@@ -1561,5 +1561,109 @@
       "article": "251",
       "content": "Ta zakon začne veljati naslednji dan po objavi v Uradnem listu Republike Slovenije.«.\n»… se uporabljajo do določitve načina razpolaganja z darili iz sedmega odstavka 30. člena zakona, kolikor niso v nasprotju s tem zakonom«;\nTa zakon začne veljati petnajsti dan po objavi v Uradnem listu Republike Slovenije.«.\nTa zakon začne veljati naslednji dan po objavi v Uradnem listu Republike Slovenije.«.\n(1) Ta zakon začne veljati petnajsti dan po objavi v Uradnem listu Republike Slovenije.\n(2) Določbe 16., 20., 21., 22. in 23. člena tega zakona se začnejo uporabljati šest mesecev po objavi v Uradnem listu Republike Slovenije.«."
     }
+  ],
+  "definitions": [
+    {
+      "document_id": "ZAKO3177",
+      "term": "državni organ",
+      "definition": "organ državne uprave in drug državni organ;",
+      "source_provision": "6"
+    },
+    {
+      "document_id": "ZAKO3177",
+      "term": "organ državne uprave",
+      "definition": "ministrstvo, organ v sestavi ministrstva, vladna služba in upravna enota;",
+      "source_provision": "6"
+    },
+    {
+      "document_id": "ZAKO3177",
+      "term": "drug državni organ",
+      "definition": "Državni zbor, Državni svet, Ustavno sodišče, Računsko sodišče, Varuh človekovih pravic, pravosodni organ in drug državni organ, ki ni organ državne uprave;",
+      "source_provision": "6"
+    },
+    {
+      "document_id": "ZAKO3177",
+      "term": "pravosodni organ",
+      "definition": "sodišče, državno tožilstvo in državno pravobranilstvo;",
+      "source_provision": "6"
+    },
+    {
+      "document_id": "ZAKO3177",
+      "term": "lokalna skupnost",
+      "definition": "občina ali pokrajina;",
+      "source_provision": "6"
+    },
+    {
+      "document_id": "ZAKO3177",
+      "term": "sistemizacija delovnih mest",
+      "definition": "akt, ki določa delovna mesta, potrebna za izvajanje nalog državnega organa, uprave lokalne skupnosti oziroma osebe javnega prava, z opisom pogojev in nalog na posameznih delovnih mestih;",
+      "source_provision": "6"
+    },
+    {
+      "document_id": "ZAKO3177",
+      "term": "delovno mesto",
+      "definition": "najmanjša enota organizacije državnega organa, uprave lokalne skupnosti oziroma osebe javnega prava;",
+      "source_provision": "6"
+    },
+    {
+      "document_id": "ZAKO3177",
+      "term": "položaj",
+      "definition": "delovno mesto z vodstvenimi pooblastili in odgovornostmi;",
+      "source_provision": "6"
+    },
+    {
+      "document_id": "ZAKO3177",
+      "term": "predstojnik",
+      "definition": "oseba, ki vodi delo državnega organa oziroma uprave lokalne skupnosti; predstojnik občinske uprave je župan;",
+      "source_provision": "6"
+    },
+    {
+      "document_id": "ZAKO3177",
+      "term": "delovna doba",
+      "definition": "doba v delovnem razmerju;",
+      "source_provision": "6"
+    },
+    {
+      "document_id": "ZAKO3177",
+      "term": "službena doba",
+      "definition": "delovna doba v statusu javnega uslužbenca v državnih organih in upravah lokalnih skupnosti;",
+      "source_provision": "6"
+    },
+    {
+      "document_id": "ZAKO3177",
+      "term": "izobrazba",
+      "definition": "javno veljavna izobrazba;",
+      "source_provision": "6"
+    },
+    {
+      "document_id": "ZAKO3177",
+      "term": "delovne izkušnje",
+      "definition": "delovna doba na delovnem mestu, za katero se zahteva ista stopnja izobrazbe in čas pripravništva v isti stopnji izobrazbe, ne glede na to, ali je bilo delovno razmerje sklenjeno oziroma pripravništvo opravljeno pri istem ali pri drugem delodajalcu. Za delovne izkušnje se štejejo tudi delovne izkušnje, ki jih je javni uslužbenec pridobil z opravljanjem del na delovnem mestu, za katero se zahteva za eno stopnjo nižja izobrazba, razen pripravništva v eno stopnjo nižji izobrazbi. Kot delovne izkušnje se upošteva tudi delo na enaki stopnji zahtevnosti, kot je delovno mesto, za katero oseba kandidira. Delovne izkušnje se dokazujejo z verodostojnimi listinami, iz katerih sta razvidna čas opravljanja dela in stopnja izobrazbe;",
+      "source_provision": "6"
+    },
+    {
+      "document_id": "ZAKO3177",
+      "term": "strokovno znanje",
+      "definition": "izobrazba in druga funkcionalna ter specialna znanja;",
+      "source_provision": "6"
+    },
+    {
+      "document_id": "ZAKO3177",
+      "term": "strokovna usposobljenost",
+      "definition": "strokovno znanje in osebne sposobnosti za opravljanje dela;",
+      "source_provision": "6"
+    },
+    {
+      "document_id": "ZAKO3177",
+      "term": "javne naloge",
+      "definition": "naloge, ki sodijo v delovno področje državnega organa ali organa lokalne skupnosti oziroma naloge, za katere je bila ustanovljena oseba javnega prava;",
+      "source_provision": "6"
+    },
+    {
+      "document_id": "ZAKO3177",
+      "term": "spremljajoča dela",
+      "definition": "dela na področju kadrovskega in materialno-finančnega poslovanja, tehnična in podobna dela ter druga dela, ki jih je potrebno opravljati zaradi nemotenega izvajanja javnih nalog organa oziroma osebe javnega prava.",
+      "source_provision": "6"
+    }
   ]
 }

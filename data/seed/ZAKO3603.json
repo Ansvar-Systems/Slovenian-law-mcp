@@ -2009,5 +2009,67 @@
       "title": "Uveljavitev zakona",
       "content": "Ta zakon začne veljati devetdeseti dan po objavi v Uradnem listu Republike Slovenije."
     }
+  ],
+  "definitions": [
+    {
+      "document_id": "ZAKO3603",
+      "term": "kataster",
+      "definition": "zemljiški kataster, kataster stavb ali druga evidenca o nepremičninah, ki je po zakonu, ki ureja evidentiranje nepremičnin, temeljna evidenca podatkov o zemljiških parcelah ali stavbah in posameznih delih stavb,",
+      "source_provision": "3"
+    },
+    {
+      "document_id": "ZAKO3603",
+      "term": "zemljiška parcela",
+      "definition": "prostorsko odmerjen del zemeljske površine skupaj z vsemi sestavinami,",
+      "source_provision": "3"
+    },
+    {
+      "document_id": "ZAKO3603",
+      "term": "pojma stavba in posamezni del stavbe imata enak pomen kot po zakonu, ki ureja evidentiranje nepremičnin,\n4.      identifikacijski znak zemljiške parcele",
+      "definition": "identifikacijska oznaka, kot je vpisana v zemljiškem katastru,",
+      "source_provision": "3"
+    },
+    {
+      "document_id": "ZAKO3603",
+      "term": "identifikacijski znak stavbe ali njenega posameznega dela",
+      "definition": "identifikacijska oznaka, kot je vpisana v katastru stavb,",
+      "source_provision": "3"
+    },
+    {
+      "document_id": "ZAKO3603",
+      "term": "geodetska uprava",
+      "definition": "državni organ, ki je po zakonu, ki ureja evidentiranje nepremičnin, pristojen za vodenje in vzdrževanje katastra,",
+      "source_provision": "3"
+    },
+    {
+      "document_id": "ZAKO3603",
+      "term": "zemljiškoknjižno dovolilo, glavna nepremičnina in pomožna nepremičnina",
+      "definition": "enako kakor v Stvarnopravnem zakoniku (Uradni list RS, št. 87/02, 91/13 in 23/20, v nadaljnjem besedilu: SPZ).\n(2) Pojmi, uporabljeni v tem zakonu v zvezi z etažno lastnino, pomenijo:",
+      "source_provision": "3"
+    },
+    {
+      "document_id": "ZAKO3603",
+      "term": "stavba v etažni lastnini",
+      "definition": "stavba, katere deli so predmet etažne lastnine,",
+      "source_provision": "3"
+    },
+    {
+      "document_id": "ZAKO3603",
+      "term": "posamezni del v etažni lastnini",
+      "definition": "posamezni del stavbe v etažni lastnini, ki je predmet lastninske pravice v dobro določene osebe ali oseb (v nadaljnjem besedilu: etažni lastnik), vključene v etažno lastnino,",
+      "source_provision": "3"
+    },
+    {
+      "document_id": "ZAKO3603",
+      "term": "splošni skupni del stavbe v etažni lastnini",
+      "definition": "zemljiška parcela ali posamezni del stavbe, ki je predmet solastnine, vključene v etažno lastnino v dobro vsakokratnih etažnih lastnikov vseh posameznih delov v etažni lastnini v posamezni stavbi v etažni lastnini,",
+      "source_provision": "3"
+    },
+    {
+      "document_id": "ZAKO3603",
+      "term": "posebni skupni del stavbe v etažni lastnini",
+      "definition": "zemljiška parcela ali posamezni del stavbe, ki je predmet solastnine, vključene v etažno lastnino v dobro vsakokratnih etažnih lastnikov enega ali več, vendar ne vseh posameznih delov v etažni lastnini v posamezni stavbi v etažni lastnini.\n(3) Kadar se ta zakon sklicuje na SPZ, se določbe SPZ uporabljajo v njihovem vsakokrat veljavnem besedilu.\n(4) Kadar SPZ uporablja pojem zgradba, se pri uporabi določb tega zakona šteje, da uporablja pojem objekt.",
+      "source_provision": "3"
+    }
   ]
 }

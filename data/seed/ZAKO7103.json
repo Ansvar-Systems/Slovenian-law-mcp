@@ -1147,5 +1147,181 @@
       "title": "(prenehanje veljavnosti)",
       "content": "Postopki, ki so se začeli pred začetkom uporabe tega zakona, se nadaljujejo in končajo po določbah Zakona o mednarodni zaščiti (Uradni list RS, št. 16/17 – uradno prečiščeno besedilo).\nVlada in minister, pristojen za notranje zadeve, uskladita predpise, izdane na podlagi Zakona o mednarodni zaščiti (Uradni list RS, št. 16/17 – uradno prečiščeno besedilo), z določbami tega zakona v šestih mesecih od njegove uveljavitve.\n(1) Ta zakon začne veljati trideseti dan po objavi v Uradnem listu Republike Slovenije, uporabljati pa se začne šest mesecev po njegovi uveljavitvi.\n(2) Do začetka uporabe tega zakona se uporabljajo določbe Zakona o mednarodni zaščiti (Uradni list RS, št. 16/17 – uradno prečiščeno besedilo).«.\nTa zakon začne veljati naslednji dan po objavi v Uradnem listu Republike Slovenije, uporabljati pa se začne tri mesece po njegovi uveljavitvi, razen nove 20. točke drugega odstavka in nove 9. točke tretjega odstavka 5. člena ter spremenjene 8. točke drugega odstavka 6. člena zakona, ki se začnejo uporabljati z dnem uveljavitve tega zakona. Do začetka uporabe tega zakona, razen spremenjenih in dopolnjenih določb iz prejšnjega stavka, se uporabljajo določbe Zakona o zaposlovanju, samozaposlovanju in delu tujcev (Uradni list RS, št. 91/21 – uradno prečiščeno besedilo).«."
     }
+  ],
+  "definitions": [
+    {
+      "document_id": "ZAKO7103",
+      "term": "mednarodna zaščita",
+      "definition": "status begunca in status subsidiarne zaščite;",
+      "source_provision": "2"
+    },
+    {
+      "document_id": "ZAKO7103",
+      "term": "oseba, ki ji",
+      "definition": "priznana mednarodna zaščita«, je oseba, ki ji je priznan status begunca ali status subsidiarne zaščite;",
+      "source_provision": "2"
+    },
+    {
+      "document_id": "ZAKO7103",
+      "term": "begunec ali begunka (v nadaljnjem besedilu: begunec)",
+      "definition": "državljan tretje države ali oseba brez državljanstva, ki ji je priznana zaščita iz drugega odstavka",
+      "source_provision": "2"
+    },
+    {
+      "document_id": "ZAKO7103",
+      "term": "oseba s subsidiarno zaščito",
+      "definition": "državljan tretje države ali oseba brez državljanstva, ki ji je priznana zaščita iz tretjega odstavka",
+      "source_provision": "2"
+    },
+    {
+      "document_id": "ZAKO7103",
+      "term": "Ženevska konvencija",
+      "definition": "Konvencija o statusu beguncev, podpisana v Ženevi",
+      "source_provision": "2"
+    },
+    {
+      "document_id": "ZAKO7103",
+      "term": "prošnja",
+      "definition": "prošnja za mednarodno zaščito, s katero državljan tretje države ali oseba brez državljanstva zaprosi za zaščito po tem zakonu;",
+      "source_provision": "2"
+    },
+    {
+      "document_id": "ZAKO7103",
+      "term": "pristojni organ",
+      "definition": "ministrstvo, pristojno za notranje zadeve, ki po tem zakonu vodi in odloča v postopkih mednarodne zaščite;",
+      "source_provision": "2"
+    },
+    {
+      "document_id": "ZAKO7103",
+      "term": "minister ali ministrica (v nadaljnjem besedilu: minister)",
+      "definition": "minister, pristojen za notranje zadeve;",
+      "source_provision": "2"
+    },
+    {
+      "document_id": "ZAKO7103",
+      "term": "uradna oseba",
+      "definition": "oseba, ki je zaposlena pri pristojnem organu;",
+      "source_provision": "2"
+    },
+    {
+      "document_id": "ZAKO7103",
+      "term": "vlagatelj namere",
+      "definition": "državljan tretje države ali oseba brez državljanstva, ki je v Republiki Sloveniji in je pred uradnimi organi izrazil namen podati prošnjo za mednarodno zaščito;",
+      "source_provision": "2"
+    },
+    {
+      "document_id": "ZAKO7103",
+      "term": "prosilec ali prosilka (v nadaljnjem besedilu: prosilec)",
+      "definition": "prosilec za mednarodno zaščito ali prosilka za mednarodno zaščito, ki je državljan tretje države ali oseba brez državljanstva in ki je v Republiki Sloveniji podal prošnjo za mednarodno zaščito;",
+      "source_provision": "2"
+    },
+    {
+      "document_id": "ZAKO7103",
+      "term": "oseba",
+      "definition": "stranka v postopkih po tem zakonu;",
+      "source_provision": "2"
+    },
+    {
+      "document_id": "ZAKO7103",
+      "term": "tretja država",
+      "definition": "država, ki ni članica Evropske unije;",
+      "source_provision": "2"
+    },
+    {
+      "document_id": "ZAKO7103",
+      "term": "državljan Evropske unije ali državljanka Evropske unije (v nadaljnjem besedilu: državljan Evropske unije)",
+      "definition": "oseba, ki ima državljanstvo vsaj ene od držav članic Evropske unije;",
+      "source_provision": "2"
+    },
+    {
+      "document_id": "ZAKO7103",
+      "term": "tujec ali tujka (v nadaljnjem besedilu: tujec)",
+      "definition": "oseba, kot jo opredeljuje zakon, ki ureja vstop, zapustitev in bivanje tujcev v Republiki Sloveniji, razen državljanov Evropske unije, prosilcev in oseb s priznano mednarodno zaščito;",
+      "source_provision": "2"
+    },
+    {
+      "document_id": "ZAKO7103",
+      "term": "oseba brez državljanstva",
+      "definition": "oseba, ki je nobena država v skladu s svojo zakonodajo ne priznava za svojega državljana;",
+      "source_provision": "2"
+    },
+    {
+      "document_id": "ZAKO7103",
+      "term": "izvorna država",
+      "definition": "država, katere državljanstvo ima državljan tretje države, ali država, v kateri je oseba brez državljanstva imela svoje običajno prebivališče;",
+      "source_provision": "2"
+    },
+    {
+      "document_id": "ZAKO7103",
+      "term": "običajno prebivališče",
+      "definition": "prebivališče, kjer oseba živi vsaj eno leto, ima središče svojih življenjskih interesov, tam preživlja večino svojega nočnega počitka in ima tam shranjene svoje osebne stvari;",
+      "source_provision": "2"
+    },
+    {
+      "document_id": "ZAKO7103",
+      "term": "Visoki komisariat Združenih narodov za begunce (UNHCR) (v nadaljnjem besedilu: Visoki komisariat)",
+      "definition": "medvladna organizacija, ki je bila ustanovljena leta 1950 z namenom zagotavljanja zaščite in iskanja trajnih rešitev za begunce;",
+      "source_provision": "2"
+    },
+    {
+      "document_id": "ZAKO7103",
+      "term": "mladoletnik ali mladoletnica (v nadaljnjem besedilu: mladoletnik)",
+      "definition": "državljan tretje države ali oseba brez državljanstva, mlajša od 18 let;",
+      "source_provision": "2"
+    },
+    {
+      "document_id": "ZAKO7103",
+      "term": "mladoletnik brez spremstva ali mladoletnica brez spremstva (v nadaljnjem besedilu: mladoletnik brez spremstva)",
+      "definition": "mladoletnik, ki je na ozemlju Republike Slovenije brez staršev ali zakonitih zastopnikov;",
+      "source_provision": "2"
+    },
+    {
+      "document_id": "ZAKO7103",
+      "term": "ranljiva oseba s posebnimi potrebami",
+      "definition": "zlasti mladoletnik, mladoletnik brez spremstva, invalidna oseba, starejša oseba, nosečnica, starš samohranilec z mladoletnim otrokom, žrtev trgovanja z ljudmi, oseba z motnjami v duševnem razvoju, oseba s težavami v duševnem zdravju in žrtev posilstva, mučenja ali drugih težjih oblik psihičnega, fizičnega in spolnega nasilja;",
+      "source_provision": "2"
+    },
+    {
+      "document_id": "ZAKO7103",
+      "term": "prosilec s posebnimi potrebami glede sprejema ali prosilka s posebnimi potrebami glede sprejema (v nadaljnjem besedilu: prosilec s posebnimi potrebami glede sprejema)",
+      "definition": "ranljiva oseba s posebnimi potrebami, ki potrebuje posebna jamstva, da bi lahko uveljavljala pravice in izpolnjevala obveznosti glede sprejema, določene v tem zakonu;",
+      "source_provision": "2"
+    },
+    {
+      "document_id": "ZAKO7103",
+      "term": "družinski člani prosilca",
+      "definition": "državljani tretje države ali osebe brez državljanstva, ki so skupaj s prosilcem v Republiki Sloveniji in so člani družine, ki je obstajala že pred prihodom v Republiko Slovenijo. To so:\n-  zakonec prosilca, registrirani partner ali partner, s katerim prosilec živi v dalj časa trajajoči življenjski skupnosti, pri čemer se v poligamni zvezi za družinskega člana šteje le ena oseba, in sicer tista, ki jo določi prosilec,\n-  mladoletni otroci prosilca ali osebe iz prejšnje alineje, če so neporočeni, ne glede na to, ali so bili rojeni v zakonski ali zunajzakonski skupnosti ali posvojeni,\n-  otrok prosilca, rojen v Republiki Sloveniji,\n-  oče, mati ali druga odrasla oseba, ki je za prosilca odgovorna, če je prosilec mladoleten in neporočen,\n-  mladoletni sorojenec prosilca, če je neporočen,\n-  drug sorodnik prosilca, če med njima obstoji življenjska skupnost, ki je v bistvenem podobna primarni družini oziroma ima enako funkcijo, kot jo ima družina, kar pomeni predvsem pristne družinske vezi med družinskimi člani, fizično skrb, varstvo, zaščito, čustveno podporo in finančno odvisnost;",
+      "source_provision": "2"
+    },
+    {
+      "document_id": "ZAKO7103",
+      "term": "svetovalec za begunce ali svetovalka za begunce (v nadaljnjem besedilu: svetovalec za begunce)",
+      "definition": "oseba, ki je imenovana za svetovalca za begunce po določbah tega zakona;",
+      "source_provision": "2"
+    },
+    {
+      "document_id": "ZAKO7103",
+      "term": "azilni dom ali njegova izpostava",
+      "definition": "objekt urada Vlade Republike Slovenije, pristojnega za oskrbo migrantov (v nadaljnjem besedilu: urad), namenjen nastanitvi prosilcev za mednarodno zaščito;",
+      "source_provision": "2"
+    },
+    {
+      "document_id": "ZAKO7103",
+      "term": "integracijska hiša",
+      "definition": "objekt urada, namenjen nastanitvi oseb s priznano mednarodno zaščito;",
+      "source_provision": "2"
+    },
+    {
+      "document_id": "ZAKO7103",
+      "term": "hudo kaznivo dejanje nepolitične narave",
+      "definition": "kaznivo dejanje, za katero je v Republiki Sloveniji predpisana kazen zapora, daljša od treh let, predvsem pa takšno kaznivo dejanje zoper življenje in telo, spolno nedotakljivost, zdravje in premoženje;",
+      "source_provision": "2"
+    },
+    {
+      "document_id": "ZAKO7103",
+      "term": "hudo kaznivo dejanje",
+      "definition": "kaznivo dejanje, za katero je v Republiki Sloveniji predpisana kazen zapora najmanj treh let.",
+      "source_provision": "2"
+    }
   ]
 }

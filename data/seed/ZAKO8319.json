@@ -3866,5 +3866,499 @@
       "title": "(sprememba predpisa)",
       "content": "Ta zakon začne veljati petnajsti dan po objavi v Uradnem listu Republike Slovenije."
     }
+  ],
+  "definitions": [
+    {
+      "document_id": "ZAKO8319",
+      "term": "ZFK",
+      "definition": "zakon, ki ureja finančne konglomerate;",
+      "source_provision": "3"
+    },
+    {
+      "document_id": "ZAKO8319",
+      "term": "ZGD-1",
+      "definition": "zakon, ki ureja gospodarske družbe;",
+      "source_provision": "3"
+    },
+    {
+      "document_id": "ZAKO8319",
+      "term": "ZIN",
+      "definition": "zakon, ki ureja inšpekcijski nadzor;",
+      "source_provision": "3"
+    },
+    {
+      "document_id": "ZAKO8319",
+      "term": "ZPre-1",
+      "definition": "zakon, ki ureja prevzeme;",
+      "source_provision": "3"
+    },
+    {
+      "document_id": "ZAKO8319",
+      "term": "ZSDU",
+      "definition": "zakon, ki ureja sodelovanje delavcev pri upravljanju;",
+      "source_provision": "3"
+    },
+    {
+      "document_id": "ZAKO8319",
+      "term": "ZTFI-1",
+      "definition": "zakon, ki ureja trg finančnih instrumentov;",
+      "source_provision": "3"
+    },
+    {
+      "document_id": "ZAKO8319",
+      "term": "ZUP",
+      "definition": "zakon, ki ureja splošni upravni postopek;",
+      "source_provision": "3"
+    },
+    {
+      "document_id": "ZAKO8319",
+      "term": "ZUS-1",
+      "definition": "zakon, ki ureja upravni spor.\n(2) V tem zakonu so za akte Evropske unije uporabljeni naslednji skrajšani naslovi:",
+      "source_provision": "3"
+    },
+    {
+      "document_id": "ZAKO8319",
+      "term": "Direktiva 2009/65/ES",
+      "definition": "Direktiva 2009/65/ES Evropskega parlamenta in Sveta z dne",
+      "source_provision": "3"
+    },
+    {
+      "document_id": "ZAKO8319",
+      "term": "3. 2024);\n2.      Direktiva 2009/138/ES",
+      "definition": "Direktiva 2009/138/ES Evropskega parlamenta in Sveta z dne",
+      "source_provision": "3"
+    },
+    {
+      "document_id": "ZAKO8319",
+      "term": "točke prvega odstavka 4. člena Uredbe 575/2013/EU s sedežem v Republiki Sloveniji, ki",
+      "definition": "pridobila dovoljenje za opravljanje investicijskih storitev in poslov iz",
+      "source_provision": "4"
+    },
+    {
+      "document_id": "ZAKO8319",
+      "term": "člena tega zakona šteje kot posebna finančna institucija in za namene oddelka 10.3. tega zakona šteje kot finančna institucija.\n(9) Banke se lahko združujejo v bančno interesno združenje, ki",
+      "definition": "ustanovljeno kot gospodarsko interesno združenje po ZGD-",
+      "source_provision": "4"
+    },
+    {
+      "document_id": "ZAKO8319",
+      "term": "bančna skupina",
+      "definition": "skupino, v kateri ima vsaj ena družba položaj:\n-  kreditne institucije, ki je nadrejena ali udeležena v vsaj eni drugi kreditni ali finančni instituciji;\n-  kreditne institucije, ki je z drugo kreditno ali finančno institucijo povezana s skupnim vodenjem;\n-  nadrejenega finančnega holdinga, ki mu je podrejena vsaj ena kreditna institucija; ali\n-  nadrejenega mešanega finančnega holdinga, ki mu je podrejena vsaj ena kreditna institucija;",
+      "source_provision": "7"
+    },
+    {
+      "document_id": "ZAKO8319",
+      "term": "dejanski stroški",
+      "definition": "stroški, katerih višina ne presega stroškov, ki nastanejo oziroma je utemeljeno pričakovati, da bodo nastali zaradi opravljanja storitve ali dejavnosti;",
+      "source_provision": "7"
+    },
+    {
+      "document_id": "ZAKO8319",
+      "term": "država članica",
+      "definition": "državo članico Evropske unije ali državo podpisnico Sporazuma o ustanovitvi Evropskega gospodarskega prostora (UL L št. 1 z dne",
+      "source_provision": "7"
+    },
+    {
+      "document_id": "ZAKO8319",
+      "term": "EU nadrejena družba",
+      "definition": "EU nadrejena institucija, EU nadrejeni finančni holding ali EU nadrejeni mešani finančni holding;",
+      "source_provision": "7"
+    },
+    {
+      "document_id": "ZAKO8319",
+      "term": "Evropski bančni odbor",
+      "definition": "Evropski odbor za bančništvo, ki je bil ustanovljen s Sklepom Komisije z dne",
+      "source_provision": "7"
+    },
+    {
+      "document_id": "ZAKO8319",
+      "term": "Evropski odbor za sistemska tveganja",
+      "definition": "Evropski odbor za sistemska tveganja, ustanovljen z Uredbo 1092/2010/EU;",
+      "source_provision": "7"
+    },
+    {
+      "document_id": "ZAKO8319",
+      "term": "Evropski bančni organ",
+      "definition": "Evropski bančni organ, ustanovljen z Uredbo 1093/2010/EU;",
+      "source_provision": "7"
+    },
+    {
+      "document_id": "ZAKO8319",
+      "term": "Evropski organ za vrednostne papirje in trge",
+      "definition": "Evropski organ za vrednostne papirje in trge, ustanovljen z Uredbo 1095/2010/EU Evropskega parlamenta in Sveta z dne",
+      "source_provision": "7"
+    },
+    {
+      "document_id": "ZAKO8319",
+      "term": "Evropski organ za zavarovanja in poklicne pokojnine",
+      "definition": "Evropski organ za zavarovanja in poklicne pokojnine, ki je bil ustanovljen z Uredbo 1094/2010/EU Evropskega parlamenta in Sveta z dne",
+      "source_provision": "7"
+    },
+    {
+      "document_id": "ZAKO8319",
+      "term": "evropski nadzorni organ",
+      "definition": "Evropski bančni organ, Evropski organ za vrednostne papirje in trge ali Evropski organ za zavarovanja in poklicne pokojnine;",
+      "source_provision": "7"
+    },
+    {
+      "document_id": "ZAKO8319",
+      "term": "finančna pogodba",
+      "definition": "katerokoli od naslednjih pogodb ali sporazumov:\n-  pogodbe o vrednostnih papirjih, vključno s pogodbami za nakup, prodajo ali posojo vrednostnega papirja, skupine ali indeksa vrednostnih papirjev, opcijami na vrednostni papir ali skupino ali indeks vrednostnih papirjev, posli začasne prodaje ali začasnega odkupa takšnega vrednostnega papirja, skupine ali indeksa,\n-  pogodbe o blagu, vključno s pogodbami za nakup, prodajo ali posojo blaga ali skupine ali indeksa blaga z dobavo v prihodnosti, opcijami na blago ali skupino ali indeks blaga, posli začasne prodaje oziroma začasnega odkupa takšnega blaga, skupine ali indeksa,\n-  terminske pogodbe in terminske dogovore, vključno s pogodbami (ki niso pogodbe o blagu iz prejšnje alineje) za nakup, prodajo ali prenos blaga ali premoženja druge vrste, storitve, pravice ali poslovnega deleža po določeni ceni na datum v prihodnosti,\n-  sporazume o zamenjavah, vključno z zamenjavami in opcijami v zvezi z obrestnimi merami, sporazumi o promptnem ali drugem menjalnem tečaju, valuto, delniškim indeksom ali lastniškim instrumentom, dolžniškim indeksom ali dolžniškim instrumentom, blagovnimi indeksi ali blagom, vremenom, izpusti ali inflacijo, zamenjavami celotnih donosov, zamenjavami kreditnih razmikov ali kreditnimi zamenjavami, ter drugimi podobnimi sporazumi ali transakcijami, s katerim se periodično trguje na trgih zamenjav ali izvedenih finančnih instrumentov,\n-  sporazume o medbančnem zadolževanju, kjer je rok vračila največ tri mesece,\n-  okvirne sporazume za pogodbe ali sporazume iz prve do pete alineje te točke;",
+      "source_provision": "7"
+    },
+    {
+      "document_id": "ZAKO8319",
+      "term": "izredna javnofinančna pomoč",
+      "definition": "državno pomoč v smislu prvega odstavka",
+      "source_provision": "7"
+    },
+    {
+      "document_id": "ZAKO8319",
+      "term": "Komisija",
+      "definition": "Evropsko komisijo;",
+      "source_provision": "7"
+    },
+    {
+      "document_id": "ZAKO8319",
+      "term": "majhna in nekompleksna banka",
+      "definition": "banko, kakor je opredeljena v",
+      "source_provision": "7"
+    },
+    {
+      "document_id": "ZAKO8319",
+      "term": "točki prvega odstavka 4. člena Uredbe 575/2013/EU in za katero velja, da",
+      "definition": "skupna vrednost sredstev enaka 5 milijardam eurov ali manjša;",
+      "source_provision": "7"
+    },
+    {
+      "document_id": "ZAKO8319",
+      "term": "nadzorni organ",
+      "definition": "nadzorni organ, ki je pristojen za nadzor nad subjekti finančnega sektorja, in ni pristojni organ, in na območju Republike Slovenije pomeni agencijo, pristojno za zavarovalni nadzor ter agencijo, pristojno za finančne trge;",
+      "source_provision": "7"
+    },
+    {
+      "document_id": "ZAKO8319",
+      "term": "notranji pristop",
+      "definition": "pristop na podlagi notranjih bonitetnih ocen iz prvega odstavka",
+      "source_provision": "7"
+    },
+    {
+      "document_id": "ZAKO8319",
+      "term": "Odbor za finančno stabilnost",
+      "definition": "Odbor za finančno stabilnost, ustanovljen na podlagi zakona, ki ureja makrobonitetni nadzor finančnega sistema;",
+      "source_provision": "7"
+    },
+    {
+      "document_id": "ZAKO8319",
+      "term": "organ nadzora",
+      "definition": "v dvotirnem sistemu upravljanja nadzorni svet banke in v enotirnem sistemu upravljanja neizvršne člane upravnega odbora banke, ki so v skladu s tem zakonom pooblaščeni za nadzorovanje in spremljanje vodenja poslov banke;",
+      "source_provision": "7"
+    },
+    {
+      "document_id": "ZAKO8319",
+      "term": "organ vodenja",
+      "definition": "v dvotirnem sistemu upravljanja upravo banke in v enotirnem sistemu upravljanja izvršne direktorje banke, ki so v skladu s tem zakonom pooblaščeni za vodenje poslov banke;",
+      "source_provision": "7"
+    },
+    {
+      "document_id": "ZAKO8319",
+      "term": "organ za reševanje",
+      "definition": "organ za reševanje, kot je opredeljen v zakonu, ki ureja reševanje in prisilno prenehanje bank, in na območju Republike Slovenije pomeni Banko Slovenije ali Enotni odbor za reševanje;",
+      "source_provision": "7"
+    },
+    {
+      "document_id": "ZAKO8319",
+      "term": "ožji družinski član",
+      "definition": "osebo, ki je v razmerju do druge osebe:\n-  njen zakonec ali oseba, s katero posameznik živi v dalj časa trajajoči življenjski skupnosti, ki ima po zakonu, ki ureja zakonsko zvezo in družinska razmerja, enake pravne posledice kot zakonska zveza,\n-  otrok ali posvojenec te osebe ali osebe iz prejšnje alineje,\n-  druga oseba, ki ji je dodeljena v skrbništvo, ali\n-  starš ali posvojitelj te osebe ali osebe iz prve alineje te točke;",
+      "source_provision": "7"
+    },
+    {
+      "document_id": "ZAKO8319",
+      "term": "politika prejemkov, nevtralna glede na spol",
+      "definition": "politiko prejemkov, ki temelji na načelu enakega plačila za enako delo ali delo enake vrednosti za zaposlene moške in ženske;",
+      "source_provision": "7"
+    },
+    {
+      "document_id": "ZAKO8319",
+      "term": "pomembna banka",
+      "definition": "banko, ki jo kot pomembno opredeli Banka Slovenije na podlagi tega zakona v zvezi z uveljavljanem zahtev, ki jih za pomembne banke določa ta zakon ali Uredba 575/2013/EU;",
+      "source_provision": "7"
+    },
+    {
+      "document_id": "ZAKO8319",
+      "term": "pristojni organ",
+      "definition": "pristojni organ, kakor je opredeljen v",
+      "source_provision": "7"
+    },
+    {
+      "document_id": "ZAKO8319",
+      "term": "točki prvega odstavka 4. člena Uredbe 575/2013/EU, ter Evropsko centralno banko, kadar",
+      "definition": "pristojna za izvajanje pooblastil in nalog bonitetnega nadzora nad kreditnimi institucijami v skladu z Uredbo 1024/2013/EU, in na območju Republike Slovenije pomeni Banko Slovenije ali Evropsko centralno banko, kadar je pristojna za izvajanje pooblastil in nalog bonitetnega nadzora nad bankami v skladu z Uredbo 1024/2013/EU;",
+      "source_provision": "7"
+    },
+    {
+      "document_id": "ZAKO8319",
+      "term": "skupina iz tretje države",
+      "definition": "skupino, katere nadrejena oseba ima sedež v tretji državi;",
+      "source_provision": "7"
+    },
+    {
+      "document_id": "ZAKO8319",
+      "term": "sistemsko pomembna banka",
+      "definition": "banko, ki bi v primeru propada ali slabega poslovanja lahko povzročila sistemsko tveganje in ima položaj:\n-  EU nadrejene banke,\n-  podrejene banke EU nadrejenemu finančnemu holdingu ali EU nadrejenemu mešanemu finančnemu holdingu,\n-  banke, ki ni podrejena subjektu iz prve in druge alineje te točke;",
+      "source_provision": "7"
+    },
+    {
+      "document_id": "ZAKO8319",
+      "term": "sistemsko tveganje",
+      "definition": "tveganje motenj v finančnem sistemu, ki ima lahko resne negativne posledice za finančni sistem in realno gospodarstvo;",
+      "source_provision": "7"
+    },
+    {
+      "document_id": "ZAKO8319",
+      "term": "subjekt v skupini",
+      "definition": "pravno osebo, ki je del skupine;",
+      "source_provision": "7"
+    },
+    {
+      "document_id": "ZAKO8319",
+      "term": "tretja država",
+      "definition": "državo, ki ni država članica;",
+      "source_provision": "7"
+    },
+    {
+      "document_id": "ZAKO8319",
+      "term": "upravljalni organ",
+      "definition": "organ vodenja ali nadzora banke;",
+      "source_provision": "7"
+    },
+    {
+      "document_id": "ZAKO8319",
+      "term": "višje vodstvo",
+      "definition": "fizične osebe, ki v banki opravljajo izvršilne funkcije in so odgovorne organu vodenja za vsakodnevno izvajanje poslov banke;",
+      "source_provision": "7"
+    },
+    {
+      "document_id": "ZAKO8319",
+      "term": "zunanje izvajanje",
+      "definition": "kakršen koli dogovor med banko in ponudnikom storitev, v skladu s katerim ponudnik storitev izvaja proces, storitev ali dejavnost, ki bi jo sicer banka izvajala sama.\n(2) Pojmi elektronski denar, plačilna storitev in storitve upravljanja plačilnih sistemov imajo enak pomen, kakor je določen v zakonu, ki ureja plačilne storitve in sisteme.\n(3) Banka Slovenije opredeli podrobnejša merila za določitev pomembne banke iz",
+      "source_provision": "7"
+    },
+    {
+      "document_id": "ZAKO8319",
+      "term": "členu Uredbe 575/2013/EU, z upoštevanjem drugega odstavka tega člena",
+      "definition": "enako kot je določeno v omenjeni uredbi.\n(2) Za potrebe tega zakona se naslednji izrazi iz Uredbe 575/2013/EU uporabljajo tako, da pomenijo:",
+      "source_provision": "8"
+    },
+    {
+      "document_id": "ZAKO8319",
+      "term": "družba za upravljanje",
+      "definition": "družba za upravljanje, kakor je opredeljena v",
+      "source_provision": "8"
+    },
+    {
+      "document_id": "ZAKO8319",
+      "term": "točki prvega odstavka 4. člena Uredbe 575/2013/EU in",
+      "definition": "družbo za upravljanje iz",
+      "source_provision": "8"
+    },
+    {
+      "document_id": "ZAKO8319",
+      "term": "točke 2. člena ZFK ali drugega upravitelja investicijskih skladov, vključno s subjekti iz tretjih držav, ki opravljajo podobne dejavnosti in",
+      "definition": "predmet zakonodaje tretje države, v kateri veljajo zahteve glede nadzora in regulativne zahteve, ki so vsaj enakovredne tistim, ki se uporabljajo v Evropski uniji;",
+      "source_provision": "8"
+    },
+    {
+      "document_id": "ZAKO8319",
+      "term": "finančni instrument",
+      "definition": "finančni instrument, kakor je opredeljen v",
+      "source_provision": "8"
+    },
+    {
+      "document_id": "ZAKO8319",
+      "term": "točki prvega odstavka 4. člena Uredbe 575/2013/EU in",
+      "definition": "karkoli od naslednjega:\n-  pogodbe, ki eni stranki prinašajo finančno terjatev, drugi stranki pa finančno obveznost ali lastniški instrument,\n-  finančni instrument v skladu z zakonom, ki ureja trg finančnih instrumentov,\n-  izvedeni finančni instrument,\n-  primarni finančni instrument,\n-  denarni instrument, pri čemer so instrumenti iz prve, druge in tretje alineje finančni instrumenti le, če njihova vrednost izhaja iz cene osnovnega finančnega instrumenta ali druge osnovne postavke, stopnje ali indeksa;",
+      "source_provision": "8"
+    },
+    {
+      "document_id": "ZAKO8319",
+      "term": "investicijsko podjetje",
+      "definition": "investicijsko podjetje, kakor je opredeljeno v",
+      "source_provision": "8"
+    },
+    {
+      "document_id": "ZAKO8319",
+      "term": "točki prvega odstavka 4. člena Direktive 2014/65/EU, in",
+      "definition": "investicijsko podjetje, kakor je opredeljeno v zakonu, ki ureja trg finančnih instrumentov, razen kreditne institucije;",
+      "source_provision": "8"
+    },
+    {
+      "document_id": "ZAKO8319",
+      "term": "mešani finančni holding",
+      "definition": "mešani finančni holding, kakor je opredeljen v",
+      "source_provision": "8"
+    },
+    {
+      "document_id": "ZAKO8319",
+      "term": "točki prvega odstavka 4. člena Uredbe 575/2013/EU in",
+      "definition": "mešani finančni holding iz",
+      "source_provision": "8"
+    },
+    {
+      "document_id": "ZAKO8319",
+      "term": "pozavarovalnica",
+      "definition": "pozavarovalnica, kakor je opredeljena v",
+      "source_provision": "8"
+    },
+    {
+      "document_id": "ZAKO8319",
+      "term": "točki prvega odstavka 4. člena Uredbe 575/2013/EU in",
+      "definition": "pozavarovalnico iz prve in druge alineje",
+      "source_provision": "8"
+    },
+    {
+      "document_id": "ZAKO8319",
+      "term": "reguliran trg",
+      "definition": "reguliran trg, kakor je opredeljen v",
+      "source_provision": "8"
+    },
+    {
+      "document_id": "ZAKO8319",
+      "term": "točki prvega odstavka 4. člena Uredbe 575/2013/EU in",
+      "definition": "organiziran trg iz zakona, ki ureja trg finančnih instrumentov;",
+      "source_provision": "8"
+    },
+    {
+      "document_id": "ZAKO8319",
+      "term": "skupina",
+      "definition": "skupino, kakor je opredeljena v",
+      "source_provision": "8"
+    },
+    {
+      "document_id": "ZAKO8319",
+      "term": "točki prvega odstavka 4. člena Uredbe 575/2013/EU in",
+      "definition": "skupino podjetij:\n-  med katerimi je vsaj eno podjetje kreditna institucija, ki opravlja bančne storitve in\n-  ki jo sestavljajo nadrejena oseba in njene podrejene družbe ali podjetja, ki so medsebojno povezana, kot je navedeno v",
+      "source_provision": "8"
+    },
+    {
+      "document_id": "ZAKO8319",
+      "term": "subjekt finančnega sektorja",
+      "definition": "subjekt finančnega sektorja, kakor je opredeljen v",
+      "source_provision": "8"
+    },
+    {
+      "document_id": "ZAKO8319",
+      "term": "člen Direktive 2009/138/ES, ne uporabljajo zahteve navedene direktive,\n-  družbo tretje države, katere glavna dejavnost",
+      "definition": "primerljiva s katerimkoli subjektom prejšnjih alinej;",
+      "source_provision": "8"
+    },
+    {
+      "document_id": "ZAKO8319",
+      "term": "udeležba",
+      "definition": "udeležba, kakor je opredeljena v",
+      "source_provision": "8"
+    },
+    {
+      "document_id": "ZAKO8319",
+      "term": "točki prvega odstavka 4. člena Uredbe 575/2013/EU in",
+      "definition": "udeležbo iz druge alineje",
+      "source_provision": "8"
+    },
+    {
+      "document_id": "ZAKO8319",
+      "term": "zavarovalnica",
+      "definition": "zavarovalnica, kakor je opredeljena v",
+      "source_provision": "8"
+    },
+    {
+      "document_id": "ZAKO8319",
+      "term": "točki prvega odstavka 4. člena Uredbe 575/2013/EU in",
+      "definition": "zavarovalnico iz prve in druge alineje",
+      "source_provision": "8"
+    },
+    {
+      "document_id": "ZAKO8319",
+      "term": "členom tega zakona oziroma 21a členom Direktive 2013/36/EU,\n-        podrejeno kreditno institucijo, ki",
+      "definition": "imenovana kot odgovorna za zagotavljanje izpopolnjevanja bonitetnih zahtev skupine na konsolidirani podlagi, kadar jo obvladuje EU nadrejeni finančni holding, EU nadrejeni mešani finančni holding, nadrejeni finančni holding v državi članici ali nadrejeni mešani finančni holding v državi članici, če ta nadrejena oseba ne potrebuje odobritve v skladu s",
+      "source_provision": "8"
+    },
+    {
+      "document_id": "ZAKO8319",
+      "term": "členom tega zakona oziroma četrtim odstavkom 21a člena Direktive 2013/36/EU; in\n-        finančne holdinge, mešane finančne holdinge ali institucije, ki",
+      "definition": "v skladu s",
+      "source_provision": "8"
+    },
+    {
+      "document_id": "ZAKO8319",
+      "term": "osnovna dejavnost finančnega holdinga",
+      "definition": "pridobivanje deležev v podrejenih družbah, pri mešanem finančnem holdingu pa je osnovna dejavnost glede na institucije ali finančne institucije pridobivanje deležev v podrejenih družbah;",
+      "source_provision": "86"
+    },
+    {
+      "document_id": "ZAKO8319",
+      "term": "finančni holding ali mešani finančni holding ne sodeluje pri sprejemanju upravljavskih, operativnih ali finančnih odločitev, ki vplivajo na skupino ali njene podrejene družbe, ki",
+      "definition": "banke, institucije ali finančne institucije;",
+      "source_provision": "86"
+    },
+    {
+      "document_id": "ZAKO8319",
+      "term": "ne obstajajo ovire za učinkovit nadzor skupine na konsolidirani podlagi.\n(2) Finančni holdingi ali mešani finančni holdingi, ki",
+      "definition": "izvzeti iz odobritve v skladu s prejšnjim odstavkom, niso izključeni iz obsega konsolidacije, kot je določena v tem zakonu, Direktivi 2013/36/EU in Uredbi 575/2013/EU.\n(3) Zahteva za izvzetje iz odobritve finančnega holdinga ali mešanega finančnega holdinga za nadzor, nad katerim je kot konsolidacijski nadzornik pristojna Banka Slovenije, se vloži pri Banki Slovenije.\n(4) EU nadrejeni finančni holding ali EU nadrejeni mešani finančni holding iz",
+      "source_provision": "86"
+    },
+    {
+      "document_id": "ZAKO8319",
+      "term": "ni banka;\n2.      katere nadrejena družba",
+      "definition": "banka samostojno ali skupaj z drugimi bankami;",
+      "source_provision": "132"
+    },
+    {
+      "document_id": "ZAKO8319",
+      "term": "je glede na ustanovitvene akte upravičena opravljati vzajemno priznane finančne storitve;\n4.      izpolnjuje vse naslednje dodatne pogoje:\n-  banke iz 2. točke tega odstavka",
+      "definition": "pridobile dovoljenje za opravljanje bančnih storitev v skladu s tem zakonom,\n-  v Republiki Sloveniji dejansko opravlja vzajemno priznane finančne storitve, ki jih namerava opravljati v drugi državi članici,\n-  banke iz",
+      "source_provision": "132"
+    },
+    {
+      "document_id": "ZAKO8319",
+      "term": "točke tega odstavka",
+      "definition": "skupaj imetnice delnic ali deležev, iz katerih izhaja najmanj 90 odstotkov glasovalnih pravic,\n-  banke iz",
+      "source_provision": "132"
+    },
+    {
+      "document_id": "ZAKO8319",
+      "term": "točke tega odstavka po oceni Banke Slovenije upravljajo družbo z ustrezno skrbnostjo in",
+      "definition": "s soglasjem Banke Slovenije prevzele solidarno odgovornost za vse obveznosti posebne finančne institucije,\n-  posebna finančna institucija je glede vzajemno priznanih finančnih storitev, ki jih opravlja, vključena v konsolidirani nadzor nadrejene banke ali vseh nadrejenih bank v skladu z oddelkom 10.",
+      "source_provision": "132"
+    },
+    {
+      "document_id": "ZAKO8319",
+      "term": "člena tega zakona posreduje tudi:\n1.      potrdilo, da",
+      "definition": "v zvezi s posebno finančno institucijo izpolnjeni pogoji iz prvega odstavka tega člena;",
+      "source_provision": "132"
+    },
+    {
+      "document_id": "ZAKO8319",
+      "term": "preprečijo ali odpravijo kršitve predpisov iz drugega odstavka 9. člena tega zakona ter preprečijo ali odpravijo nepravilnosti, ki ogrožajo ali bi lahko ogrozile varnost sredstev, ki",
+      "definition": "bila zaupana banki;",
+      "source_provision": "264"
+    },
+    {
+      "document_id": "ZAKO8319",
+      "term": "člena te uredbe odgovorna Evropska centralna banka, ta izvaja naloge in pooblastila ter izreka tudi ukrepe nadzora, kot",
+      "definition": "določeni v tem zakonu za izvajanje nalog in pooblastil Banke Slovenije, razen če je za izvajanje določenih nalog Evropske centralne banke v Uredbi 1024/2013/EU ali Uredbi 468/2014/EU izrecno določeno drugače.\n(6) Kadar subjekt nadzora vloži pri Banki Slovenije vlogo na podlagi tega zakona ali Uredbe 575/2013/EU, za reševanje katere je na podlagi Uredbe 1024/2013/EU pristojna Evropska centralna banka, Banka Slovenije to vlogo z obrazloženim sklepom zavrže, razen če se mora taka vloga v skladu z Uredbo 1024/2013/EU vložiti pri Banki Slovenije. Zoper sklep Banke Slovenije o zavrženju vloge iz prejšnjega stavka ni sodnega varstva.",
+      "source_provision": "264"
+    },
+    {
+      "document_id": "ZAKO8319",
+      "term": "resnost in trajanje kršitve ter stopnjo odgovornosti kršitelja;\n2.      finančni položaj kršitelja in pridobljeni dobiček ali izgubo, ki",
+      "definition": "bila s kršitvijo preprečena, če ju je mogoče opredeliti;",
+      "source_provision": "266"
+    },
+    {
+      "document_id": "ZAKO8319",
+      "term": "izgube, ki",
+      "definition": "jih zaradi kršitve utrpele tretje osebe, če jih je mogoče opredeliti;",
+      "source_provision": "266"
+    }
   ]
 }

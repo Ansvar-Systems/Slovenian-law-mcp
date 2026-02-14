@@ -837,5 +837,13 @@
       "article": "102",
       "content": "Ta zakon začne veljati petnajsti dan po objavi v Uradnem listu Republike Slovenije."
     }
+  ],
+  "definitions": [
+    {
+      "document_id": "ZAKO307",
+      "term": "č člena tega zakona.\nČlanu občinskega sveta, županu in podžupanu, ki mu",
+      "definition": "vrhovno sodišče tožbo zavrnilo, mandat preneha naslednji dan po vročitvi sodbe vrhovnega sodišča.\nČe tožbi vrhovno sodišče ugodi, članu občinskega sveta, županu in podžupanu, ki mu je mandat nezakonito prenehal, vrhovno sodišče mandat ponovno vzpostavi.\nVrhovno sodišče odločitve posreduje občinskemu svetu. Če vrhovno sodišče tožbo zavrne, je dolžno občinski svet obvestiti tudi o datumu vročitve sodbe članu občinskega sveta, županu in podžupanu.\nZoper odločitev vrhovnega sodišča v skladu s tem členom ni pritožbe in izrednega pravnega sredstva.",
+      "source_provision": "37.d"
+    }
   ]
 }

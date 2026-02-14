@@ -2155,5 +2155,55 @@
       "title": "(izdaja podzakonskih aktov)",
       "content": "Ta zakon začne veljati naslednji dan po objavi v Uradnem listu Republike Slovenije, uporablja pa se od 1. januarja 2007.\nPriloga I: Seznam dobav blaga in storitev, za katere se uporablja nižja stopnja DDV\nPriloga Ia: Okvirni seznam elektronsko opravljenih storitev iz 30.c člena zakona\nPriloga II: Vrste blaga, ki je lahko skladiščeno v davčnih skladiščih\nPriloga III: Umetniški predmeti, zbirke in starine\nPriloga IIIa: Seznam dobav odpadkov, ostankov in rabljenega materiala ter storitev, v zvezi s katerimi so plačniki DDV prejemniki tega blaga ali storitev\nPriloga IV: Seznam dobav blaga in storitev, za katere se uporablja posebna nižja stopnja ddv"
     }
+  ],
+  "definitions": [
+    {
+      "document_id": "ZAKO4701",
+      "term": "ponudnik plačilnih storitev",
+      "definition": "katerega koli od subjektov iz",
+      "source_provision": "86.a"
+    },
+    {
+      "document_id": "ZAKO4701",
+      "term": "plačilna storitev",
+      "definition": "katero koli poslovno dejavnost iz",
+      "source_provision": "86.a"
+    },
+    {
+      "document_id": "ZAKO4701",
+      "term": "plačilo",
+      "definition": "plačilno transakcijo iz prvega odstavka",
+      "source_provision": "86.a"
+    },
+    {
+      "document_id": "ZAKO4701",
+      "term": "plačnik",
+      "definition": "plačnika iz drugega odstavka",
+      "source_provision": "86.a"
+    },
+    {
+      "document_id": "ZAKO4701",
+      "term": "prejemnik plačila",
+      "definition": "prejemnika plačila iz tretjega odstavka",
+      "source_provision": "86.a"
+    },
+    {
+      "document_id": "ZAKO4701",
+      "term": "plačilni račun",
+      "definition": "plačilni račun iz prvega odstavka",
+      "source_provision": "86.a"
+    },
+    {
+      "document_id": "ZAKO4701",
+      "term": "IBAN",
+      "definition": "mednarodno identifikacijsko številko plačilnega računa iz",
+      "source_provision": "86.a"
+    },
+    {
+      "document_id": "ZAKO4701",
+      "term": "BIC",
+      "definition": "poslovno identifikacijsko kodo iz",
+      "source_provision": "86.a"
+    }
   ]
 }
