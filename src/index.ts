@@ -27,6 +27,7 @@ import { searchEUImplementations, type SearchEUImplementationsInput } from './to
 import { getProvisionEUBasis, type GetProvisionEUBasisInput } from './tools/get-provision-eu-basis.js';
 import { validateEUCompliance, type ValidateEUComplianceInput } from './tools/validate-eu-compliance.js';
 import { getProvisionAtDate, type GetProvisionAtDateInput } from './tools/get-provision-at-date.js';
+import { detectCapabilities, readDbMetadata, type Capability, type DbMetadata } from './capabilities.js';
 
 // ---------------------------------------------------------------------------
 // Constants
@@ -49,14 +50,31 @@ function getDefaultDbPath(): string {
 }
 
 let dbInstance: InstanceType<typeof Database> | null = null;
+let dbCapabilities: Set<Capability> | null = null;
+let dbMetadata: DbMetadata | null = null;
 
 function getDb(): InstanceType<typeof Database> {
   if (!dbInstance) {
     const dbPath = process.env[DB_ENV_VAR] ?? getDefaultDbPath();
     dbInstance = new Database(dbPath, { readonly: true });
     dbInstance.pragma('journal_mode = WAL', { simple: true });
+
+    // Detect capabilities on first open
+    dbCapabilities = detectCapabilities(dbInstance);
+    dbMetadata = readDbMetadata(dbInstance);
+    console.error(`[${SERVER_NAME}] Database tier: ${dbMetadata.tier}, capabilities: ${[...dbCapabilities].join(', ')}`);
   }
   return dbInstance;
+}
+
+export function getCapabilities(): Set<Capability> {
+  if (!dbCapabilities) getDb(); // ensure detection has run
+  return dbCapabilities!;
+}
+
+export function getMetadata(): DbMetadata {
+  if (!dbMetadata) getDb(); // ensure detection has run
+  return dbMetadata!;
 }
 
 function closeDb(): void {
