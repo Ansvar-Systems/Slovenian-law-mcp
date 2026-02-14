@@ -206,8 +206,76 @@ npm run verify:release
 npm pack --dry-run
 ```
 
+## Important Disclaimers
+
+### Legal Advice
+
+> **THIS TOOL IS NOT LEGAL ADVICE**
+>
+> Statute text is sourced from official PIS/pisrs.si publications. However:
+> - This is a **research tool**, not a substitute for professional legal counsel
+> - **Court case coverage is limited** -- do not rely solely on this for case law research
+> - **Verify critical citations** against primary sources for court filings
+> - **EU cross-references** are extracted from Slovenian statute text, not EUR-Lex full text
+
+### Client Confidentiality
+
+Queries go through the Claude API. For privileged or confidential matters, use on-premise deployment. Lawyers should consider Odvetniška zbornica Slovenije (Slovenian Bar Association) confidentiality obligations when using cloud-based AI tools.
+
+## Related Projects: Complete Compliance Suite
+
+This server is part of **Ansvar's Compliance Suite** -- MCP servers that work together for end-to-end compliance coverage:
+
+### [@ansvar/eu-regulations-mcp](https://github.com/Ansvar-Systems/EU_compliance_MCP)
+**Query 49 EU regulations directly from Claude** -- GDPR, AI Act, DORA, NIS2, MiFID II, eIDAS, and more. Full regulatory text with article-level search. `npx @ansvar/eu-regulations-mcp`
+
+### @ansvar/slovenian-law-mcp (This Project)
+**Query Slovenian statutes directly from Claude** -- ZVOP-2, KZ-1, ZGD-1, and more. Full provision text with EU cross-references. `npx @ansvar/slovenian-law-mcp`
+
+### [@ansvar/swedish-law-mcp](https://github.com/Ansvar-Systems/swedish-law-mcp)
+**Query 717 Swedish statutes directly from Claude** -- DSL, BrB, ABL, MB, and more. Full provision text with EU cross-references. `npx @ansvar/swedish-law-mcp`
+
+### [@ansvar/us-regulations-mcp](https://github.com/Ansvar-Systems/US_Compliance_MCP)
+**Query US federal and state compliance laws** -- HIPAA, CCPA, SOX, GLBA, FERPA, and more. `npm install @ansvar/us-regulations-mcp`
+
+### [@ansvar/ot-security-mcp](https://github.com/Ansvar-Systems/ot-security-mcp)
+**Query IEC 62443, NIST 800-82/53, and MITRE ATT&CK for ICS** -- Specialized for OT/ICS environments. `npx @ansvar/ot-security-mcp`
+
+### [@ansvar/automotive-cybersecurity-mcp](https://github.com/Ansvar-Systems/Automotive-MCP)
+**Query UNECE R155/R156 and ISO 21434** -- Automotive cybersecurity compliance. `npx @ansvar/automotive-cybersecurity-mcp`
+
+### [@ansvar/sanctions-mcp](https://github.com/Ansvar-Systems/Sanctions-MCP)
+**Offline-capable sanctions screening** -- OFAC, EU, UN sanctions lists. `pip install ansvar-sanctions-mcp`
+
+## Citation
+
+If you use this MCP server in academic research:
+
+```bibtex
+@software{slovenian_law_mcp_2025,
+  author = {Ansvar Systems AB},
+  title = {Slovenian Law MCP Server: Production-Grade Legal Research Tool},
+  year = {2025},
+  url = {https://github.com/Ansvar-Systems/Slovenian-law-mcp},
+  note = {Comprehensive Slovenian legal database with EU law cross-references}
+}
+```
+
 ## Legal
 
 - License: Apache-2.0
 - Security policy: see `SECURITY.md`
 - Contribution guidelines: see `CONTRIBUTING.md`
+
+### Data Licenses
+
+- **Statutes & Regulations:** Republic of Slovenia (public domain via PIS)
+- **Case Law Metadata:** sodnapraksa.si (public domain)
+- **EU Metadata:** EUR-Lex (EU public domain)
+- **Parliamentary Materials:** Državni zbor (public domain)
+
+## About Ansvar Systems
+
+We build AI-accelerated compliance and legal research tools for the European market. This MCP server is part of our growing suite of jurisdiction-specific legal research tools.
+
+**[ansvar.eu](https://ansvar.eu)** -- Stockholm, Sweden
