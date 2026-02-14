@@ -1,0 +1,760 @@
+{
+  "documents": [
+    {
+      "id": "ZAKO3225",
+      "type": "statute",
+      "title": "Zakon o državni upravi (ZDU-1)",
+      "short_name": "ZDU-1",
+      "status": "in_force",
+      "issued_date": "2002-06-14",
+      "in_force_date": "2002-06-29",
+      "url": "https://pisrs.si/pregledPredpisa?id=ZAKO3225"
+    }
+  ],
+  "provisions": [
+    {
+      "document_id": "ZAKO3225",
+      "provision_ref": "1",
+      "chapter": "I. SPLOŠNE DOLOČBE IN TEMELJNA NAČELA",
+      "article": "1",
+      "content": "Državna uprava (v nadaljnjem besedilu: uprava) kot del izvršilne oblasti v Republiki Sloveniji izvršuje upravne naloge."
+    },
+    {
+      "document_id": "ZAKO3225",
+      "provision_ref": "2",
+      "chapter": "I. SPLOŠNE DOLOČBE IN TEMELJNA NAČELA",
+      "article": "2",
+      "title": "(položaj državne uprave)",
+      "content": "Uprava opravlja svoje delo samostojno v okviru in na podlagi ustave, zakonov in drugih predpisov."
+    },
+    {
+      "document_id": "ZAKO3225",
+      "provision_ref": "3",
+      "chapter": "I. SPLOŠNE DOLOČBE IN TEMELJNA NAČELA",
+      "article": "3",
+      "title": "(zakonitost in samostojnost)",
+      "content": "Uprava opravlja svoje delo po pravilih stroke.\nPri opravljanju svojega dela mora biti uprava politično nevtralna.\nUprava mora pri svojem delu ravnati nepristransko in ne sme dajati neupravičenih koristi in prednosti posameznicam oziroma posameznikom, pravnim osebam ali interesnim skupinam."
+    },
+    {
+      "document_id": "ZAKO3225",
+      "provision_ref": "4",
+      "chapter": "I. SPLOŠNE DOLOČBE IN TEMELJNA NAČELA",
+      "article": "4",
+      "title": "(strokovnost, politična nevtralnost in nepristranskost)",
+      "content": "Uradni jezik v upravi je slovenščina.\nNa območjih občin, v katerih živita avtohtoni italijanska oziroma madžarska narodna skupnost, je uradni jezik v upravi tudi italijanščina oziroma madžarščina. Na teh območjih uprava posluje tudi v jeziku narodne skupnosti. Če stranka v postopku uporablja jezik narodne skupnosti, uprava vodi postopek v jeziku narodne skupnosti in izdaja pravne in druge akte v postopku v slovenščini in v jeziku narodne skupnosti. Pred začetkom postopka mora organ seznaniti stranko s to pravico.\nKadar je upravni organ na prvi stopnji vodil postopek v italijanščini oziroma madžarščini, mora biti tudi drugostopni akt izdan v istem jeziku."
+    },
+    {
+      "document_id": "ZAKO3225",
+      "provision_ref": "5",
+      "chapter": "I. SPLOŠNE DOLOČBE IN TEMELJNA NAČELA",
+      "article": "5",
+      "title": "(uradni jezik v upravi)",
+      "content": "Pri poslovanju s strankami mora uprava zagotoviti spoštovanje njihove osebnosti in osebnega dostojanstva ter zagotoviti, da čim hitreje in čim lažje uresničujejo svoje pravice in pravne koristi.\nUprava skrbi za obveščenost javnosti o načinu svojega poslovanja in uresničevanja pravic strank.\nUprava je dolžna omogočiti strankam posredovanje pripomb in kritik glede svojega dela ter te pripombe in kritike obravnavati in nanje odgovarjati v razumnem roku."
+    },
+    {
+      "document_id": "ZAKO3225",
+      "provision_ref": "6",
+      "chapter": "I. SPLOŠNE DOLOČBE IN TEMELJNA NAČELA",
+      "article": "6",
+      "title": "(poslovanje s strankami)",
+      "content": "Uprava je dolžna zagotavljati javnost svojega dela, upoštevaje omejitve, ki izhajajo iz predpisov, ki urejajo varovanje osebnih in tajnih podatkov, ter drugih predpisov."
+    },
+    {
+      "document_id": "ZAKO3225",
+      "provision_ref": "7",
+      "chapter": "I. SPLOŠNE DOLOČBE IN TEMELJNA NAČELA",
+      "article": "7",
+      "title": "(javnost dela)",
+      "content": "Način poslovanja uprave s strankami, način zagotavljanja obveščenosti javnosti (drugi odstavek 5. člena), način zagotovitve možnosti posredovanja pripomb in kritik, njihovega obravnavanja in odgovarjanja nanje (tretji odstavek 5. člena), poslovanje z dokumentarnim gradivom, poslovni čas, uradne ure v upravi ter druga vprašanja načina delovanja uprave ureja Vlada Republike Slovenije (v nadaljnjem besedilu: vlada)."
+    },
+    {
+      "document_id": "ZAKO3225",
+      "provision_ref": "8",
+      "chapter": "II. UPRAVNE NALOGE",
+      "article": "8",
+      "content": "Uprava za vlado pripravlja predloge zakonov, podzakonskih predpisov in drugih aktov ter druga gradiva ter zagotavlja drugo strokovno pomoč pri oblikovanju politik."
+    },
+    {
+      "document_id": "ZAKO3225",
+      "provision_ref": "9",
+      "chapter": "II. UPRAVNE NALOGE",
+      "article": "9",
+      "title": "(sodelovanje pri oblikovanju politik)",
+      "content": "Uprava izvršuje zakone in druge predpise, ki jih sprejema državni zbor, ratificirane mednarodne pogodbe, državni proračun, podzakonske predpise in druge akte vlade (v nadaljnjem besedilu: izvršilne naloge).\nZa izvajanje nalog iz prvega odstavka tega člena uprava izdaja predpise in posamične akte ter interne akte, vstopa v imenu in za račun Republike Slovenije v civilnopravna razmerja ter opravlja materialna dejanja.\nZa opravljanje materialnih dejanj, s katerimi se posega v osebno prostost, telesno ali duševno celovitost, zasebnost, lastnino in druge človekove pravice oziroma temeljne svoboščine, mora imeti uprava neposredno podlago v zakonu."
+    },
+    {
+      "document_id": "ZAKO3225",
+      "provision_ref": "10",
+      "chapter": "II. UPRAVNE NALOGE",
+      "article": "10",
+      "title": "(izvršilne naloge)",
+      "content": "Uprava opravlja inšpekcijski nadzor nad izvajanjem predpisov.\nInšpekcijski nadzor ureja poseben zakon."
+    },
+    {
+      "document_id": "ZAKO3225",
+      "provision_ref": "11",
+      "chapter": "II. UPRAVNE NALOGE",
+      "article": "11",
+      "title": "(inšpekcijski nadzor)",
+      "content": "Uprava spremlja stanje družbe na področjih, za katera je pristojna, in skrbi za njen razvoj v skladu s sprejeto politiko države.\nUprava vzpostavi, vodi, vzdržuje in povezuje zbirke podatkov in evidence."
+    },
+    {
+      "document_id": "ZAKO3225",
+      "provision_ref": "12",
+      "chapter": "II. UPRAVNE NALOGE",
+      "article": "12",
+      "title": "(spremljanje stanja)",
+      "content": "Uprava na podlagi in v okviru zakonov, drugih predpisov in državnega proračuna spodbuja oziroma usmerja  družbeni razvoj."
+    },
+    {
+      "document_id": "ZAKO3225",
+      "provision_ref": "13",
+      "chapter": "II. UPRAVNE NALOGE",
+      "article": "13",
+      "title": "(razvojne naloge)",
+      "content": "Uprava zagotavlja opravljanje javnih služb v skladu z zakonom.\nOpravljanje javnih služb se zagotavlja v javnih zavodih in gospodarskih družbah ter v drugih organizacijskih oblikah, ki jih določa zakon, lahko pa tudi v upravnih organih."
+    },
+    {
+      "document_id": "ZAKO3225",
+      "provision_ref": "14",
+      "chapter": "III. UPRAVNI ORGANI IN NOSILCI JAVNIH POOBLASTIL",
+      "article": "14",
+      "content": "Upravne naloge opravljajo ministrstva, organi v njihovi sestavi in upravne enote (v nadaljnjem besedilu: upravni organi).\nMinistrstvo se ustanovi za opravljanje upravnih nalog na enem ali več upravnih področjih.\nOrgan v sestavi ministrstva se ustanovi za opravljanje specializiranih strokovnih nalog, izvršilnih in razvojnih upravnih nalog, nalog inšpekcijskega in drugega nadzora in nalog na področju javnih služb, če se s tem zagotovi večja učinkovitost in kakovost pri opravljanju nalog oziroma če je zaradi narave nalog ali delovnega področja potrebno zagotoviti večjo stopnjo strokovne samostojnosti pri opravljanju nalog.\nUpravna enota se ustanovi za opravljanje nalog državne uprave, ki jih je treba organizirati in izvajati teritorialno."
+    },
+    {
+      "document_id": "ZAKO3225",
+      "provision_ref": "15",
+      "chapter": "III. UPRAVNI ORGANI IN NOSILCI JAVNIH POOBLASTIL",
+      "article": "15",
+      "title": "(upravni organi)",
+      "content": "Javna agencija se lahko ustanovi za opravljanje upravnih nalog v skladu s posebnim zakonom, ki ureja javne agencije:\n-        če je s tem omogočeno učinkovitejše in smotrnejše opravljanje upravnih nalog, kot bi bilo v primeru opravljanja nalog v upravnem organu, zlasti če se lahko opravljanje upravnih nalog v celoti ali pretežno financira z upravnimi taksami oziroma plačili uporabnikov, ali\n-        če glede na naravo oziroma vrsto nalog ni potreben ali ni primeren stalni neposredni politični nadzor nad opravljanjem nalog.\nZ zakonom ali na podlagi zakona lahko v primerih iz prvega odstavka tega člena javno pooblastilo za opravljanje upravnih nalog pridobijo tudi druge osebe javnega prava, posamezniki in pravne osebe zasebnega prava.\nČe zakon dopušča, da za pridobitev javnega pooblastila kandidira več fizičnih oziroma pravnih oseb, se izbira opravi na javnem natečaju.\nPri izvajanju javnih pooblastil imajo nosilci javnih pooblastil pravice in dolžnosti uprave, ki jih določa zakon ali drug predpis."
+    },
+    {
+      "document_id": "ZAKO3225",
+      "provision_ref": "16",
+      "chapter": "IV. MINISTRSTVA",
+      "section": "1. Vodenje ministrstva",
+      "article": "16",
+      "content": "Ministrica oziroma minister (v nadaljnjem besedilu: minister) v skladu s sprejeto politiko vodi in predstavlja ministrstvo, izdaja predpise in druge akte v skladu z zakonom ter sprejema druge odločitve iz pristojnosti ministrstva."
+    },
+    {
+      "document_id": "ZAKO3225",
+      "provision_ref": "17",
+      "chapter": "IV. MINISTRSTVA",
+      "section": "1. Vodenje ministrstva",
+      "article": "17",
+      "title": "(minister)",
+      "content": "V ministrstvu se lahko imenujeta največ dve državni sekretarki oziroma državna sekretarja (v nadaljnjem besedilu: državni sekretar). V ministrstvu, pristojnem za zdravje, se lahko imenujejo največ trije državni sekretarji, v ministrstvu, pristojnem za finance, pa največ štirje državni sekretarji.\nDržavni sekretar pomaga ministru pri opravljanju njegove funkcije v okviru pooblastil, ki mu jih da minister.\nMinister lahko pisno pooblasti državnega sekretarja, da ga nadomešča v času njegove odsotnosti ali zadržanosti pri vodenju in predstavljanju ministrstva ter predlaganju gradiv v obravnavo vladi. S podelitvijo pooblastila se minister ne razbremeni odgovornosti.\nMinister ne more pooblastiti državnega sekretarja ali koga drugega, da izdaja predpise in glasuje na seji vlade.\nDržavni sekretar ima status funkcionarja. Imenuje in razrešuje ga vlada na predlog ministra, ki vodi ministrstvo. Državnemu sekretarju preneha funkcija z dnem prenehanja funkcije ministra."
+    },
+    {
+      "document_id": "ZAKO3225",
+      "provision_ref": "18",
+      "chapter": "IV. MINISTRSTVA",
+      "section": "1. Vodenje ministrstva",
+      "article": "18",
+      "title": "(državni sekretar)",
+      "content": "V ministrstvu se v skladu z zakonom, ki ureja položaj javnih uslužbencev, imenujejo generalne direktorice oziroma generalni direktorji (v nadaljnjem besedilu: generalni direktorji).\nGeneralni direktor vodi upravno in strokovno delo na zaokroženem delovnem področju znotraj ministrstva.\nVlada lahko v primerih odsotnosti ali zadržanosti ministra in državnega sekretarja na predlog ministra pooblasti generalnega direktorja, da v okviru svojega delovnega področja predstavlja vlado pri delu državnega zbora. (razveljavljen)\nGeneralni direktor je za svoje delo odgovoren ministru."
+    },
+    {
+      "document_id": "ZAKO3225",
+      "provision_ref": "19",
+      "chapter": "IV. MINISTRSTVA",
+      "section": "1. Vodenje ministrstva",
+      "article": "19",
+      "title": "(generalni direktorji)",
+      "content": "V ministrstvu se v skladu z zakonom, ki ureja položaj javnih uslužbencev, imenuje generalna sekretarka oziroma generalni sekretar (v nadaljnjem besedilu: generalni sekretar).\nGeneralni sekretar vodi strokovno delo na področju upravljanja s kadrovskimi, finančnimi, informacijskimi in drugimi viri ter pomaga ministru pri koordinaciji med notranjimi organizacijskimi enotami ministrstva.\nGeneralni sekretar je za svoje delo odgovoren ministru."
+    },
+    {
+      "document_id": "ZAKO3225",
+      "provision_ref": "20",
+      "chapter": "IV. MINISTRSTVA",
+      "section": "1. Vodenje ministrstva",
+      "article": "20",
+      "title": "(generalni sekretar)",
+      "content": "Za obravnavo strokovnih vprašanj z upravnih področij ministrstva oziroma za svetovanje pri oblikovanju politik lahko minister ustanovi strokovni svet kot svoj strokovno-posvetovalni organ."
+    },
+    {
+      "document_id": "ZAKO3225",
+      "provision_ref": "21",
+      "chapter": "IV. MINISTRSTVA",
+      "section": "2. Organi v sestavi ministrstva",
+      "article": "21",
+      "content": "Z uredbo se lahko ustanovi upravni organ v sestavi ministrstva (v nadaljnjem besedilu: organ v sestavi) za opravljanje specializiranih strokovnih nalog, izvršilnih in razvojnih upravnih nalog, nalog inšpekcijskega in drugega nadzora in nalog na področju javnih služb.\nOrgan v sestavi se lahko ustanovi:\n-        za izvajanje nalog iz prvega odstavka tega člena v večjem obsegu, če se s tem zagotovi večja učinkovitost in kakovost pri opravljanju nalog, ali\n-        če je zaradi narave nalog ali delovnega področja potrebno zagotoviti večjo stopnjo samostojnosti pri opravljanju nalog iz prvega odstavka tega člena.\nČe zakon določa, da je za odločanje o upravnih zadevah na določenem področju na prvi stopnji pristojno ministrstvo, in je v ministrstvu organiziran organ v sestavi za to področje, na prvi stopnji vodi postopek in odloča o upravni zadevi organ v sestavi ministrstva."
+    },
+    {
+      "document_id": "ZAKO3225",
+      "provision_ref": "22",
+      "chapter": "IV. MINISTRSTVA",
+      "section": "2. Organi v sestavi ministrstva",
+      "article": "22",
+      "title": "(organi v sestavi ministrstva)",
+      "content": "Organ v sestavi vodi direktorica oziroma direktor (v nadaljnjem besedilu: direktor), ki se imenuje v skladu z zakonom, ki ureja položaj javnih uslužbencev.\nZ zakonom ali uredbo se lahko določi za položaj predstojnice oziroma predstojnika (v nadaljnjem besedilu: predstojnik) organa v sestavi tudi drugačno poimenovanje."
+    },
+    {
+      "document_id": "ZAKO3225",
+      "provision_ref": "23",
+      "chapter": "IV. MINISTRSTVA",
+      "section": "2. Organi v sestavi ministrstva",
+      "article": "23",
+      "title": "(vodenje organov v sestavi)",
+      "content": "Organ v sestavi izvaja naloge v skladu z zakonom, drugimi predpisi, programom dela, ki ga sprejme minister na predlog predstojnika organa v sestavi, in finančnim načrtom, ki se sprejme v skladu z zakonom o javnih financah.\nMinister daje organu v sestavi ministrstva usmeritve za delo organa v sestavi.\nMinister daje organu v sestavi obvezna navodila za delo ter mu naloži, da v mejah svoje pristojnosti opravi določene naloge ali sprejme določene ukrepe ter mu o tem poroča.\nPred državnim zborom in vlado predstavlja organ v sestavi minister.\nČe tako določa uredba iz 21. člena tega zakona, ministrstvo ali drug organ državne uprave izvaja vse ali določene naloge strokovne pomoči predstojniku na področju upravljanja s kadrovskimi, finančnimi, informacijskimi in drugimi viri tudi za organ v sestavi."
+    },
+    {
+      "document_id": "ZAKO3225",
+      "provision_ref": "24",
+      "chapter": "IV. MINISTRSTVA",
+      "section": "2. Organi v sestavi ministrstva",
+      "article": "24",
+      "title": "(razmerje med ministrstvom in organom v sestavi)",
+      "content": "Ministrstvo nadzoruje delo organa v sestavi. Minister lahko zahteva poročila, podatke in druge dokumente v zvezi z opravljanjem dela organa v sestavi.\nPredstojnik organa v sestavi mora ministru redno in na njegovo posebno zahtevo poročati o delu organa v sestavi in o vseh pomembnejših vprašanjih s področij dela organa v sestavi."
+    },
+    {
+      "document_id": "ZAKO3225",
+      "provision_ref": "25",
+      "chapter": "IV. MINISTRSTVA",
+      "section": "2. Organi v sestavi ministrstva",
+      "article": "25",
+      "title": "(poročanje in nadzor)",
+      "content": "Ministrstvo odloča v upravnem postopku na drugi stopnji o pravnih sredstvih zoper upravne akte, ki jih izdaja organ v sestavi."
+    },
+    {
+      "document_id": "ZAKO3225",
+      "provision_ref": "26",
+      "chapter": "IV. MINISTRSTVA",
+      "section": "3. Notranja organizacija ministrstva in organa v sestavi",
+      "article": "26",
+      "content": "Notranjo organizacijo in sistemizacijo delovnih mest ministrstva določi minister v soglasju z vlado. Če zakon ne določa drugače, določi notranjo organizacijo in sistemizacijo delovnih mest organa v sestavi, na predlog predstojnika organa v sestavi, minister v soglasju z vlado.\nPred sprejetjem akta iz prejšnjega odstavka mora predstojnik pridobiti mnenje reprezentativnih sindikatov v ministrstvu oziroma v organu v sestavi v skladu z zakonom, ki ureja delovna razmerja javnih uslužbencev."
+    },
+    {
+      "document_id": "ZAKO3225",
+      "provision_ref": "27",
+      "chapter": "IV. MINISTRSTVA",
+      "section": "3. Notranja organizacija ministrstva in organa v sestavi",
+      "article": "27",
+      "title": "(notranja organizacija in sistemizacija delovnih mest ministrstva)",
+      "content": "Skupne temelje za notranjo organizacijo in sistemizacijo delovnih mest določi vlada z uredbo."
+    },
+    {
+      "document_id": "ZAKO3225",
+      "provision_ref": "28",
+      "chapter": "IV. MINISTRSTVA",
+      "section": "4. Ministrstva in njihova delovna področja",
+      "article": "28",
+      "content": "Ministrstvo za delo, družino, socialne zadeve in enake možnosti opravlja naloge na področjih delovnih razmerij in pravic iz dela, zaposlovanja in poklicnega usposabljanja, enakih možnosti, družine, socialnih zadev in invalidskega varstva."
+    },
+    {
+      "document_id": "ZAKO3225",
+      "provision_ref": "28.a",
+      "chapter": "IV. MINISTRSTVA",
+      "section": "4. Ministrstva in njihova delovna področja",
+      "article": "28.a",
+      "title": "(ministrstvo za delo, družino, socialne zadeve in enake možnosti)",
+      "content": "Ministrstvo za digitalno preobrazbo opravlja naloge na področjih informacijske družbe, elektronskih komunikacij, informatizacije državne uprave, upravljanja informacijsko-komunikacijskih sistemov in zagotavljanja elektronskih storitev javne uprave, zagotavljanja delovanja državnega portala eUprava, varnih predalov ter centralne storitve za spletno prijavo in elektronski podpis."
+    },
+    {
+      "document_id": "ZAKO3225",
+      "provision_ref": "29",
+      "chapter": "IV. MINISTRSTVA",
+      "section": "4. Ministrstva in njihova delovna področja",
+      "article": "29",
+      "title": "(ministrstvo za digitalno preobrazbo)",
+      "content": "Ministrstvo za finance opravlja naloge na področjih makroekonomske politike in koordinacije strukturnih reform, zakladništva, javnega računovodstva, programskega proračuna, davčnega in carinskega sistema, javnofinančnih prihodkov in finančnega sistema, finančnega premoženja, poroštev, zadolževanja javnega sektorja, javno-zasebnega partnerstva, preglednosti finančnih odnosov, preprečevanja in odkrivanja pranja denarja, prirejanja iger na srečo, državnih pomoči ter fiskalnih analiz in napovedi."
+    },
+    {
+      "document_id": "ZAKO3225",
+      "provision_ref": "30",
+      "chapter": "IV. MINISTRSTVA",
+      "section": "4. Ministrstva in njihova delovna področja",
+      "article": "30",
+      "title": "(ministrstvo za finance)",
+      "content": "Ministrstvo za gospodarstvo, turizem in šport opravlja naloge na področjih gospodarskega razvoja, razvoja podjetništva, industrije, obrti, konkurenčnosti, povečanja dodane vrednosti gospodarstva, internacionalizacije, spodbujanja implementacije tehnologij in inovacij v gospodarstvu, krožnega gospodarstva, vesolja, socialne ekonomije, lesarstva, spodbujanja razvoja turizma, gospodarskih odnosov s tujino, ekonomskega sistema, notranjega trga, tehnične zakonodaje in meril, meroslovja, prava družb, intelektualne lastnine, pomoči gospodarskim družbam v težavah, varstva konkurence, varstva potrošnikov, trgovinske politike, drobnega gospodarstva, pokopališke in pogrebne dejavnosti, trgovine, pošte, blagovnih rezerv ter športa, razen nalog na področju športne vzgoje otrok in mladine."
+    },
+    {
+      "document_id": "ZAKO3225",
+      "provision_ref": "32",
+      "chapter": "IV. MINISTRSTVA",
+      "section": "4. Ministrstva in njihova delovna področja",
+      "article": "32",
+      "title": "(črtan)",
+      "content": "Ministrstvo za kmetijstvo, gozdarstvo in prehrano opravlja naloge na področjih kmetijstva, razvoja podeželja, prehrane, varstva rastlin, veterinarstva in zootehnike, gozdarstva, lovstva, ribištva, varnosti ter kakovosti krme in hrane oziroma živil, uporabe materialov, ki prihajajo v stik z živili v postopkih pridelave, predelave in distribucije živil, ter varnosti in kakovosti živil oziroma hrane v gostinski dejavnosti, institucionalnih obratih prehrane in obratih za prehrano na delu."
+    },
+    {
+      "document_id": "ZAKO3225",
+      "provision_ref": "32.a",
+      "chapter": "IV. MINISTRSTVA",
+      "section": "4. Ministrstva in njihova delovna področja",
+      "article": "32.a",
+      "title": "(ministrstvo za kmetijstvo, gozdarstvo in prehrano)",
+      "content": "Ministrstvo za kulturo opravlja naloge na področjih umetnosti, kulture, kulturne dediščine, filma, medijev, slovenskega jezika in verske svobode."
+    },
+    {
+      "document_id": "ZAKO3225",
+      "provision_ref": "32.b",
+      "chapter": "IV. MINISTRSTVA",
+      "section": "4. Ministrstva in njihova delovna področja",
+      "article": "32.b",
+      "title": "(ministrstvo za kulturo)",
+      "content": "Ministrstvo za kohezijo in regionalni razvoj opravlja naloge na področjih evropske kohezijske politike, upravljanja skladov te politike in upravljanja drugih virov nepovratnih sredstev za zmanjšanje ekonomskih in socialnih razlik ter na področju regionalnega razvoja."
+    },
+    {
+      "document_id": "ZAKO3225",
+      "provision_ref": "34",
+      "chapter": "IV. MINISTRSTVA",
+      "section": "4. Ministrstva in njihova delovna področja",
+      "article": "34",
+      "title": "(črtan)",
+      "content": "Ministrstvo za notranje zadeve opravlja naloge na področjih javne varnosti in policije, upravnih notranjih zadev in migracij."
+    },
+    {
+      "document_id": "ZAKO3225",
+      "provision_ref": "34.a",
+      "chapter": "IV. MINISTRSTVA",
+      "section": "4. Ministrstva in njihova delovna področja",
+      "article": "34.a",
+      "title": "(ministrstvo za notranje zadeve)",
+      "content": "Ministrstvo za javno upravo opravlja naloge na področjih javne uprave, razvojnega načrtovanja, sistemskega urejanja organiziranosti in delovanja javnega sektorja, sistema javnih uslužbencev, plačnega sistema v javnem sektorju, javnih naročil, volilne in referendumske zakonodaje, sistemskega urejanja splošnega upravnega postopka, sistemskega urejanja upravnih taks, upravnega poslovanja, dostopa do informacij javnega značaja, delovanja nevladnih organizacij, lokalne samouprave, kakovosti javne uprave, boljše zakonodaje ter odprave administrativnih ovir in naloge na področju sistemskega urejanja ravnanja s stvarnim premoženjem države in lokalnih skupnosti, centraliziranega ravnanja s stvarnim premoženjem države, načrtovanja in koordiniranja prostorskih potreb organov državne uprave ter drugih nalog na področju ravnanja s stvarnim premoženjem v skladu s predpisi ali aktom vlade."
+    },
+    {
+      "document_id": "ZAKO3225",
+      "provision_ref": "35",
+      "chapter": "IV. MINISTRSTVA",
+      "section": "4. Ministrstva in njihova delovna področja",
+      "article": "35",
+      "title": "(ministrstvo za javno upravo)",
+      "content": "Ministrstvo za obrambo opravlja naloge na področjih obrambnega sistema, sistema varstva pred naravnimi in drugimi nesrečami, vojnih invalidov, vojnih veteranov in žrtev vojnega nasilja ter vojnih grobišč."
+    },
+    {
+      "document_id": "ZAKO3225",
+      "provision_ref": "37",
+      "chapter": "IV. MINISTRSTVA",
+      "section": "4. Ministrstva in njihova delovna področja",
+      "article": "37",
+      "title": "(črtan)",
+      "content": "Ministrstvo za pravosodje opravlja naloge na področjih organizacije in statusa sodišč, državnega tožilstva, državnega odvetništva, ustavnega sodišča in varuha človekovih pravic, nadzora nad poslovanjem državnega tožilstva in državnega odvetništva ter druge vrste z zakonom določenih pravosodnih nadzorov, civilnega in kaznovalnega prava, sistemskega urejanja omejevanja korupcije, sodnih postopkov, alternativnega reševanja sporov, otrokom prijaznega pravosodja, pravosodne uprave, odvetništva, notariata, izvrševanja kazenskih sankcij, varstva osebnih podatkov, mednarodne pravne pomoči in mednarodnega pravosodnega sodelovanja v civilnih in kazenskih zadevah, usmerjanja ministrstev glede izvrševanja sodb mednarodnih sodišč, preučevanja in načrtovanja uveljavljanja temeljnih človekovih pravic in svoboščin, e-pravosodja ter naloge na področju načrtovanja in koordiniranja prostorskih potreb pravosodnih organov in vodenje investicij za potrebe teh organov."
+    },
+    {
+      "document_id": "ZAKO3225",
+      "provision_ref": "38",
+      "chapter": "IV. MINISTRSTVA",
+      "section": "4. Ministrstva in njihova delovna področja",
+      "article": "38",
+      "title": "(ministrstvo za pravosodje)",
+      "content": "Ministrstvo za infrastrukturo opravlja naloge na področjih prometne infrastrukture in žičniških naprav, usmerjanja, koordinacije in povezovanja upravljavcev cest, razvoja vseevropskega prometnega omrežja v Republiki Sloveniji ter cestnega, železniškega, žičniškega, zračnega in pomorskega prometa, plovbe po celinskih vodah ter mednarodnih avtobusnih in železniških prevozov."
+    },
+    {
+      "document_id": "ZAKO3225",
+      "provision_ref": "38.a",
+      "chapter": "IV. MINISTRSTVA",
+      "section": "4. Ministrstva in njihova delovna področja",
+      "article": "38.a",
+      "title": "(ministrstvo za infrastrukturo)",
+      "content": "Ministrstvo za naravne vire in prostor opravlja naloge na področjih ohranjanja narave, upravljanja voda, vključno s stanjem voda, investicij v vodno infrastrukturo, sistemskega urejanja gospodarskih javnih služb, javnih služb ohranjanja narave, javnih služb urejanja voda, gospodarskih javnih služb na področju oskrbe s pitno vodo ter odvajanja in čiščenja komunalne in padavinske odpadne vode, jedrske varnosti, varstva pred ionizirajočimi sevanji, odprave posledic naravnih nesreč, rudarstva, urejanja prostora in graditve objektov ter geodetske dejavnosti."
+    },
+    {
+      "document_id": "ZAKO3225",
+      "provision_ref": "38.b",
+      "chapter": "IV. MINISTRSTVA",
+      "section": "4. Ministrstva in njihova delovna področja",
+      "article": "38.b",
+      "title": "(ministrstvo za naravne vire in prostor)",
+      "content": "Ministrstvo za okolje, podnebje in energijo opravlja naloge na področjih varovanja okolja, okoljskih presoj, podnebnih sprememb in ravnanja z odpadki, energetike, učinkovite rabe energije in obnovljivih virov energije, oskrbe z naftnimi derivati in infrastrukture za alternativna goriva v prometu ter trajnostne mobilnosti, celostnega prometnega načrtovanja in javnega potniškega prometa v notranjem in čezmejnem prometu."
+    },
+    {
+      "document_id": "ZAKO3225",
+      "provision_ref": "38.c",
+      "chapter": "IV. MINISTRSTVA",
+      "section": "4. Ministrstva in njihova delovna področja",
+      "article": "38.c",
+      "title": "(ministrstvo za okolje, podnebje in energijo)",
+      "content": "Ministrstvo za solidarno prihodnost opravlja naloge na področjih stanovanjske politike, dolgotrajne oskrbe, deinstitucionalizacije starejših, dolgožive družbe, socialnega varstva v delu, ki se nanaša na institucionalno varstvo, pomoč družini na domu, vodenje in varstvo ter zaposlitve pod posebnimi pogoji, in ekonomske demokracije.\nMinistrstvo za visoko šolstvo, znanost in inovacije opravlja naloge na področjih visokega šolstva, znanstvenoraziskovalne in inovacijske dejavnosti ter tehnološkega razvoja."
+    },
+    {
+      "document_id": "ZAKO3225",
+      "provision_ref": "39",
+      "chapter": "IV. MINISTRSTVA",
+      "section": "4. Ministrstva in njihova delovna področja",
+      "article": "39",
+      "title": "(ministrstvo za visoko šolstvo, znanost in inovacije)",
+      "content": "Ministrstvo za vzgojo in izobraževanje opravlja naloge na področjih predšolske vzgoje, osnovnega, srednjega in višjega šolstva, izobraževanja odraslih, mladine ter športne vzgoje otrok in mladine."
+    },
+    {
+      "document_id": "ZAKO3225",
+      "provision_ref": "40",
+      "chapter": "IV. MINISTRSTVA",
+      "section": "4. Ministrstva in njihova delovna področja",
+      "article": "40",
+      "title": "(črtan)",
+      "content": "Ministrstvo za zdravje opravlja naloge na področjih javnega zdravja, zdravstvenega varstva, zdravstvenega zavarovanja, zdravstvene dejavnosti, kemijske varnosti, varstva pred sevanji, zdravil in medicinskih pripomočkov, prehranskih dopolnil, živil za posebne prehranske oziroma zdravstvene namene, proizvodnje in prometa materialov, ki prihajajo v stik z živili, njihove uporabe v postopkih proizvodnje in distribucije prehranskih dopolnil ter živil za posebne prehranske oziroma zdravstvene namene, zdravstveno ustrezne pitne vode, živil oziroma hrane v gostinski dejavnosti, institucionalnih obratih prehrane in obratih za prehrano na delu z vidika preprečevanja in obvladovanja nalezljivih bolezni."
+    },
+    {
+      "document_id": "ZAKO3225",
+      "provision_ref": "41",
+      "chapter": "IV. MINISTRSTVA",
+      "section": "4. Ministrstva in njihova delovna področja",
+      "article": "41",
+      "title": "(ministrstvo za zdravje)",
+      "content": "Ministrstvo za zunanje in evropske zadeve opravlja naloge na področjih zunanjih zadev države, gospodarske diplomacije, vključno z usklajevanjem in uveljavljanjem ter zaščito gospodarskih interesov države v tujini, konzularne zaščite in mednarodnega prava, vključno s sklepanjem mednarodnih pogodb, mednarodnega razvojnega sodelovanja in humanitarne pomoči, evropskih zadev ter usklajevanja stališč in sodelovanja z Organizacijo za gospodarsko sodelovanje in razvoj (OECD)."
+    },
+    {
+      "document_id": "ZAKO3225",
+      "provision_ref": "42",
+      "chapter": "IV. MINISTRSTVA",
+      "section": "4. Ministrstva in njihova delovna področja",
+      "article": "42",
+      "title": "(ministrstvo za zunanje in evropske zadeve)",
+      "content": "Naloge ministrstev lahko podrobneje določi vlada z uredbo.\nVlada z uredbo iz 21. člena tega zakona o ustanovitvi organov v sestavi določi tudi delovna področja organov v sestavi."
+    },
+    {
+      "document_id": "ZAKO3225",
+      "provision_ref": "43",
+      "chapter": "V. TERITORIALNA ORGANIZACIJA UPRAVE",
+      "article": "43",
+      "content": "Za opravljanje upravnih nalog, ki jih je zaradi njihove narave potrebno organizirati teritorialno, delujejo upravne enote.\nObmočja upravnih enot določi vlada z uredbo. Območja upravnih enot se določijo tako, da je zagotovljeno racionalno in učinkovito opravljanje upravnih nalog. Območje upravne enote praviloma obsega območje ene ali več lokalnih skupnosti.\nČe zakon tako določa, se opravljanje upravnih nalog, ki jih je zaradi njihove narave potrebno organizirati teritorialno, zagotavlja v območnih enotah, izpostavah oziroma drugače imenovanih dislociranih enotah ministrstev oziroma organov v njihovi sestavi."
+    },
+    {
+      "document_id": "ZAKO3225",
+      "provision_ref": "44",
+      "chapter": "V. TERITORIALNA ORGANIZACIJA UPRAVE",
+      "article": "44",
+      "title": "(upravne enote ter druge oblike teritorialne organiziranosti)",
+      "content": "Upravne enote odločajo na prvi stopnji v upravnih stvareh iz državne pristojnosti, če z zakonom za posamezne upravne stvari ni določeno drugače.\nUpravne enote opravljajo tudi druge upravne naloge iz državne pristojnosti, določene z zakoni, ki urejajo posamezna področja."
+    },
+    {
+      "document_id": "ZAKO3225",
+      "provision_ref": "45",
+      "chapter": "V. TERITORIALNA ORGANIZACIJA UPRAVE",
+      "article": "45",
+      "title": "(pristojnosti upravnih enot)",
+      "content": "Notranjo organizacijo upravne enote določi načelnica oziroma načelnik (v nadaljnjem besedilu: načelnik) upravne enote s soglasjem vlade."
+    },
+    {
+      "document_id": "ZAKO3225",
+      "provision_ref": "46",
+      "chapter": "V. TERITORIALNA ORGANIZACIJA UPRAVE",
+      "article": "46",
+      "title": "(notranja organizacija upravne enote)",
+      "content": "Upravno enoto vodi načelnik, ki se imenuje v skladu z zakonom, ki ureja položaj javnih uslužbencev."
+    },
+    {
+      "document_id": "ZAKO3225",
+      "provision_ref": "47",
+      "chapter": "V. TERITORIALNA ORGANIZACIJA UPRAVE",
+      "article": "47",
+      "title": "(načelnik upravne enote)",
+      "content": "Načelnik upravne enote predstavlja upravno enoto, izdaja odločbe v upravnem postopku na prvi stopnji, koordinira delo notranjih organizacijskih enot, zagotavlja opravljanje strokovnih in drugih nalog, ki so skupne notranjim organizacijskim enotam, opravlja druge organizacijske naloge v zvezi z delovanjem upravne enote, odloča o pravicah ter dolžnostih in delovnih razmerjih delavcev v upravni enoti in o drugih kadrovskih vprašanjih ter skrbi za sodelovanje z lokalnimi skupnostmi z območja upravne enote."
+    },
+    {
+      "document_id": "ZAKO3225",
+      "provision_ref": "48",
+      "chapter": "V. TERITORIALNA ORGANIZACIJA UPRAVE",
+      "article": "48",
+      "title": "(naloge načelnika upravne enote)",
+      "content": "Upravna enota opravlja zadeve s svojega delovnega področja pod strokovnim vodstvom ministrstev, na katerih delovno področje sodijo posamezne zadeve."
+    },
+    {
+      "document_id": "ZAKO3225",
+      "provision_ref": "49",
+      "chapter": "V. TERITORIALNA ORGANIZACIJA UPRAVE",
+      "article": "49",
+      "title": "(strokovno vodstvo ministrstev)",
+      "content": "Ministrstva, vsako na svojem delovnem področju:\n-        dajejo upravnim enotam usmeritve, strokovne napotke in drugo strokovno pomoč za izvrševanje nalog iz svoje pristojnosti,\n-        dajejo upravnim enotam obvezna navodila za izvrševanje nalog s svojih upravnih področij,\n-        spremljajo organizacijo dela v upravni enoti oziroma v ustrezni notranji organizacijski enoti, usposobljenost uslužbencev za opravljanje nalog in učinkovitost dela pri reševanju upravnih stvari,\n-        nadzorujejo izvrševanje upravnih nalog v upravni enoti,\n-        lahko naložijo upravni enoti, da v mejah svojih pristojnosti opravi določene naloge ali sprejme določene ukrepe ter o tem poroča.\nNačelnik upravne enote mora ravnati v skladu z usmeritvami, strokovnimi napotki in obveznimi navodili ministrstva, pristojnega za ustrezno delovno področje."
+    },
+    {
+      "document_id": "ZAKO3225",
+      "provision_ref": "50",
+      "chapter": "V. TERITORIALNA ORGANIZACIJA UPRAVE",
+      "article": "50",
+      "title": "(razmerja med resornimi ministrstvi in upravnimi enotami)",
+      "content": "Načelnik upravne enote mora redno poročati ministrstvu, pristojnemu za upravo, in resornim ministrstvom o izvrševanju nalog upravne enote.\nPoročanje ministrstvu, pristojnemu za upravo, zajema celotno delovanje upravne enote, poročanje resornim ministrstvom pa zajema izvrševanje nalog na njihovih delovnih področjih."
+    },
+    {
+      "document_id": "ZAKO3225",
+      "provision_ref": "51",
+      "chapter": "V. TERITORIALNA ORGANIZACIJA UPRAVE",
+      "article": "51",
+      "title": "(poročanje ministrstvom)",
+      "content": "Če ministrstvo, pristojno za določeno upravno področje, ugotovi, da upravna enota ne izvršuje nalog iz pristojnosti ministrstva oziroma jih ne izvršuje pravilno ali pravočasno, mora na to opozoriti načelnika upravne enote in mu naložiti, da zagotovi izvrševanje teh nalog oziroma da odpravi ugotovljene nepravilnosti v roku, ki mu ga določi. Ministrstvo, pristojno za določeno upravno področje, o opravljenem nadzoru in rezultatih nadzora obvesti tudi ministrstvo, pristojno za upravo.\nČe načelnik upravne enote ne ravna v skladu z opozorilom ministrstva, lahko ministrstvo neposredno opravi posamezno nalogo iz pristojnosti upravne enote. Ministrstvo mora neposredno opraviti posamezno nalogo iz pristojnosti upravne enote, če bi zaradi tega utegnile nastati škodljive posledice za življenje ali zdravje ljudi, za naravno oziroma življenjsko okolje ali premoženje.\nMinister, pristojen za upravo, lahko na predlog načelnika upravne enote po pridobitvi soglasja ministra, pristojnega za določeno upravno področje, s sklepom izjemoma določi drugo krajevno pristojno upravno enoto za reševanje posamičnih upravnih zadev na določenem upravnem področju, v katerih upravna enota še ni opravila nobenih dejanj v postopku. Sklep se izda, če je očitno, da krajevno pristojna upravna enota ne more odločiti v zakonitem roku, niti ni objektivno pričakovati, da bi to lahko storila v razumnem času po izteku tega roka. Pri določanju obsega upravnih zadev se izhaja iz načela enake obremenjenosti upravnih enot glede na število uradnih oseb in upravnih zadev v reševanju.\nUpravna enota, ki postane krajevno pristojna na podlagi sklepa iz prejšnjega odstavka, o prenosu upravne zadeve obvesti stranko."
+    },
+    {
+      "document_id": "ZAKO3225",
+      "provision_ref": "52",
+      "chapter": "V. TERITORIALNA ORGANIZACIJA UPRAVE",
+      "article": "52",
+      "title": "(nadzor ministrstev, prevzem pristojnosti in prenos krajevne pristojnosti med upravnimi enotami)",
+      "content": "Ministrstvo, pristojno za določeno upravno področje, odloča o pritožbi zoper odločbo ali drug posamični akt, ki ga je v upravnih stvareh na prvi stopnji izdala upravna enota.\nČe je v ministrstvu za določeno upravno področje ustanovljen organ v sestavi, odloča o pritožbi zoper odločbo ali drug posamični akt, ki ga je na prvi stopnji izdala upravna enota, organ v sestavi. (prenehal veljati)"
+    },
+    {
+      "document_id": "ZAKO3225",
+      "provision_ref": "53",
+      "chapter": "V. TERITORIALNA ORGANIZACIJA UPRAVE",
+      "article": "53",
+      "title": "(odločanje o pritožbi)",
+      "content": "Ministrstvo, pristojno za upravo:\n-        nadzoruje organizacijo dela in učinkovitost upravne enote v celoti,\n-        spremlja usposobljenost delavcev na delovnih mestih, na katerih se ne opravljajo upravne naloge iz delovnih področij drugih ministrstev,\n-        daje upravni enoti usmeritve in navodila za izboljšanje organizacije, učinkovitosti in kakovosti dela,\n-        predlaga vladi izdajo soglasja k notranji organizaciji in sistemizaciji delovnih mest v upravni enoti,\n-        usklajuje reševanje kadrovskih, finančnih, prostorskih, materialnih in drugih podobnih vprašanj v zvezi z delom upravnih enot.\nNačelnik upravne enote za svoje delo in delo upravne enote odgovarja ministru, pristojnemu za upravo. Minister, pristojen za upravo, kot predstojnik načelnika upravne enote s splošnim aktom uredi način uresničevanja pravic in obveznosti iz delovnega razmerja načelnikov upravnih enot.\nUsmeritve in obvezna navodila ministrstev iz 49. člena tega zakona so za upravne enote zavezujoča, če z njimi z vidika organizacijskih, kadrovskih, finančnih in drugih posledic za poslovanje upravne enote pisno soglaša minister, pristojen za upravo. V primeru spora odloči vlada.\nČe ima podzakonski predpis, ki ga izda pristojni minister, kadrovske, finančne ali druge posledice za poslovanje upravne enote, mora pred njegovo izdajo pristojni minister pridobiti pisno mnenje ministrstva, pristojnega za upravo. V primeru spora odloči vlada."
+    },
+    {
+      "document_id": "ZAKO3225",
+      "provision_ref": "54",
+      "chapter": "V. TERITORIALNA ORGANIZACIJA UPRAVE",
+      "article": "54",
+      "title": "(razmerja med ministrstvom, pristojnim za upravo, in upravnimi enotami)",
+      "content": "V sporih o pristojnosti med upravnimi enotami odloča ministrstvo, pristojno za upravo."
+    },
+    {
+      "document_id": "ZAKO3225",
+      "provision_ref": "55",
+      "chapter": "V. TERITORIALNA ORGANIZACIJA UPRAVE",
+      "article": "55",
+      "title": "(spor o pristojnosti med upravnimi enotami)",
+      "content": "Za sodelovanje med upravno enoto, občinskimi upravami in območnimi enotami, izpostavami in drugimi dislociranimi organizacijskimi enotami ministrstev, organov v njihovi sestavi ter oseb javnega prava, katerih ustanovitelj je država in ki pretežno opravljajo upravne naloge, se za območje upravne enote ustanovi poseben koordinacijski sosvet, v katerem sodelujejo načelnik upravne enote, župani oziroma direktorji občinskih uprav (tajniki občin) ali od župana oziroma direktorja občinske uprave (tajnika občine) pooblaščeni predstavniki občinske uprave in vodje dislociranih enot tega odstavka.\nKoordinacijski sosvet obravnava vprašanja v zvezi z organizacijo, učinkovitostjo in kakovostjo dela državne uprave na območju upravne enote z namenom zagotoviti čim bolj usklajeno delovanje javne uprave na tem območju in usklajeno reševanje organizacijskih, prostorskih, materialnih vprašanj, vprašanj splošnega poslovanja (poslovanja s strankami, poslovanja z dokumentarnim gradivom itd.) in drugih podobnih vprašanj. Načelnik upravne enote kot koordinator sosveta skupne predloge in vprašanja posreduje ministrstvu, pristojnemu za upravo, in ministrstvom, na katerih delovno področje se predlogi in vprašanja nanašajo."
+    },
+    {
+      "document_id": "ZAKO3225",
+      "provision_ref": "56",
+      "chapter": "VI. RAZMERJA MINISTRSTEV",
+      "section": "1. Razmerja do vlade",
+      "article": "56",
+      "content": "Ministrstva se morajo ravnati po političnih usmeritvah vlade.\nVlada lahko naloži ministrstvu, da prouči določeno vprašanje ali opravi določeno nalogo in ji o tem poroča."
+    },
+    {
+      "document_id": "ZAKO3225",
+      "provision_ref": "57",
+      "chapter": "VI. RAZMERJA MINISTRSTEV",
+      "section": "1. Razmerja do vlade",
+      "article": "57",
+      "title": "(razmerje med vlado in ministrstvi)",
+      "content": "Ministrstva poročajo vladi o svojem delu, zlasti o stanju na njihovih upravnih področjih, o izvrševanju zakonov, drugih predpisov in usmeritev vlade, o ukrepih, ki so jih sprejeli, ter o njihovih učinkih."
+    },
+    {
+      "document_id": "ZAKO3225",
+      "provision_ref": "58",
+      "chapter": "VI. RAZMERJA MINISTRSTEV",
+      "section": "1. Razmerja do vlade",
+      "article": "58",
+      "title": "(poročanje o delu)",
+      "content": "Ministrstvo lahko daje vladi predloge in pobude za urejanje vprašanj z njegovih upravnih področij, ki so v pristojnosti vlade ali državnega zbora.\nMinistrstvo lahko zahteva, da vlada zavzame stališče ali da mu da usmeritve za reševanje posameznih vprašanj z njegovih upravnih področij."
+    },
+    {
+      "document_id": "ZAKO3225",
+      "provision_ref": "59",
+      "chapter": "VI. RAZMERJA MINISTRSTEV",
+      "section": "2. Medsebojna razmerja",
+      "article": "59",
+      "content": "Ministrstva in drugi upravni organi morajo med seboj sodelovati v vseh skupnih vprašanjih.\nMinistrstva in drugi upravni organi pri vzpostavljanju informacijskih sistemov, za katere so pristojni, sodelujejo z ministrstvom, pristojnim za upravljanje informacijsko-komunikacijskih sistemov.\nMinistrstva ustanavljajo skupna delovna telesa v zadevah, ki po svoji naravi zahtevajo sodelovanje več ministrstev.\nZa obravnavo posameznih vprašanj oblikujejo ministrstva skupne delovne skupine ali organizirajo druge oblike medsebojnega sodelovanja."
+    },
+    {
+      "document_id": "ZAKO3225",
+      "provision_ref": "60",
+      "chapter": "VI. RAZMERJA MINISTRSTEV",
+      "section": "2. Medsebojna razmerja",
+      "article": "60",
+      "title": "(sodelovanje ministrstev in drugih upravnih organov)",
+      "content": "Ministrstva morajo pri pripravljanju predpisov in drugih aktov medsebojno sodelovati oziroma si pred izdajo predpisa oziroma pred predložitvijo predpisa ali drugega akta vladi pridobiti mnenje drugih pristojnih ministrstev.\nČe ministrstvo ne sprejme pomembnejših pripomb drugega ministrstva, mora ob predložitvi predpisa ali drugega splošnega akta o tem obvestiti vlado."
+    },
+    {
+      "document_id": "ZAKO3225",
+      "provision_ref": "61",
+      "chapter": "VI. RAZMERJA MINISTRSTEV",
+      "section": "2. Medsebojna razmerja",
+      "article": "61",
+      "title": "(usklajevanje predpisov)",
+      "content": "Kadar je z zakonom določeno, da določeno odločitev sprejme posamezno ministrstvo v soglasju z drugim ministrstvom, pa med njima ni doseženo soglasje, mora ministrstvo, ki je pooblaščeno za sprejem odločitve, o spornem vprašanju obvestiti vlado in zahtevati, da o njem odloči.\nČe se pri delu ministrstev pojavijo druga sporna vprašanja, odloči o tem sporu vlada, ki da usmeritve za njihovo rešitev."
+    },
+    {
+      "document_id": "ZAKO3225",
+      "provision_ref": "62",
+      "chapter": "VI. RAZMERJA MINISTRSTEV",
+      "section": "2. Medsebojna razmerja",
+      "article": "62",
+      "title": "(sporna vprašanja med ministrstvi)",
+      "content": "Če posamezna naloga zadeva upravna področja dveh ali več ministrstev, prevzame vodenje take naloge ministrstvo, na katerega upravno področje sodi naloga po pretežnosti, druga ministrstva pa morajo pri tem sodelovati.\nČe med ministrstvi ni doseženo soglasje, odloči o spornem vprašanju vlada."
+    },
+    {
+      "document_id": "ZAKO3225",
+      "provision_ref": "63",
+      "chapter": "VI. RAZMERJA MINISTRSTEV",
+      "section": "2. Medsebojna razmerja",
+      "article": "63",
+      "title": "(vodenje nalog s področij več ministrstev)",
+      "content": "Predsednik vlade lahko pooblasti ministra, da vodi ali usklajuje delo dveh ali več ministrstev pri oblikovanju politik in opravljanju izvršilnih nalog oziroma da vodi izvajanje določenega projekta vlade, ki sodi na upravna področja več ministrstev."
+    },
+    {
+      "document_id": "ZAKO3225",
+      "provision_ref": "64",
+      "chapter": "VI. RAZMERJA MINISTRSTEV",
+      "section": "3. Razmerja do organov lokalnih skupnosti",
+      "article": "64",
+      "content": "Ministrstva, vsako na svojem področju, pri opravljanju nadzorstva nad zakonitostjo dela organov lokalnih skupnosti nadzorujejo zakonitost splošnih in posamičnih aktov, ki jih izdajajo organi lokalnih skupnosti v zadevah iz pristojnosti lokalnih skupnosti.\nPristojno ministrstvo mora opozoriti organ lokalne skupnosti, ki je izdal akt, za katerega meni, da ni v skladu z ustavo in zakonom, mu predlagati ustrezne rešitve in določiti rok, v katerem mora organ lokalne skupnosti sporen akt uskladiti.\nČe organ lokalne skupnosti v roku iz prejšnjega odstavka ne uskladi svojega predpisa z ustavo ali zakonom, mora ministrstvo predlagati vladi, da zahteva začetek postopka pred ustavnim sodiščem za oceno skladnosti predpisa lokalne skupnosti z ustavo oziroma zakonom."
+    },
+    {
+      "document_id": "ZAKO3225",
+      "provision_ref": "65",
+      "chapter": "VI. RAZMERJA MINISTRSTEV",
+      "section": "3. Razmerja do organov lokalnih skupnosti",
+      "article": "65",
+      "title": "(nadzor ministrstev nad zakonitostjo aktov iz pristojnosti lokalnih skupnosti)",
+      "content": "Pristojno ministrstvo mora opozoriti organ lokalne skupnosti, ki nadzoruje delo uprave lokalne skupnosti, če ugotovi, da uprava lokalne skupnosti ne ravna v skladu z zakonom in drugim zakonitim predpisom, in mora predlagati ustrezne ukrepe."
+    },
+    {
+      "document_id": "ZAKO3225",
+      "provision_ref": "66",
+      "chapter": "VI. RAZMERJA MINISTRSTEV",
+      "section": "3. Razmerja do organov lokalnih skupnosti",
+      "article": "66",
+      "title": "(opozorila ministrstva nadzornemu organu lokalne skupnosti)",
+      "content": "Ministrstva, vsako na svojem področju, opravljajo nadzorstvo nad zakonitostjo posamičnih upravnih aktov organov lokalnih skupnosti, kadar ti odločajo v upravnih stvareh iz prenesene državne pristojnosti.\nO pritožbi zoper posamične akte, ki jih v zadevah iz prenesene državne pristojnosti na prvi stopnji izdajajo organi lokalnih skupnosti, odloča ministrstvo, pristojno za ustrezno področje."
+    },
+    {
+      "document_id": "ZAKO3225",
+      "provision_ref": "67",
+      "chapter": "VI. RAZMERJA MINISTRSTEV",
+      "section": "3. Razmerja do organov lokalnih skupnosti",
+      "article": "67",
+      "title": "(nadzor ministrstev nad zakonitostjo pri prenesenih nalogah iz državne pristojnosti)",
+      "content": "V zadevah, ki jih na organe lokalnih skupnosti prenese država, opravljajo pristojna ministrstva tudi nadzorstvo nad primernostjo in strokovnostjo njihovega dela.\nPri izvajanju nadzorstva iz prejšnjega odstavka lahko pristojno ministrstvo da obvezno navodilo za organizacijo služb in sistemizacijo delovnih mest za opravljanje teh nalog ter daje obvezna navodila za opravljanje nalog iz državne pristojnosti.\nPristojno ministrstvo si zagotavlja pregled nad delom organov lokalnih skupnosti pri izvrševanju nalog iz državne pristojnosti; v ta namen zahteva od organov lokalnih skupnosti poročila, obvestila, mnenja in podatke ter njihovo obvezno sodelovanje."
+    },
+    {
+      "document_id": "ZAKO3225",
+      "provision_ref": "68",
+      "chapter": "VI. RAZMERJA MINISTRSTEV",
+      "section": "3. Razmerja do organov lokalnih skupnosti",
+      "article": "68",
+      "title": "(nadzor ministrstev nad primernostjo in strokovnostjo pri prenesenih nalogah iz državne pristojnosti)",
+      "content": "Upravna enota mora opozoriti pristojno ministrstvo, če ugotovi, da organi lokalnih skupnosti pri opravljanju nalog iz pristojnosti lokalnih skupnosti ravnajo nezakonito. Upravna enota mora prav tako opozoriti pristojno ministrstvo, če ugotovi, da organi lokalnih skupnosti pri nalogah iz državne pristojnosti, ki so prenesene na lokalne skupnosti, ravnajo neprimerno in nestrokovno."
+    },
+    {
+      "document_id": "ZAKO3225",
+      "provision_ref": "69",
+      "chapter": "VI. RAZMERJA MINISTRSTEV",
+      "section": "3. Razmerja do organov lokalnih skupnosti",
+      "article": "69",
+      "title": "(opozorila upravne enote)",
+      "content": "Ministrstva dajejo organom lokalnih skupnosti strokovno pomoč s svojega delovnega področja pri prenesenih nalogah iz državne pristojnosti in pri nalogah iz pristojnosti lokalnih skupnosti."
+    },
+    {
+      "document_id": "ZAKO3225",
+      "provision_ref": "70",
+      "chapter": "VI. RAZMERJA MINISTRSTEV",
+      "section": "3. Razmerja do organov lokalnih skupnosti",
+      "article": "70",
+      "title": "(strokovna pomoč)",
+      "content": "Če ministrstvo ugotovi, da organ lokalne skupnosti ne izvršuje nalog iz državne pristojnosti, mora opozoriti organ lokalne skupnosti in mu z odločbo naložiti, da zagotovi izvrševanje teh nalog v roku, ki ga določi.\nČe organ lokalne skupnosti nalog iz državne pristojnosti ne izvršuje pravilno in pravočasno, ga mora ministrstvo opozoriti na ugotovljene nepravilnosti ter mu določiti način in rok za njihovo odpravo.\nV primerih iz prvega in drugega odstavka tega člena lahko ministrstvo predlaga pristojnemu organu lokalne skupnosti tudi ukrepe zoper odgovorno uradno osebo."
+    },
+    {
+      "document_id": "ZAKO3225",
+      "provision_ref": "71",
+      "chapter": "VI. RAZMERJA MINISTRSTEV",
+      "section": "3. Razmerja do organov lokalnih skupnosti",
+      "article": "71",
+      "title": "(ukrepi za odpravo nepravilnosti pri izvrševanju nalog iz državne pristojnosti)",
+      "content": "Če organ lokalne skupnosti ne ravna v skladu z opozorilom ministrstva, lahko ministrstvo na stroške lokalne skupnosti neposredno opravi posamezno nalogo iz državne pristojnosti, ki bi jo moral opraviti organ lokalne skupnosti.\nMinistrstvo mora neposredno opraviti posamezno nalogo iz pristojnosti organa lokalne skupnosti, če bi zaradi opustitve naloge utegnile nastati škodljive posledice za življenje ali zdravje ljudi, za naravno oziroma življenjsko okolje ali premoženje.\nČe organ lokalne skupnosti kljub večkratnim opozorilom ne opravlja nalog iz državne pristojnosti, ki jih je na lokalno skupnost prenesla država, ali če jih ne izvršuje pravilno in pravočasno, lahko ministrstvo predlaga vladi, da začne postopek za odvzem prenesenih nalog."
+    },
+    {
+      "document_id": "ZAKO3225",
+      "provision_ref": "72",
+      "chapter": "VI. RAZMERJA MINISTRSTEV",
+      "section": "4. Nadzor nad nosilci javnih pooblastil",
+      "article": "72",
+      "content": "Ministrstvo opravlja nadzor nad zakonitostjo splošnih in posamičnih pravnih aktov, izdanih za izvrševanje javnih pooblastil.\nSplošni akti, izdani za izvrševanje javnih pooblastil, morajo biti objavljeni v Uradnem listu Republike Slovenije. Za namen iz prejšnjega odstavka pošlje nosilec javnega pooblastila splošni akt iz prejšnjega odstavka pred njegovo izdajo pristojnemu ministrstvu v soglasje. Če se ministrstvo v 15 dneh ne izreče, se šteje, da je soglasje dano.\nČe ministrstvo meni, da je splošni akt, izdan za izvrševanje javnih pooblastil, neskladen z ustavo, zakonom ali podzakonskim predpisom, predlaga nosilcu javnega pooblastila, da o njem ponovno odloči in pri tem navede razloge za svoj predlog. Če nosilec javnega pooblastila vztraja pri svoji odločitvi, ministrstvo predlaga vladi, da zadrži objavo splošnega akta, izdanega za izvrševanje javnih pooblastil. (črtan)\nDoločbe tega člena se ne uporabljajo za javne agencije. Za nadzor nad javnimi agencijami se uporabljajo določbe splošnega zakona, ki ureja javne agencije, in zakonov, ki urejajo posamezne javne agencije."
+    },
+    {
+      "document_id": "ZAKO3225",
+      "provision_ref": "73",
+      "chapter": "VI. RAZMERJA MINISTRSTEV",
+      "section": "5. Nadzor ministrstva, pristojnega za upravo",
+      "article": "73",
+      "content": "Ministrstvo, pristojno za upravo, opravlja v upravnih organih in pri nosilcih javnih pooblastil nadzorstvo nad izvajanjem predpisov o upravnem poslovanju ter v upravah samoupravnih lokalnih skupnosti nadzorstvo nad izvajanjem predpisov o upravnem poslovanju v obsegu, v katerem ti predpisi zavezujejo samoupravne lokalne skupnosti.\nNadzorstvo opravljajo upravni inšpektorji.\nPooblastilo za opravljanje inšpekcijskega nadzorstva izkazujejo upravni inšpektorji s službeno izkaznico. Obrazec službene izkaznice predpiše minister, pristojen za javno upravo.\nUpravni inšpektor ima pravico do vstopa v prostore upravnega organa oziroma nosilca javnega pooblastila ter pravico do vpogleda v dokumentacijo, ki se nanaša na upravne postopke in upravno poslovanje, vključno s tajnimi podatki, osebnimi podatki, poslovnimi skrivnostmi, davčnimi tajnostmi in drugimi varovanimi podatki. Upravni organ mora zagotoviti upravnemu inšpektorju pogoje za delo in vse potrebne informacije. (prenehal veljati)\nUpravni inšpektor o nadzoru sestavi zapisnik, ki se vroči predstojniku upravnega organa oziroma nosilca javnega pooblastila, pristojnemu ministru in ministru, pristojnemu za upravo. V zapisniku lahko upravni inšpektor predlaga ustrezne ukrepe za odpravo ugotovljenih pomanjkljivosti. Na zapisnik ima predstojnik upravnega organa oziroma nosilca javnega pooblastila pravico ugovora v osmih dneh od dneva vročitve zapisnika. O ugovoru na zapisnik odloča minister, pristojen za upravo, ki lahko tudi predlaga predstojniku organa oziroma nosilca javnega pooblastila, pristojnemu ministru oziroma vladi ustrezne ukrepe za odpravo ugotovljenih pomanjkljivosti. (prenehal veljati)"
+    },
+    {
+      "document_id": "ZAKO3225",
+      "provision_ref": "74",
+      "chapter": "VII. PREDPISI UPRAVE",
+      "article": "74",
+      "content": "Za izvrševanje zakonov, drugih predpisov državnega zbora, predpisov vlade ter predpisov Evropske unije ministri izdajajo pravilnike, odredbe in navodila.\nPravilnik, odredba ali navodilo se izda, če tako določa zakon ali uredba izdana za izvrševanje zakona ali če minister oceni, da je to potrebno za izvrševanje zakona ali predpisa Evropske unije.\nS pravilnikom se podrobneje razčlenijo posamezne določbe zakona ali drugega predpisa.\nZ odredbo se določijo ukrepi, ki imajo splošen pomen.\nZ navodilom se predpiše način ravnanja.\nČe vsebina pravilnika spada v delovno področje več ministrov, pristojni ministri skupaj izdajo pravilnik.\nČe minister seznanja javnost z odločitvijo organa Evropske unije, ki učinkuje neposredno, to stori z naznanilom, ki se objavi v Uradnem listu Republike Slovenije.\nNosilci javnih pooblastil izdajajo splošne akte za izvrševanje javnih pooblastil, če tako določa zakon."
+    },
+    {
+      "document_id": "ZAKO3225",
+      "provision_ref": "74.a",
+      "chapter": "VIII. ELEKTRONSKO POSLOVANJE UPRAVE",
+      "article": "74.a",
+      "content": "Ministrstvo, pristojno za upravljanje informacijsko-komunikacijskih sistemov, je v državni upravi pristojno za upravljanje informacijsko komunikacijske infrastrukture, razvoj skupnih informacijskih rešitev ter njihovo tehnološko, procesno in organizacijsko skladnost s centralnim informacijsko komunikacijskim sistemom, ter načrtovanje in upravljanje vseh proračunskih virov na teh področjih.\nDoločba prejšnjega odstavka ne velja za informacijsko komunikacijske sisteme, namenjene področju obrambe, varstva pred naravnimi in drugimi nesrečami, policije, interni informacijski sistem notranjih zadev, obveščevalno-varnostne dejavnosti, zunanjih zadev, preprečevanja in odkrivanja pranja denarja in financiranja terorizma ter opravljanja plačilnega prometa za proračunske uporabnike.\nVlada določi podatkovne in tehnološke standarde, smernice za skupne informacijske rešitve in skupno varnostno politiko.\nMinistrstvo, pristojno za upravljanje informacijsko-komunikacijskih sistemov, zagotavlja storitve centralnega informacijsko komunikacijskega sistema, elektronsko podporo upravnim ter drugim postopkom in razvoj skupnih informacijskih rešitev za elektronsko poslovanje državnih organov, javnih agencij, organov lokalnih skupnosti in nosilcev javnih pooblastil.\nStroške uporabe storitev centralnega informacijsko komunikacijskega sistema za državne organe in centre za socialno delo krije državni proračun. Javne agencije, organi lokalnih skupnosti, nosilci javnih pooblastil in ostali uporabniki storitve plačujejo v skladu s cenikom, ki ga določi minister, pristojen za upravo.\nOrgani državne uprave, organi lokalnih skupnosti ter druge pravne in fizične osebe, kadar na podlagi javnih pooblastil opravljajo upravne naloge, pri izvrševanju upravnih nalog vodijo elektronske evidence dokumentarnega gradiva s svojega delovnega področja. V elektronske evidence dokumentarnega gradiva se z namenom opravljanja upravnih nalog evidentira osebno ime oziroma firma subjekta dokumentarnega gradiva, naslov njegovega prebivališča oziroma sedež in morebitni elektronski naslov. Osebni podatki se iz evidence izbrišejo ob uničenju dokumentov ali ob njihovem izločanju, če niso na podlagi zakona, ki ureja arhivsko gradivo in arhive, opredeljeni kot arhivsko gradivo. V elektronskih evidencah dokumentarnega gradiva se evidentirajo tudi dokumenti v elektronski obliki oziroma fizični dokumenti, ki so pretvorjeni v elektronsko obliko. Elektronske evidence dokumentarnega gradiva se povezujejo s centralnim registrom prebivalstva in Poslovnim registrom Slovenije tako, da se na podlagi EMŠO, davčne ali matične številke, v postopkih, kjer so ti podatki obvezna sestavina vloge, v elektronske evidence dokumentarnega gradiva pri organu na posamezno zahtevo organa prenesejo podatki o osebnem imenu oziroma firmi, o naslovu stalnega ali začasnega prebivališča oziroma sedežu in o elektronskem naslovu za vročanje."
+    },
+    {
+      "document_id": "ZAKO3225",
+      "provision_ref": "74.c",
+      "chapter": "VIII. ELEKTRONSKO POSLOVANJE UPRAVE",
+      "article": "74.c",
+      "title": "(črtan)",
+      "content": "Za namen upravljanja informacijsko-komunikacijske infrastrukture iz prvega odstavka 74.a člena tega zakona ministrstvo, pristojno za upravljanje informacijsko-komunikacijskih sistemov, vzpostavi in upravlja centralni imenik.\nV centralnem imeniku se obdelujejo podatki o imenu, priimku, davčni številki in elektronskem naslovu javnih uslužbencev državne uprave ter naziv in naslov organa, kjer so javni uslužbenci zaposleni.\nMinistrstvo, pristojno za javno upravo, vzpostavi in upravlja informacijski sistem za podporo izvajanju politike upravljanja s kadrovskimi viri v organih državne uprave (v nadaljnjem besedilu: informacijski sistem za upravljanje s kadrovskimi viri). Namen obdelave osebnih podatkov v informacijskem sistemu za upravljanje s kadrovskimi viri je podpora učinkovitemu vodenju kadrovskih postopkov v okviru izvajanja politike upravljanja s kadrovskimi viri v organih državne uprave, kot jih določa zakon, ki ureja javne uslužbence: zagotavljanje internega trga dela, letni razgovori, načrtovanje izobraževanja, izpopolnjevanja in usposabljanja ter spremljanje kariere in strokovnosti dela javnih uslužbencev.\nV informacijski sistem za upravljanje s kadrovskimi viri se iz centralne kadrovske evidence državne uprave, ki se vodi v okviru informacijskega sistema MFERAC (v nadaljnjem besedilu: centralna kadrovska evidenca) za javnega uslužbenca prenesejo podatki, ki so v upravljanju posameznega organa državne uprave in so potrebni za izvajanje kadrovskih postopkov v okviru politike upravljanja s kadrovskimi viri iz prejšnjega odstavka, in sicer podatki o imenu in priimku, delovnem razmerju, delovnem mestu in nazivu javnega uslužbenca ter o elektronskem naslovu, če je ta vnesen v centralno kadrovsko evidenco.\nV informacijskem sistemu za upravljanje s kadrovskimi viri se poleg podatkov iz prejšnjega odstavka hranita tudi zapis letnega pogovora, vključno z ugotovitvami glede kariere in strokovne usposobljenosti javnega uslužbenca, in davčna številka.\nDostop do podatkov v informacijskem sistemu za upravljanje s kadrovskimi viri imajo osebe, ki imajo dostop do podatkov iz centralne kadrovske evidence v skladu z zakonom, ki ureja javne uslužbence, kadar je to potrebno za izvajanje nalog iz tretjega odstavka tega člena.\nCentralni imenik in informacijski sistem za upravljanje s kadrovskimi viri se samodejno povezujeta s centralno kadrovsko evidenco. Povezovanje se izvede tako, da centralna kadrovska evidenca samodejno iz informacijskega sistema MFERAC za namen pridobitve povezovalnega znaka pridobi davčno številko, nato pa se iz centralne kadrovske evidence na podlagi pridobljene davčne številke, za namene iz prvega in tretjega odstavka tega člena, samodejno prenesejo podatki, potrebni za delovanje centralnega imenika oziroma za delovanje informacijskega sistema za upravljanje s kadrovskimi viri.\nDoločbe tega člena, ki se nanašajo na centralni imenik, se ne uporabljajo za področja iz drugega odstavka 74.a člena tega zakona.\nOsebni podatki iz centralnega imenika in informacijskega sistema za upravljanje s kadrovskimi viri se hranijo do prenehanja delovnega razmerja javnega uslužbenca, nato pa se izbrišejo. Ne glede na prejšnji stavek se podatek o zapisu letnega pogovora, vključno z ugotovitvami glede kariere in strokovne usposobljenosti javnega uslužbenca, hrani za obdobje, ko ima javni uslužbenec istega nadrejenega, nato pa se izbriše."
+    },
+    {
+      "document_id": "ZAKO3225",
+      "provision_ref": "75",
+      "chapter": "IX. PREHODNE IN KONČNE DOLOČBE",
+      "article": "75",
+      "content": "Koordinacijski sosveti se konstituirajo najkasneje v treh mesecih od uveljavitve tega zakona."
+    },
+    {
+      "document_id": "ZAKO3225",
+      "provision_ref": "76",
+      "chapter": "IX. PREHODNE IN KONČNE DOLOČBE",
+      "article": "76",
+      "content": "Z dnem uveljavitve tega zakona prenehajo veljati zakonske določbe, ki določajo organe in organizacije v sestavi ministrstev ter urejajo njihova razmerja do ministrstev in njihovo notranjo organizacijo, razen določb zakona o obrambi (Uradni list RS, št. 82/94, 44/97, 87/97, 13/98 – odločba US, 87/2001 – ZMatD in 47/2002).\nNa področjih, kjer je v zakonu iz prvega odstavka tega člena določeno, da organ v sestavi odloča v upravnem postopku na prvi in na drugi stopnji, najkasneje v šestih mesecih od uveljavitve tega zakona prevzame odločanje na drugi stopnji pristojno ministrstvo; ministrstvo prevzame tudi delavce ter ustrezne pravice proračunske uporabe, prostore, opremo in dokumentacijo. Od prevzema nalog po tem odstavku se za davčni organ po zakonu o davčnem postopku (Uradni list RS, št. 18/96, 87/97, 35/98 – odločba US, 82/98, 91/98, 1/99 – ZNIDC, 108/99, 37/2001 – odločba US in 97/2001) šteje tudi pristojno ministrstvo.\nOrgani in organizacije v sestavi ministrstev, ustanovljeni z zakonom o organizaciji in delovnem področju ministrstev (Uradni list RS, št. 71/94, 47/97, 60/99, 119/2000 – ZVRS-C, 30/2001 – ZTel in 30/2001) ali z drugim zakonom, po uveljavitvi tega zakona nadaljujejo z delom do uveljavitve uredbe iz 21. člena tega zakona. S tem dnem ti organi oziroma organizacije v sestavi ministrstev prenehajo delovati, razen tistih, za katere je z uredbo iz 21. člena tega zakona določeno drugače. Naloge organov in organizacij v sestavi ministrstev, ki prenehajo delovati v skladu z uredbo iz 21. člena tega zakona, prevzamejo pristojna ministrstva oziroma organi v sestavi ministrstev, določeni z uredbo iz 21. člena tega zakona.\nNe glede na določbe 74. člena tega zakona navodila in odredbe, izdani kot podzakonski predpisi, ostanejo v veljavi.\nZakonske določbe iz prvega odstavka tega člena se uporabljajo do uveljavitve uredbe iz 21. člena tega zakona.\nMinistrstvo oziroma organi v njegovi sestavi, ustanovljen z uredbo iz 21. člena tega zakona, s prevzemom nalog prevzamejo od organov in organizacij v sestavi delavce, pravice proračunske uporabe, obveznosti, dokumentacijo, prostore, opremo in inventar, ki se uporabljajo za izvajanje teh nalog."
+    },
+    {
+      "document_id": "ZAKO3225",
+      "provision_ref": "77",
+      "chapter": "IX. PREHODNE IN KONČNE DOLOČBE",
+      "article": "77",
+      "content": "Uredbe na podlagi tega zakona sprejme vlada najkasneje v šestih mesecih od uveljavitve tega zakona.\nUredba iz 27. člena tega zakona, ki ureja skupna izhodišča za notranjo organizacijo organov državne uprave, se uskladi s tem zakonom najkasneje v devetih mesecih od njegove uveljavitve.\nUredbo iz 21. člena tega zakona o ustanovitvi organov v sestavi ministrstev vlada sprejme najkasneje v enem letu od uveljavitve tega zakona."
+    },
+    {
+      "document_id": "ZAKO3225",
+      "provision_ref": "78",
+      "chapter": "IX. PREHODNE IN KONČNE DOLOČBE",
+      "article": "78",
+      "content": "Ministrstva morajo najkasneje v treh mesecih po uveljavitvi uredbe iz 21. člena uskladiti splošne akte o notranji organizaciji in sistemizaciji delovnih mest z določbami tega zakona."
+    },
+    {
+      "document_id": "ZAKO3225",
+      "provision_ref": "79",
+      "chapter": "IX. PREHODNE IN KONČNE DOLOČBE",
+      "article": "79",
+      "content": "Predstojnikom organov in organizacij v sestavi in njihovim namestnikom z dnem prenehanja delovanja organa oziroma organizacije preneha funkcija. Če izpolnjujejo pogoje, se jih zaposli brez javnega natečaja s prerazporeditvijo na ustrezna delovna mesta v ministrstvu."
+    },
+    {
+      "document_id": "ZAKO3225",
+      "provision_ref": "80",
+      "chapter": "IX. PREHODNE IN KONČNE DOLOČBE",
+      "article": "80",
+      "content": "Državni sekretarji nadaljujejo z delom v skladu s 25.c členom zakona o vladi (Uradni list RS, št. 4/93, 71/94 – ZODPM, 23/96, 47/97, 23/99 – ZSOVA, 119/2000 in 30/2001 – ZODPM-C) do prenehanja funkcije vlade po prvih parlamentarnih volitvah po uveljavitvi tega zakona.\nDelavci v organih državne uprave z nazivom državni podsekretar nadaljujejo z delom z istim nazivom do prevedbe naziva v skladu z zakonom, ki ureja položaj javnih uslužbencev.\nGeneralni sekretarji ministrstev nadaljujejo z delom po določbah tega zakona.\nNačelnike upravnih enot do uveljavitve zakona, ki ureja položaj javnih uslužbencev, imenuje in razrešuje vlada na predlog ministra, pristojnega za upravo, v skladu z zakonom o delavcih v državnih organih (Uradni list RS, št. 15/90, 5/91, 18/91, 22/91, 2/91-I, 4/93, 18/94 – ZRPJZ, 70/97, 87/97 – ZPSDP in 38/99)."
+    },
+    {
+      "document_id": "ZAKO3225",
+      "provision_ref": "81",
+      "chapter": "IX. PREHODNE IN KONČNE DOLOČBE",
+      "article": "81",
+      "content": "Do uveljavitve zakona, ki bo uredil postopek podelitve javnega pooblastila, se za postopke javnega natečaja za pridobitev javnega pooblastila po tretjem odstavku 15. člena tega zakona smiselno uporabljajo določbe zakona, ki ureja javna naročila, o javnem razpisu."
+    },
+    {
+      "document_id": "ZAKO3225",
+      "provision_ref": "82",
+      "chapter": "IX. PREHODNE IN KONČNE DOLOČBE",
+      "article": "82",
+      "content": "Ob konstituiranju pokrajin ali najkasneje dve leti po njihovem konstituiranju se teritorialna organizacija državne uprave uskladi s teritorialno organizacijo lokalne samouprave."
+    },
+    {
+      "document_id": "ZAKO3225",
+      "provision_ref": "83",
+      "chapter": "IX. PREHODNE IN KONČNE DOLOČBE",
+      "article": "83",
+      "content": "Z dnem uveljavitve tega zakona prenehata veljati:\n-        zakon o organizaciji in delovnem področju ministrstev, razen določb 23. in 24. člena zakona o spremembah in dopolnitvah zakona o organizaciji in delovnem področju ministrstev (Uradni list RS, št. 30/2001),\n-        zakon o upravi (Uradni list RS, št. 67/94, 20/95 – odločba US, 29/95 – ZPDF in 80/99 – ZUP), razen določb o izvrševanju inšpekcijskega nadzorstva (določbe od 83. do 98. člena).\nZ zaprisego ministrov po prvih parlamentarnih volitvah od uveljavitve tega zakona preneha veljati 25.c člen zakona o vladi; s tem dnem se začnejo uporabljati določbe 17. člena tega zakona."
+    },
+    {
+      "document_id": "ZAKO3225",
+      "provision_ref": "84",
+      "chapter": "IX. PREHODNE IN KONČNE DOLOČBE",
+      "article": "84",
+      "content": "Ta zakon začne veljati petnajsti dan po objavi v Uradnem listu Republike Slovenije."
+    }
+  ]
+}

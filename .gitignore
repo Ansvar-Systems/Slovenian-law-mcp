@@ -1,4 +1,6 @@
 node_modules/
 dist/
 data/database.db
+data/ingest-failures.log
 *.tsbuildinfo
+.playwright-mcp/

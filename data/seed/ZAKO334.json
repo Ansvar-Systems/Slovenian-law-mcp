@@ -1,0 +1,906 @@
+{
+  "documents": [
+    {
+      "id": "ZAKO334",
+      "type": "statute",
+      "title": "Zakon o sodniški službi (ZSS)",
+      "short_name": "ZSS",
+      "status": "repealed",
+      "issued_date": "1994-04-13",
+      "in_force_date": "1994-04-28",
+      "url": "https://pisrs.si/pregledPredpisa?id=ZAKO334"
+    }
+  ],
+  "provisions": [
+    {
+      "document_id": "ZAKO334",
+      "provision_ref": "1",
+      "chapter": "I. poglavje  TEMELJNE DOLOČBE",
+      "article": "1",
+      "content": "Sodnica oziroma sodnik (v nadaljnjem besedilu: sodnik), izvoljen v sodniško funkcijo, dobi položaj, ki mu ga zagotavljajo ustava, zakon, ki ureja organizacijo in pristojnost sodišč in ta zakon.\nSodnik je v službenem razmerju z Republiko Slovenijo (v nadaljnjem besedilu: sodniška služba)."
+    },
+    {
+      "document_id": "ZAKO334",
+      "provision_ref": "1.a",
+      "chapter": "I. poglavje  TEMELJNE DOLOČBE",
+      "article": "1.a",
+      "content": "Sodniška služba se na sodniškem mestu opravlja v sodniških nazivih okrajni sodnik, okrožni sodnik, višji sodnik, vrhovni sodnik oziroma na položajih okrajni sodnik svetnik, okrožni sodnik svetnik, višji sodnik svetnik in vrhovni sodnik svetnik."
+    },
+    {
+      "document_id": "ZAKO334",
+      "provision_ref": "2",
+      "chapter": "I. poglavje  TEMELJNE DOLOČBE",
+      "article": "2",
+      "content": "Sodnik mora pri uresničevanju svojih pravic vselej ravnati tako, da varuje nepristranskost in neodvisnost sojenja ter ugled sodniške službe.\nSodnik se mora posvečati svoji službi s polno predanostjo in izpolnjevati svoje obveznosti po svojih najboljših močeh."
+    },
+    {
+      "document_id": "ZAKO334",
+      "provision_ref": "2.a",
+      "chapter": "I. poglavje  TEMELJNE DOLOČBE",
+      "article": "2.a",
+      "content": "Sodnik mora biti osebnostno primeren za opravljanje sodniške funkcije.\nNi osebnostno primeren za opravljanje sodniške funkcije tisti, ki sodniške funkcije ne opravlja strokovno, pošteno in vestno ali ne varuje sodniškega ugleda, nepristranskosti in neodvisnosti sojenja oziroma za katerega je na podlagi dosedanjega dela, ravnanja in obnašanja utemeljeno sklepati, da ne bo tako ravnal."
+    },
+    {
+      "document_id": "ZAKO334",
+      "provision_ref": "3",
+      "chapter": "I. poglavje  TEMELJNE DOLOČBE",
+      "article": "3",
+      "content": "Sodnik ne sme opravljati funkcij ali dejavnosti, ki so po določbi ustave ali po določbah tega zakona nezdružljive s sodniško funkcijo."
+    },
+    {
+      "document_id": "ZAKO334",
+      "provision_ref": "4",
+      "chapter": "I. poglavje  TEMELJNE DOLOČBE",
+      "article": "4",
+      "content": "Sodniku so zagotovljene pravica do napredovanja, do izobraževanja, do plače in druge pravice, ki izhajajo iz sodniške službe, in nikomur ni dovoljeno vanje posegati, razen v primerih in po postopkih, ki so določeni z zakonom.\nSodnik, ki meni, da je bila kakorkoli prizadeta njegova neodvisnost, lahko sodnemu svetu predlaga, da odpravi kršitev. Če sodni svet ugotovi, da je predlog utemeljen, lahko kršitev glede na njeno naravo odpravi oziroma zahteva ali predlaga njeno odpravo ter objavi svojo ugotovitev.\nSodnik je lahko s svojo pisno privolitvijo trajno premeščen na drugo sodišče ali drug organ (premestitev) ali začasno dodeljen na drugo sodišče ali drug organ (dodelitev).\nPremestitev in dodelitev ne posegata v sodnikov položaj in sodnikovo plačo, ki ju ima sodnik na mestu, na katerega je imenovan.\nBrez sodnikove privolitve je premestitev ali dodelitev dopustna samo v primerih in pod pogoji, ki jih določa ta zakon."
+    },
+    {
+      "document_id": "ZAKO334",
+      "provision_ref": "4.a",
+      "chapter": "I. poglavje  TEMELJNE DOLOČBE",
+      "article": "4.a",
+      "content": "Glede sodnikovih pravic in dolžnosti v zvezi s sodniško službo, ki niso urejene s tem zakonom, se smiselno uporabljajo določbe zakona, ki ureja delovna razmerja."
+    },
+    {
+      "document_id": "ZAKO334",
+      "provision_ref": "5",
+      "chapter": "I. poglavje  TEMELJNE DOLOČBE",
+      "article": "5",
+      "content": "Sodniku preneha funkcija v primerih in pod pogoji, ki jih določata ustava in ta zakon."
+    },
+    {
+      "document_id": "ZAKO334",
+      "provision_ref": "6",
+      "chapter": "I. poglavje  TEMELJNE DOLOČBE",
+      "article": "6",
+      "content": "V disciplinskih zadevah zoper sodnike odloča disciplinsko sodišče.\nSodnika ni mogoče obtožiti pred disciplinskim sodiščem za mnenje, ki ga je dal pri odločanju v sodišču."
+    },
+    {
+      "document_id": "ZAKO334",
+      "provision_ref": "7",
+      "chapter": "II. poglavje  IZVOLITEV V SODNIŠKO FUNKCIJO IN IMENOVANJA V SODNIŠKI SLUŽBI",
+      "section": "1. oddelek\n Pogoji za izvolitev sodnika in imenovanje na sodniško mesto",
+      "article": "7",
+      "content": "Za sodnika je lahko izvoljen, kdor izpolnjuje splošne pogoje za izvolitev in posebne pogoje za izvolitev oziroma imenovanje na sodniško mesto, ki jih določa ta zakon."
+    },
+    {
+      "document_id": "ZAKO334",
+      "provision_ref": "8",
+      "chapter": "II. poglavje  IZVOLITEV V SODNIŠKO FUNKCIJO IN IMENOVANJA V SODNIŠKI SLUŽBI",
+      "section": "1. oddelek\n Pogoji za izvolitev sodnika in imenovanje na sodniško mesto",
+      "article": "8",
+      "content": "Za sodnika je lahko izvoljen, kdor izpolnjuje naslednje splošne pogoje:\n1.     da je državljan Republike Slovenije in aktivno obvlada slovenski jezik,\n2.     da je poslovno sposoben in ima splošno zdravstveno zmožnost,\n3.     da je dopolnil 30 let starosti,\n4.     da ima v Republiki Sloveniji pridobljen strokovni naslov univerzitetni diplomirani pravnik ali strokovna naslova diplomirani pravnik (UN) in magister prava oziroma je v tujini končal primerljivo izobraževanje s področja prava, ki se dokazuje s tujo listino o izobraževanju in priloženim mnenjem o izobraževanju ali z odločbo o priznavanju izobraževanja za namen zaposlitve ali z odločbo o nostrifikaciji,\n5.     da je opravil pravniški državni izpit,\n6.     da ni bil obsojen zaradi naklepnega kaznivega dejanja,\n7.     da zoper njega ni bila vložena pravnomočna obtožnica ali na podlagi obtožnega predloga razpisana glavna obravnava zaradi naklepnega kaznivega dejanja, ki se preganja po uradni dolžnosti.\nNe glede na določbo prejšnjega odstavka sodniki, ki so sodili ali odločali v preiskovalnih in sodnih postopkih, v katerih so bile s sodbo kršene temeljne človekove pravice in svoboščine, po izteku svojega mandata ne izpolnjujejo pogojev za izvolitev v sodniško funkcijo."
+    },
+    {
+      "document_id": "ZAKO334",
+      "provision_ref": "9",
+      "chapter": "II. poglavje  IZVOLITEV V SODNIŠKO FUNKCIJO IN IMENOVANJA V SODNIŠKI SLUŽBI",
+      "section": "1. oddelek\n Pogoji za izvolitev sodnika in imenovanje na sodniško mesto",
+      "article": "9",
+      "content": "Oseba, ki izpolnjuje pogoje iz prvega odstavka prejšnjega člena, je lahko izvoljena na sodniško mesto na okrajnem sodišču (okrajni sodnik), če ima najmanj tri leta delovnih izkušenj na pravniških delih po opravljenem pravniškem državnem izpitu."
+    },
+    {
+      "document_id": "ZAKO334",
+      "provision_ref": "10",
+      "chapter": "II. poglavje  IZVOLITEV V SODNIŠKO FUNKCIJO IN IMENOVANJA V SODNIŠKI SLUŽBI",
+      "section": "1. oddelek\n Pogoji za izvolitev sodnika in imenovanje na sodniško mesto",
+      "article": "10",
+      "content": "Oseba, ki izpolnjuje pogoje iz prvega odstavka 8. člena tega zakona, je lahko izvoljena na sodniško mesto na okrožnem sodišču (okrožni sodnik), če je uspešno opravljala sodniško funkcijo v trajanju najmanj treh let ali ima najmanj šest let delovnih izkušenj na pravniških delih po opravljenem pravniškem državnem izpitu."
+    },
+    {
+      "document_id": "ZAKO334",
+      "provision_ref": "11",
+      "chapter": "II. poglavje  IZVOLITEV V SODNIŠKO FUNKCIJO IN IMENOVANJA V SODNIŠKI SLUŽBI",
+      "section": "1. oddelek\n Pogoji za izvolitev sodnika in imenovanje na sodniško mesto",
+      "article": "11",
+      "content": "Oseba, ki izpolnjuje pogoje iz prvega odstavka 8. člena tega zakona, je lahko izvoljena na sodniško mesto na višjem sodišču (višji sodnik), če je uspešno opravljala sodniško funkcijo v trajanju najmanj šest let ali ima najmanj devet let delovnih izkušenj na pravniških delih po opravljenem pravniškem državnem izpitu.\nZa višjega sodnika je lahko izvoljen tudi univerzitetni učitelj prava, ki izpolnjuje pogoje iz prvega odstavka 8. člena tega zakona, če je izvoljen najmanj v naziv docenta."
+    },
+    {
+      "document_id": "ZAKO334",
+      "provision_ref": "12",
+      "chapter": "II. poglavje  IZVOLITEV V SODNIŠKO FUNKCIJO IN IMENOVANJA V SODNIŠKI SLUŽBI",
+      "section": "1. oddelek\n Pogoji za izvolitev sodnika in imenovanje na sodniško mesto",
+      "article": "12",
+      "content": "Oseba, ki izpolnjuje pogoje iz prvega odstavka 8. člena tega zakona, je lahko izvoljena na sodniško mesto na vrhovnem sodišču (vrhovni sodnik), če je uspešno opravljala sodniško funkcijo v trajanju najmanj 15 let ali ima najmanj 20 let delovnih izkušenj na pravniških delih po opravljenem pravniškem državnem izpitu.\nZa vrhovnega sodnika je lahko izvoljen tudi univerzitetni učitelj prava, ki izpolnjuje pogoje iz prvega odstavka 8. člena tega zakona, če je izvoljen najmanj v naziv izrednega profesorja."
+    },
+    {
+      "document_id": "ZAKO334",
+      "provision_ref": "13",
+      "chapter": "II. poglavje  IZVOLITEV V SODNIŠKO FUNKCIJO IN IMENOVANJA V SODNIŠKI SLUŽBI",
+      "section": "1. oddelek\n Pogoji za izvolitev sodnika in imenovanje na sodniško mesto",
+      "article": "13",
+      "content": "Za izvolitev na sodniško mesto na specializiranem sodišču veljajo posebni pogoji iz 9. do 11. člena tega zakona glede na položaj sodišča, določen v zakonu o sodiščih.\nS sodniško funkcijo je glede delovnih izkušenj izenačeno opravljanje funkcije državnega tožilca, sodnika za prekrške in državnega pravobranilca ter poklic odvetnika in notarja.\n14. člen Sodnik izpolnjuje pogoje za imenovanje na višje sodniško mesto, če izpolnjuje pogoje, ki so s tem zakonom določeni za izvolitev na takšno sodniško mesto (10. do 12. člen), ter pogoje, ki so s tem zakonom določeni za napredovanje sodnika."
+    },
+    {
+      "document_id": "ZAKO334",
+      "provision_ref": "15",
+      "chapter": "II. poglavje  IZVOLITEV V SODNIŠKO FUNKCIJO IN IMENOVANJA V SODNIŠKI SLUŽBI",
+      "section": "2. oddelek\n Postopek za izvolitev oziroma imenovanje sodnika",
+      "article": "15",
+      "content": "Prosta sodniška mesta razpiše Vrhovno sodišče Republike Slovenije v štirinajstih dneh od prejema obrazloženega mnenja predsednika sodišča. Predsedniku Vrhovnega sodišča Republike Slovenije obrazloženega mnenja ni treba dati.\nRazpis se objavi v Uradnem listu Republike Slovenije. Razpisni rok za prijave ne sme biti krajši od petnajst dni.\nPrijava kandidata za sodniško funkcijo mora vsebovati naslednje podatke: osebno ter morebitno prejšnje osebno ime kandidata, datum in kraj rojstva, enotno matično številko občana (EMŠO), poštni naslov, na katerem je dosegljiv, naslov stalnega ali začasnega prebivališča ter kontaktno telefonsko številko. Kandidat, ki še ni bil izvoljen v sodniško funkcijo, mora prijavi priložiti tudi dokazilo o splošni zdravstveni zmožnosti, ki na dan objave razpisa ni starejše od šest mesecev, podatke o uspešnosti kandidata v času študija prava, dokazilo o aktivnem znanju slovenskega jezika, če ni opravil pravniškega državnega izpita v Republiki Sloveniji, pisno izjavo kandidata o nekaznovanosti in pisno izjavo kandidata, da ni v kazenskem postopku, vsak kandidat pa tudi življenjepis z opisom strokovne dejavnosti po pridobitvi strokovnega naslova iz 4. točke prvega odstavka 8. člena tega zakona z dokazili in dokazila o izpolnjevanju posebnih pogojev za izvolitev na razpisano sodniško mesto, ki jih kandidat izkaže z izpisom obdobij zavarovanja Zavoda za pokojninsko in invalidsko zavarovanje. Dokazila o izpolnjevanju drugih pogojev iz prvega odstavka 8. člena tega zakona pridobi Vrhovno sodišče Republike Slovenije.\nPrijave, vložene po izteku razpisnega roka, in prijave, ki niso popolne, Vrhovno sodišče Republike Slovenije po določbah zakona, ki ureja splošni upravni postopek, zavrže s sklepom, zoper katerega je dovoljeno v osmih dneh sprožiti upravni spor. Pristojno sodišče mora o tožbi oziroma pritožbi odločiti v tridesetih dneh od njene vložitve. Postopek glede razpisanega prostega mesta se prekine do pravnomočnosti sodne odločbe.\nZa ugotavljanje izpolnjevanja pogojev za izvolitev sodnika lahko Vrhovno sodišče Republike Slovenije pridobiva podatek o poslovni sposobnosti kandidata za sodniško funkcijo od upravljavca matičnega registra, podatek o državljanstvu pa od upravljavca centralne evidence o državljanstvu."
+    },
+    {
+      "document_id": "ZAKO334",
+      "provision_ref": "16",
+      "chapter": "II. poglavje  IZVOLITEV V SODNIŠKO FUNKCIJO IN IMENOVANJA V SODNIŠKI SLUŽBI",
+      "section": "2. oddelek\n Postopek za izvolitev oziroma imenovanje sodnika",
+      "article": "16",
+      "content": "Vrhovno sodišče Republike Slovenije pošlje v petih delovnih dneh od prejema popolnih prijav in dokazil o izpolnjevanju pogojev za izvolitev v sodniško funkcijo predsedniku sodišča, pri katerem je razpisano prosto sodniško mesto, vse prijave, ki jih ni zavrglo.\nMinistrstvo, pristojno za pravosodje, na zahtevo Vrhovnega sodišča Republike Slovenije za kandidate, ki prvič kandidirajo, v petih delovnih dneh predloži podatke o sodniškem pripravništvu in pravniškem državnem izpitu. Prijavam kandidatov, ki že opravljajo sodniško funkcijo, priloži Vrhovno sodišče Republike Slovenije ustrezne podatke iz centralne kadrovske evidence.\nPredsednik sodišča najpozneje v 20 dneh od dneva, ko prejme razpisno gradivo iz prejšnjih odstavkov, oblikuje obrazloženo mnenje o ustreznosti vsakega kandidata, pri čemer se mora ravnati po kriterijih iz 28. člena tega zakona. Mnenje vroči kandidatu, ta pa lahko da nanj obrazložene pripombe v osmih dneh od prejema mnenja.\nNajpozneje v osmih dneh po prejemu pripomb oziroma poteku roka iz prejšnjega odstavka predsednik sodišča oblikuje dokončno mnenje, ki ga z razpisnim gradivom in morebitnimi pripombami kandidata pošlje sodnemu svetu.\nPredsednik sodišča lahko posebej navede, katere kandidate šteje za najbolj ustrezne za zasedbo prostega mesta in to obrazloži."
+    },
+    {
+      "document_id": "ZAKO334",
+      "provision_ref": "17",
+      "chapter": "II. poglavje  IZVOLITEV V SODNIŠKO FUNKCIJO IN IMENOVANJA V SODNIŠKI SLUŽBI",
+      "section": "2. oddelek\n Postopek za izvolitev oziroma imenovanje sodnika",
+      "article": "17",
+      "content": "Obrazložitev ocene ustreznosti kandidatov mora zajemati kandidatove osebne podatke ter podatke in mnenje o strokovnem znanju, osebnostnih lastnostih, veščinah in drugih sposobnostih, ki se zahtevajo za opravljanje sodniške funkcije.\nZa osebo, ki kandidira za izvolitev v sodniško funkcijo, mora ocena ustreznosti kandidatov vsebovati tudi podatke o uspešnosti kandidata v času študija prava, podatke in oceno kandidatovega usposabljanja v času pripravništva ter oceno kandidatovega dela, če je v okviru opravljanja svojega dotedanjega poklica ali dela nastopal pred sodišči, če je kandidat že bil sodnik, pa tudi podatke iz centralne kadrovske evidence. Sodni svet ima pravico zahtevati vpogled v osebni spis sodniškega pripravnika."
+    },
+    {
+      "document_id": "ZAKO334",
+      "provision_ref": "18",
+      "chapter": "II. poglavje  IZVOLITEV V SODNIŠKO FUNKCIJO IN IMENOVANJA V SODNIŠKI SLUŽBI",
+      "section": "2. oddelek\n Postopek za izvolitev oziroma imenovanje sodnika",
+      "article": "18",
+      "content": "Nepopolne prijave, ki jih ni zavrglo Vrhovno sodišče Republike Slovenije in prijave kandidatov, ki ne izpolnjujejo splošnih in posebnih pogojev za razpisano sodniško mesto, zavrže oziroma zavrne sodni svet s sklepom.\nSodni svet lahko v postopku izbire kandidatov zahteva od predsednika sodišča, v roku, ki ga določi sodni svet, da dopolni obrazložitev mnenja o ustreznosti kandidatov ali da mnenje o ustreznosti kandidatov ponovno oblikuje, in pri tem pridobi ter upošteva še dodatne podatke in dokazila.\nSodni svet v izbirnem postopku ugotavlja, ali imajo kandidati strokovno znanje, osebnostne lastnosti, veščine in sposobnosti, potrebne za opravljanje sodniške službe.\nIzbirni postopek ima lahko več faz, tako da se kandidati postopno izločajo.\nSodni svet pri izbiri upošteva pisno dokumentacijo, lahko pa opravi tudi preizkuse strokovnega znanja, osebnostnih lastnosti, sposobnosti in veščin, ki so potrebni za opravljanje sodniške službe, psihološke preizkuse ter razgovore s kandidati, ki najbolje izpolnjujejo pogoje in kriterije za zasedbo sodniškega mesta. Na razgovorih je lahko navzoč predsednik sodišča, pri katerem je razpisano prosto sodniško mesto. O razgovorih mora biti sestavljen zapisnik vprašanj kandidatom in odgovori kandidata na zastavljena vprašanja. Priloga zapisnika je tudi prepis zvočnega snemanja razgovora.\nSodni svet opravi izbiro v 30 dneh po pridobitvi popolne dokumentacije in izvedbi postopka po prejšnjem odstavku tega člena. O posvetovanju in glasovanju v vsaki fazi izbirnega postopka se vodi zapisnik.\nSodni svet pri izbiri kandidata ni vezan na mnenje predsednika sodišča o ustreznosti kandidata.\nSodni svet ni dolžan izbrati kandidata, ki sicer izpolnjuje formalne pogoje za razpisano sodniško mesto.\nObvestilo o neizbiri kandidata mora biti obrazloženo tako, da so navedeni razlogi za neizbiro posameznega kandidata."
+    },
+    {
+      "document_id": "ZAKO334",
+      "provision_ref": "19",
+      "chapter": "II. poglavje  IZVOLITEV V SODNIŠKO FUNKCIJO IN IMENOVANJA V SODNIŠKI SLUŽBI",
+      "section": "2. oddelek\n Postopek za izvolitev oziroma imenovanje sodnika",
+      "article": "19",
+      "content": "Če sodni svet izbere kandidata, ki še ni izvoljen v sodniško funkcijo, ga je dolžan v skladu z določbami tega zakona predlagati državnemu zboru v izvolitev.\nČe sodni svet opravi izbiro, predlaga državnemu zboru v izvolitev za vsako razpisano prosto sodniško mesto, za katerega je po opravljenem postopku izbire treba izvoliti sodnika, enega kandidata.\nČe državni zbor ne izvoli kandidata iz prejšnjega odstavka, sodni svet lahko opravi ponovno izbiro med prijavljenimi kandidati, ki izpolnjujejo pogoje, in ravna v skladu z določbami tega zakona ali pa odloči, da se razpis sodniškega mesta ponovi."
+    },
+    {
+      "document_id": "ZAKO334",
+      "provision_ref": "19.a",
+      "chapter": "II. poglavje  IZVOLITEV V SODNIŠKO FUNKCIJO IN IMENOVANJA V SODNIŠKI SLUŽBI",
+      "section": "2. oddelek\n Postopek za izvolitev oziroma imenovanje sodnika",
+      "article": "19.a",
+      "content": "Z imenovanjem na sodniško mesto sodnik pridobi naziv, ki ustreza temu sodniškemu mestu."
+    },
+    {
+      "document_id": "ZAKO334",
+      "provision_ref": "20",
+      "chapter": "II. poglavje  IZVOLITEV V SODNIŠKO FUNKCIJO IN IMENOVANJA V SODNIŠKI SLUŽBI",
+      "section": "2. oddelek\n Postopek za izvolitev oziroma imenovanje sodnika",
+      "article": "20",
+      "content": "Šteje se, da je z izvolitvijo v sodniško funkcijo sodnik imenovan na razpisano sodniško mesto.\nAkt o izvolitvi sodnika sodni svet po prejemu nemudoma pošlje pristojnemu predsedniku sodišča, ta pa sodnika uvrsti v plačni razred, ki ustreza pridobljenemu nazivu."
+    },
+    {
+      "document_id": "ZAKO334",
+      "provision_ref": "21",
+      "chapter": "II. poglavje  IZVOLITEV V SODNIŠKO FUNKCIJO IN IMENOVANJA V SODNIŠKI SLUŽBI",
+      "section": "2. oddelek\n Postopek za izvolitev oziroma imenovanje sodnika",
+      "article": "21",
+      "content": "Če sodni svet izbere na sodniško mesto kandidata, ki je že izvoljen v sodniško funkcijo, ga imenuje na razpisano sodniško mesto in premesti na sodišče, pri katerem je to mesto razpisano.\nČe gre za višje sodniško mesto, šteje imenovanje za napredovanje na višje sodniško mesto po 24. členu tega zakona.\nNe glede na določbo prejšnjega odstavka odloča o imenovanju kandidata na mesto vrhovnega sodnika in njegovi premestitvi državni zbor na predlog sodnega sveta.\nImenovanje na sodniško mesto se objavi v Uradnem listu Republike Slovenije. Premestitev se opravi trideseti dan po pravnomočnosti odločbe o imenovanju. Ta rok lahko sodni svet na predlog sodnika ali predsednika sodišča iz posebej utemeljenih razlogov skrajša."
+    },
+    {
+      "document_id": "ZAKO334",
+      "provision_ref": "21.a",
+      "chapter": "II. poglavje  IZVOLITEV V SODNIŠKO FUNKCIJO IN IMENOVANJA V SODNIŠKI SLUŽBI",
+      "section": "2. oddelek\n Postopek za izvolitev oziroma imenovanje sodnika",
+      "article": "21.a",
+      "content": "Sodni svet vroči predlog za izvolitev iz 19. člena tega zakona oziroma odločbo o imenovanju iz 21. člena tega zakona vsem kandidatom, ki so se prijavili na prosto sodniško mesto, če njihove prijave niso bile zavržene oziroma zavrnjene po četrtem odstavku 15. člena oziroma prvem odstavku 18. člena tega zakona. Če je sprožen upravni spor, mora pristojno sodišče odločiti najpozneje v tridesetih dneh."
+    },
+    {
+      "document_id": "ZAKO334",
+      "provision_ref": "22",
+      "chapter": "II. poglavje  IZVOLITEV V SODNIŠKO FUNKCIJO IN IMENOVANJA V SODNIŠKI SLUŽBI",
+      "section": "2. oddelek\n Postopek za izvolitev oziroma imenovanje sodnika",
+      "article": "22",
+      "content": "Če je razpis za prosto sodniško mesto neuspešen, je Vrhovno sodišče Republike Slovenije dolžno v 15 dneh razpis ponoviti, razen če v tem času prejme izjavo predsednika sodišča, da razpisa ni treba ponoviti."
+    },
+    {
+      "document_id": "ZAKO334",
+      "provision_ref": "23",
+      "chapter": "II. poglavje  IZVOLITEV V SODNIŠKO FUNKCIJO IN IMENOVANJA V SODNIŠKI SLUŽBI",
+      "section": "2. oddelek\n Postopek za izvolitev oziroma imenovanje sodnika",
+      "article": "23",
+      "content": "Sodnik nastopi sodniško službo z dnem, ko pred predsednikom državnega zbora izreče naslednjo prisego: &#34;Prisegam, da bom sodniško funkcijo opravljal-a v skladu z ustavo in zakonom ter sodil-a po svoji vesti in nepristransko.&#34;"
+    },
+    {
+      "document_id": "ZAKO334",
+      "provision_ref": "24",
+      "chapter": "II. poglavje  IZVOLITEV V SODNIŠKO FUNKCIJO IN IMENOVANJA V SODNIŠKI SLUŽBI",
+      "section": "3. oddelek\n Sodniško napredovanje",
+      "article": "24",
+      "content": "Z nastopom sodniške službe pridobi sodnik pravico do napredovanja v skladu s pogoji, ki jih določa ta zakon.\nNapredovanje zajema napredovanje v plačnih razredih znotraj razpona plačnih razredov za posamezni sodniški naziv ter napredovanje v višji sodniški naziv, napredovanje na višje sodniško mesto in napredovanje na položaj svetnika.\nO napredovanju v plačnih razredih in na položaj svetnika odloča predsednik sodišča na predlog sodnika, pri čemer se mora ravnati po kriterijih iz prvega odstavka 28. člena tega zakona. O napredovanju v višji sodniški naziv in o hitrejšem napredovanju v plačnih razredih, v položaj svetnika ali na višje sodniško mesto ter o izjemnem napredovanju v višji sodniški naziv odloča sodni svet na predlog sodnika ali predsednika sodišča. O napredovanju se odloča po izvedenem postopku ugotavljanja uspešnosti in strokovnosti sodnika.\nČe je bila pred odločanjem o napredovanju sodnika v višji plačni razred zahtevana izdelava ocene sodniške službe, se do zaključka postopka izdelave ocene odločanje o napredovanju odloži.\nNapredovanje na višje sodniško mesto se izvede po določbah 2. oddelka II. poglavja tega zakona."
+    },
+    {
+      "document_id": "ZAKO334",
+      "provision_ref": "25",
+      "chapter": "II. poglavje  IZVOLITEV V SODNIŠKO FUNKCIJO IN IMENOVANJA V SODNIŠKI SLUŽBI",
+      "section": "3. oddelek\n Sodniško napredovanje",
+      "article": "25",
+      "content": "Zoper odločbo o premestitvi oziroma imenovanju na sodniško mesto, v sodniški naziv oziroma na položaj svetnika in zoper odločbo glede uvrstitve v plačni razred se sodnik lahko pritoži v roku osmih dni od njenega prejema.\nO pritožbi zoper odločbo iz prejšnjega odstavka odloča sodni svet z dvotretjinsko večino glasov vseh članov."
+    },
+    {
+      "document_id": "ZAKO334",
+      "provision_ref": "26",
+      "chapter": "II. poglavje  IZVOLITEV V SODNIŠKO FUNKCIJO IN IMENOVANJA V SODNIŠKI SLUŽBI",
+      "section": "3. oddelek\n Sodniško napredovanje",
+      "article": "26",
+      "content": "Okrajni, okrožni in višji sodnik napreduje v višji plačni razred vsaka tri leta v skladu z določbami tega zakona, razen v primeru, ko je za ta čas z oceno sodniškega dela ugotovljeno, da ne izpolnjuje pogojev za napredovanje, oziroma če tako določa pravnomočna sodba disciplinskega sodišča."
+    },
+    {
+      "document_id": "ZAKO334",
+      "provision_ref": "27",
+      "chapter": "II. poglavje  IZVOLITEV V SODNIŠKO FUNKCIJO IN IMENOVANJA V SODNIŠKI SLUŽBI",
+      "section": "3. oddelek\n Sodniško napredovanje",
+      "article": "27",
+      "content": "Sodnik lahko napreduje na prvo naslednje višje sodniško mesto (okrožni, višji, vrhovni sodnik).\nSodnik lahko napreduje na višje sodniško mesto po drugem napredovanju v višji plačni razred na istem sodniškem mestu, kolikor ni s tem zakonom drugače določeno.\nPoložaj svetnika pridobi višji sodnik pri tretjem napredovanju v višji plačni razred na istem sodniškem mestu, če ta zakon ne določa drugače. Položaj svetnika pridobi vrhovni sodnik po devetih letih opravljanja sodniške službe vrhovnega sodnika, če je z oceno sodniške službe ugotovljeno, da izpolnjuje pogoje za napredovanje, če ta zakon ne določa drugače.\nPoložaj svetnika pridobi okrajni ali okrožni sodnik pri prvem napredovanju po dopolnjenem petinštiridesetem letu starosti, če je z oceno sodniške službe ugotovljeno, da izpolnjuje pogoje za hitrejše napredovanje."
+    },
+    {
+      "document_id": "ZAKO334",
+      "provision_ref": "28",
+      "chapter": "II. poglavje  IZVOLITEV V SODNIŠKO FUNKCIJO IN IMENOVANJA V SODNIŠKI SLUŽBI",
+      "section": "4. oddelek\n Kriteriji za izbiro in napredovanje sodnika in postopek ocenjevanja sodniškega dela",
+      "article": "28",
+      "content": "Pri izbiri kandidatov za sodniško mesto in odločanju o napredovanju se upoštevajo naslednji kriteriji:\n-       delovne sposobnosti in strokovno znanje, pri čemer se upoštevajo zlasti sposobnost pisnega in ustnega izražanja, sposobnost analitičnega razmišljanja, sposobnost strukturiranega dela ter obseg strokovnega znanja s področja dela sodnika,\n-       osebnostne lastnosti, pri čemer se upoštevajo zlasti odgovornost, zanesljivost in preudarnost,\n-       socialne veščine, pri čemer se upoštevajo zlasti komunikacijske spretnosti in spretnosti obvladovanja konfliktnih situacij,\n-       sposobnosti opravljanja nalog vodstvenega mesta, če je sodnik imenovan na tako mesto, pri čemer se upoštevajo zlasti rezultati dela na področju, ki je sodniku zaupano.\nKriteriji in postopek za izbiro kandidatov in kriteriji za napredovanje so podrobneje določeni v merilih za izbiro kandidatov na sodniško mesto oziroma v merilih za kakovost dela sodnikov za oceno sodniške službe."
+    },
+    {
+      "document_id": "ZAKO334",
+      "provision_ref": "29",
+      "chapter": "II. poglavje  IZVOLITEV V SODNIŠKO FUNKCIJO IN IMENOVANJA V SODNIŠKI SLUŽBI",
+      "section": "4. oddelek\n Kriteriji za izbiro in napredovanje sodnika in postopek ocenjevanja sodniškega dela",
+      "article": "29",
+      "content": "Kriteriji in merila iz 28. člena tega zakona obvezujejo predsednike sodišč pri odločanju o napredovanju sodnikov, sodni svet v postopkih izbire kandidatov za sodniško mesto in personalne svete pri izdelavi ocene sodniške službe."
+    },
+    {
+      "document_id": "ZAKO334",
+      "provision_ref": "31",
+      "chapter": "II. poglavje  IZVOLITEV V SODNIŠKO FUNKCIJO IN IMENOVANJA V SODNIŠKI SLUŽBI",
+      "section": "4. oddelek\n Kriteriji za izbiro in napredovanje sodnika in postopek ocenjevanja sodniškega dela",
+      "article": "31",
+      "title": "(črtan)",
+      "content": "Personalni svet izdela za sodnike oceno sodniške službe vsaka tri leta, pred tem časom pa na zahtevo sodnega sveta, predsednika sodišča, predsednika sodišča višje stopnje, ministra, pristojnega za pravosodje, ali sodnika samega. Minister, pristojen za pravosodje, lahko zahteva oceno sodniške službe samo v okviru izvajanja svojih pristojnosti.\nZa sodnika se v prvih treh letih opravljanja sodniške službe izdela ocena sodniške službe vsako leto.\nOcena sodniške službe se izdela na podlagi podatkov iz osebnega spisa sodnika in drugih podatkov o izpolnjevanju kriterijev iz 28. člena tega zakona. V okviru izdelave ocene sodniške službe se za ugotovitev izpolnjevanja kriterijev pregledujejo spisi zadev, dodeljenih sodniku, in zadev, o katerih je že bilo pravnomočno odločeno.\nOsebni spis sodnika se vodi v uradu predsednika sodišča, pri katerem sodnik opravlja sodniško službo, za predsednika sodišča pa v uradu predsednika sodišča neposredno višje stopnje. Če je sodnik premeščen na drugo sodišče, se osebni spis prenese v urad predsednika tega sodišča.\nV osebni spis sodnika se po odredbi predsednika sodišča, predsednika sodišča višje stopnje, personalnega sveta, sodnega sveta ali na zahtevo sodnika vnašajo vsi podatki, pomembni za izdelavo ocene sodniške službe. Z vsebino vsakega vnosa se takoj seznani sodnika, na katerega se spis nanaša.\nPodatke iz osebnega spisa lahko vpogledajo le osebe in organi iz prejšnjega odstavka, disciplinski tožilec in disciplinsko sodišče zaradi izvajanja pooblastil po tem zakonu in zakonu, ki ureja organizacijo in pristojnost sodišč. Sodnik ima pravico do vpogleda v svoj osebni spis."
+    },
+    {
+      "document_id": "ZAKO334",
+      "provision_ref": "32",
+      "chapter": "II. poglavje  IZVOLITEV V SODNIŠKO FUNKCIJO IN IMENOVANJA V SODNIŠKI SLUŽBI",
+      "section": "4. oddelek\n Kriteriji za izbiro in napredovanje sodnika in postopek ocenjevanja sodniškega dela",
+      "article": "32",
+      "content": "Z oceno sodniške službe personalni svet ugotovi, da sodnik:\n1.     ne ustreza sodniški službi;\n2.     ne izpolnjuje pogojev za napredovanje;\n3.     izpolnjuje pogoje za napredovanje;\n4.     izpolnjuje pogoje za hitrejše napredovanje;\n5.     izpolnjuje pogoje za izjemno napredovanje v višji sodniški naziv.\nOcena iz 4. točke prejšnjega odstavka se izda, če personalni svet ugotovi, da sodnik nadpovprečno izpolnjuje kriterije iz 28. člena tega zakona.\nOcena iz 5. točke prvega odstavka tega člena se izda, če personalni svet ugotovi, da sodnik izkazuje izjemno izpolnjevanje kriterijev iz 28. člena tega zakona."
+    },
+    {
+      "document_id": "ZAKO334",
+      "provision_ref": "33",
+      "chapter": "II. poglavje  IZVOLITEV V SODNIŠKO FUNKCIJO IN IMENOVANJA V SODNIŠKI SLUŽBI",
+      "section": "4. oddelek\n Kriteriji za izbiro in napredovanje sodnika in postopek ocenjevanja sodniškega dela",
+      "article": "33",
+      "content": "Če iz ocene izhaja, da sodnik ne ustreza sodniški službi, mu sodniška funkcija preneha.\nOceno sodniške službe iz prejšnjega odstavka je treba pred njenim učinkovanjem predložiti v potrditev sodnemu svetu.\nSodni svet mora sprejeti odločitev o oceni sodniške službe iz prvega odstavka tega člena v 30 dneh. Če sodni svet ocene ne potrdi, personalni svet ponovno izdela oceno sodniške službe, s katero ugotavlja, ali sodnik izpolnjuje pogoje za napredovanje."
+    },
+    {
+      "document_id": "ZAKO334",
+      "provision_ref": "34",
+      "chapter": "II. poglavje  IZVOLITEV V SODNIŠKO FUNKCIJO IN IMENOVANJA V SODNIŠKI SLUŽBI",
+      "section": "4. oddelek\n Kriteriji za izbiro in napredovanje sodnika in postopek ocenjevanja sodniškega dela",
+      "article": "34",
+      "content": "Če iz ocene izhaja, da sodnik ne izpolnjuje pogojev za napredovanje, ne more biti imenovan na višje sodniško mesto ali na položaj svetnika in ne more biti uvrščen v višji plačni razred, dokler ni z oceno ugotovljeno, da izpolnjuje pogoje za napredovanje.\nČe iz dveh zaporednih ocen, ki se izdelata vsake tri leta, izhaja, da sodnik ne izpolnjuje pogojev za napredovanje, se mu izreče znižanje plače do višine 20% za čas do enega leta.\nPersonalni svet predloži oceno sodniške službe iz prejšnjega odstavka sodnemu svetu, ki izda odločbo o znižanju plače.\nČe po določbah tega zakona ni ovir za napredovanje, oziroma če iz ocene izhaja, da sodnik izpolnjuje pogoje za napredovanje, ga predsednik sodišča v skladu s pogoji tega zakona uvrsti v višji plačni razred oziroma imenuje na položaj svetnika.\nČe iz ocene izhaja, da izpolnjuje pogoje za hitrejše napredovanje, sodnik:\n-       napreduje v plačni razred, ki je po vrsti naslednji višji od plačnega razreda, na katerega bi napredoval po 26. členu tega zakona;\n-       lahko napreduje na višje sodniško mesto že po prvem napredovanju v višji plačni razred, ne glede na določbe 10., 11., 12. in prvega odstavka 27. člena tega zakona;\n-       napreduje na položaj svetnika višjega že pri drugem napredovanju v višji plačni razred oziroma na položaj svetnika okrajnega ali okrožnega sodišča v skladu s četrtim odstavkom 27. člena tega zakona.\nVrhovni sodnik lahko napreduje na položaj svetnika po šestih letih opravljanja sodniške službe vrhovnega sodnika, če je z oceno sodniške službe ugotovljeno, da izpolnjuje pogoje za hitrejše napredovanje."
+    },
+    {
+      "document_id": "ZAKO334",
+      "provision_ref": "34.a",
+      "chapter": "II. poglavje  IZVOLITEV V SODNIŠKO FUNKCIJO IN IMENOVANJA V SODNIŠKI SLUŽBI",
+      "section": "4. oddelek\n Kriteriji za izbiro in napredovanje sodnika in postopek ocenjevanja sodniškega dela",
+      "article": "34.a",
+      "content": "Sodnik lahko iz posebno utemeljenih razlogov napreduje v neposredno višji sodniški naziv (okrožni, višji, vrhovni sodnik). O napredovanju odloči sodni svet na predlog personalnega sveta, ki je pristojen za oceno sodniške službe.\nNe glede na določbo prejšnjega odstavka odloči o izjemnem napredovanju v naziv vrhovni sodnik državni zbor na predlog sodnega sveta.\nPosebno utemeljeni razlogi iz prvega odstavka tega člena so dani, če iz ocene sodniške službe izhaja, da sodnik izpolnjuje pogoje za izjemno napredovanje v višji sodniški naziv.\nNe glede na določbo prvega odstavka tega člena lahko okrajni oziroma okrožni sodnik svetnik na istem sodniškem mestu napreduje v neposredno višji sodniški naziv, če so pretekla najmanj tri leta od imenovanja sodnika na položaj svetnika in če iz ocene sodniške službe izhaja, da izpolnjuje pogoje za hitrejše napredovanje. Pri tem napredovanju lahko doseže največ naziv višjega sodnika, na istem sodniškem mestu pa ne more biti imenovan na položaj višjega sodnika svetnika.\nSodnika iz prejšnjega odstavka se z letnim razporedom dela v skladu z zakonom, ki ureja sodišča, razporedi praviloma za sojenje v pomembnejših zadevah ter za opravljanje dodatnega dela pri izvrševanju sodne funkcije v okviru mentorstva, lahko pa se ga tudi dodeli na sodišče višjega položaja, ki ustreza njegovemu nazivu."
+    },
+    {
+      "document_id": "ZAKO334",
+      "provision_ref": "34.b",
+      "chapter": "II. poglavje  IZVOLITEV V SODNIŠKO FUNKCIJO IN IMENOVANJA V SODNIŠKI SLUŽBI",
+      "section": "4. oddelek\n Kriteriji za izbiro in napredovanje sodnika in postopek ocenjevanja sodniškega dela",
+      "article": "34.b",
+      "content": "Sodnik, ki napreduje v višji sodniški naziv ali na višje sodniško mesto, se uvrsti v plačni razred v skladu s 45. členom tega zakona oziroma v plačni razred, ki je za en plačni razred višji od plačnega razreda, v katerega je bil uvrščen pred napredovanjem.\nSodnik, ki napreduje na položaj svetnika, se uvrsti v plačni razred svetnika ustreznega sodniškega naziva."
+    },
+    {
+      "document_id": "ZAKO334",
+      "provision_ref": "35",
+      "chapter": "II. poglavje  IZVOLITEV V SODNIŠKO FUNKCIJO IN IMENOVANJA V SODNIŠKI SLUŽBI",
+      "section": "4. oddelek\n Kriteriji za izbiro in napredovanje sodnika in postopek ocenjevanja sodniškega dela",
+      "article": "35",
+      "content": "Personalni svet višjega sodišča izdela oceno sodniške službe za okrajne in okrožne sodnike, ki opravljajo sodniško službo na okrajnih in okrožnih sodiščih na njegovem območju in za sodnike, ki so dodeljeni na višje sodišče.\nPersonalni svet Vrhovnega sodišča Republike Slovenije izdela oceno sodniške službe za višje sodnike in vrhovne sodnike.\nZa sodnike, ki so dodeljeni na delo na Ustavno sodišče Republike Slovenije, Vrhovno sodišče Republike Slovenije, v strokovno službo sodnega sveta, v center za izobraževanje in v ministrstvo, pristojno za pravosodje, izdela oceno personalni svet Vrhovnega sodišča Republike Slovenije v sodelovanju s predstojniki teh organov."
+    },
+    {
+      "document_id": "ZAKO334",
+      "provision_ref": "36",
+      "chapter": "II. poglavje  IZVOLITEV V SODNIŠKO FUNKCIJO IN IMENOVANJA V SODNIŠKI SLUŽBI",
+      "section": "4. oddelek\n Kriteriji za izbiro in napredovanje sodnika in postopek ocenjevanja sodniškega dela",
+      "article": "36",
+      "content": "Oceno sodniške službe pošlje personalni svet pisno in zaupno ocenjevanemu sodniku in predsedniku sodišča, na katerem sodnik opravlja sodniško službo, oceno za sodnika, ki je predsednik sodišča, predsedniku sodišča neposredno višje stopnje, za sodnika, ki je dodeljen po 71. členu tega zakona, pa predstojniku organa. Če je ocena sodniške službe izdelana na zahtevo sodnega sveta, predsednika sodišča višje stopnje ali ministra, pristojnega za pravosodje, se pošlje pisno in zaupno tudi vlagatelju te zahteve iz prvega odstavka 31. člena tega zakona.\nOcenjevani sodnik, predsednik sodišča ali predstojnik organa, ki se z oceno ne strinja, se lahko pritoži v osmih dneh pri personalnem svetu Vrhovnega sodišča Republike Slovenije.\nKo odloča o pritožbi zoper oceno iz prvega odstavka 35. člena tega zakona, personalni svet Vrhovnega sodišča Republike Slovenije pritožbo zavrne, oceno spremeni ali pa jo razveljavi in zahteva od personalnega sveta višjega sodišča ponovno izdelavo ocene.\nO pritožbi zoper oceno iz drugega odstavka 35. člena tega zakona odloča personalni svet Vrhovnega sodišča Republike Slovenije z večino glasov vseh članov. Po ponovni obravnavi ocene personalni svet oceno spremeni ali pa pritožbo zavrne.\nKadar je ocena v skladu s prvim odstavkom tega člena poslana tudi vlagatelju zahteve in ta nima možnosti pritožbe po drugem odstavku tega člena, lahko od personalnega sveta Vrhovnega sodišča Republike Slovenije obrazloženo zahteva, da preveri utemeljenost ocene sodniške službe.\nV zvezi z reševanjem zahteve iz prejšnjega odstavka se smiselno uporabljajo določbe tega člena glede pritožbe zoper oceno."
+    },
+    {
+      "document_id": "ZAKO334",
+      "provision_ref": "37",
+      "chapter": "III. poglavje  SODNIŠKE DOLŽNOSTI IN NEZDRUŽLJIVOST SODNIŠKE FUNKCIJE",
+      "article": "37",
+      "content": "Sodnik se mora vselej vesti tako, da varuje nepristranskost in neodvisnost sojenja, sodniški ugled in samostojnost sodne oblasti.\nSodnik ne sme ovirati delovanja sodišča zaradi uveljavljanja svojih pravic."
+    },
+    {
+      "document_id": "ZAKO334",
+      "provision_ref": "38",
+      "chapter": "III. poglavje  SODNIŠKE DOLŽNOSTI IN NEZDRUŽLJIVOST SODNIŠKE FUNKCIJE",
+      "article": "38",
+      "content": "Sodnik je dolžan ohraniti zase vse, kar je v okviru opravljanja službe zvedel o strankah in njihovih pravnih in dejanskih razmerjih, ter varovati tajnost vseh podatkov, do katerih javnost nima dostopa.\nSodnik se ne sme v javnosti vnaprej izražati o pravnih in dejanskih vprašanjih, ki so predmet zadeve, o katerih še ni pravnomočno odločeno, oziroma zadeve, v kateri je vloženo kakšno izredno pravno sredstvo."
+    },
+    {
+      "document_id": "ZAKO334",
+      "provision_ref": "39",
+      "chapter": "III. poglavje  SODNIŠKE DOLŽNOSTI IN NEZDRUŽLJIVOST SODNIŠKE FUNKCIJE",
+      "article": "39",
+      "content": "Sodnik ne sme sprejemati daril ali drugih koristi v zvezi s svojo službo. Prav tako ne smejo sprejemati daril ali drugih koristi v zvezi s sodnikovo službo njegov zakonec in drugi družinski člani, sorodniki in druge osebe, ki živijo s sodnikom v skupnem gospodinjstvu."
+    },
+    {
+      "document_id": "ZAKO334",
+      "provision_ref": "40",
+      "chapter": "III. poglavje  SODNIŠKE DOLŽNOSTI IN NEZDRUŽLJIVOST SODNIŠKE FUNKCIJE",
+      "article": "40",
+      "content": "Če je sodnik izvoljen za predsednika republike, poslanca državnega zbora, sodnika ustavnega sodišča, sodnika mednarodnega sodišča ali na drugo mednarodno pravosodno funkcijo, predsednika vlade, varuha človekovih pravic oziroma njegovega namestnika, imenovan za ministra ali državnega sekretarja, predsednika ali namestnika predsednika komisije za preprečevanje korupcije, mu sodniška funkcija ter vse pravice in dolžnosti iz sodniške službe mirujejo.\nDoločba prvega odstavka tega člena se uporablja tudi, če je sodnik izvoljen za poslanca evropskega parlamenta, evropskega varuha človekovih pravic ali imenovan za člana Evropske komisije ali imenovan za evropskega glavnega tožilca.\nDoločba prvega odstavka tega člena se uporablja tudi v primeru, če je sodnik napoten v mednarodno civilno misijo ali mednarodno organizacijo ali opravlja strokovne naloge na mednarodnem sodišču ali stalnem predstavništvu Republike Slovenije pri mednarodni organizaciji s področja človekovih pravic."
+    },
+    {
+      "document_id": "ZAKO334",
+      "provision_ref": "40.a",
+      "chapter": "III. poglavje  SODNIŠKE DOLŽNOSTI IN NEZDRUŽLJIVOST SODNIŠKE FUNKCIJE",
+      "article": "40.a",
+      "content": "Če je sodnik imenovan za sodnika mednarodnega sodišča in funkcijo opravlja za krajši delovni čas, je deloma oproščen opravljanja sodniške službe. Ne glede na 6. točko prvega odstavka 74. člena tega zakona mu sodniška funkcija ne preneha.\nSodniku iz prejšnjega odstavka pripadajo plača in nadomestila ter pravica do izobraževanja v sorazmerju z obsegom opravljanja sodniške službe.\nObseg oprostitve sodniške službe ugotovi predsednik sodišča, pri katerem sodnik opravlja sodniško službo, ob upoštevanju obsega dela na mednarodnem sodišču. Obseg oprostitve sodniške službe se lahko na predlog sodnika spremeni, če se spremeni obseg dela na mednarodnem sodišču."
+    },
+    {
+      "document_id": "ZAKO334",
+      "provision_ref": "41",
+      "chapter": "III. poglavje  SODNIŠKE DOLŽNOSTI IN NEZDRUŽLJIVOST SODNIŠKE FUNKCIJE",
+      "article": "41",
+      "content": "Sodnik ne sme opravljati odvetniških, ali notarskih poslov oziroma gospodarske ali druge pridobitne dejavnosti.\nSodnik ne sme opravljati poslovodskih poslov in ne sme biti član upravnega ali nadzornega odbora gospodarske družbe ali druge pravne osebe, ki se ukvarja s pridobitno dejavnostjo."
+    },
+    {
+      "document_id": "ZAKO334",
+      "provision_ref": "42",
+      "chapter": "III. poglavje  SODNIŠKE DOLŽNOSTI IN NEZDRUŽLJIVOST SODNIŠKE FUNKCIJE",
+      "article": "42",
+      "content": "Sodnik ne sme sprejeti nobene zaposlitve ali dela, ki bi ga oviralo pri opravljanju službe ali nasprotovalo ugledu sodniške službe oziroma vzbujalo vtis, da pri opravljanju svoje službe ni nepristranski.\nSodnik sme opravljati pedagoška, znanstvena, publicistična, raziskovalna ali druga podobna dela v pravni stroki, če s tem ni ovirano opravljanje sodniške službe.\nZa opravljanje del iz prejšnjega odstavka ali drugih del, ki jih sodnik lahko opravlja poleg sodniške službe, sodnik ne sme skleniti delovnega razmerja."
+    },
+    {
+      "document_id": "ZAKO334",
+      "provision_ref": "43",
+      "chapter": "III. poglavje  SODNIŠKE DOLŽNOSTI IN NEZDRUŽLJIVOST SODNIŠKE FUNKCIJE",
+      "article": "43",
+      "content": "O sprejemu dela, ki ga sodnik lahko opravlja poleg sodniške službe, mora sodnik predhodno pisno obvestiti predsednika sodišča, predsednik sodišča pa predsednika neposredno višjega sodišča.\nČe predsednik sodišča meni, da gre za delo, ki ga sodnik po določbah tega zakona ne sme opravljati, predlaga sodnemu svetu, da odloči o nezdružljivosti dela s sodniško funkcijo, in o tem obvesti sodnika.\nČe sodni svet odloči, da je delo nezdružljivo s sodniško funkcijo, ga sodniku prepove sprejeti."
+    },
+    {
+      "document_id": "ZAKO334",
+      "provision_ref": "43.a",
+      "chapter": "III. poglavje  SODNIŠKE DOLŽNOSTI IN NEZDRUŽLJIVOST SODNIŠKE FUNKCIJE",
+      "article": "43.a",
+      "content": "Mentorske zadolžitve v skladu z zakonom, ki ureja pravniški državni izpit in izobraževanje za sodniško službo, so sestavni del sodniške dolžnosti."
+    },
+    {
+      "document_id": "ZAKO334",
+      "provision_ref": "43.b",
+      "chapter": "III. poglavje  SODNIŠKE DOLŽNOSTI IN NEZDRUŽLJIVOST SODNIŠKE FUNKCIJE",
+      "article": "43.b",
+      "content": "Sodniki opravljajo sodniško službo v okviru delovnega časa, v poslovnem času sodišča, določenem v Sodnem redu, v dežurstvu in v pripravljenosti.\nSodnik ima pravico do dnevnega počitka v trajanju nepretrgoma najmanj 12 ur in do tedenskega počitka v trajanju nepretrgoma 24 ur. V izjemnih primerih lahko sodnik pisno soglaša, da bo opravljanje sodniške službe preseglo omejitve iz prejšnjega stavka.\nS pripravljenostjo in dežurstvom se izven poslovnega časa sodišča zagotavlja opravljanje nujnih procesnih dejanj, določenih v zakonu.\nPripravljenost pomeni dosegljivost sodnika po telefonu ali s pomočjo drugih sredstev za potrebe zagotavljanja opravljanja nujnih procesnih dejanj in potrebe prihoda na delovno mesto ali na kraj, kjer je treba opraviti nujno procesno dejanje. Najdaljši sprejemljivi čas prihoda na delovno mesto ali na drug kraj, kjer se izvaja nujno procesno dejanje, se določi s Sodnim redom. Ure pripravljenosti se ne štejejo v delovni čas.\nV času dežurstva sodnik opravlja nujna procesna dejanja na delovnem mestu ali na kraju, kjer je treba opraviti nujno procesno dejanje. Ure dežurstva se štejejo v delovni čas.\nPredsednik sodišča lahko odredi zagotavljanje opravljanja nujnih procesnih dejanj izključno z dežurstvom, če zaradi pogostosti nujnih procesnih dejanj ni mogoče zagotoviti njihove učinkovite izvedbe s pripravljenostjo. Dežurstvo mora predhodno odobriti predsednik neposredno višjega sodišča na podlagi pisnega predloga predsednika sodišča. Ko sodnik v času dežurstva ne opravlja nujnih procesnih dejanj, mora biti dosegljiv na delovnem mestu.\nSodišče vodi posebno evidenco o opravljanju dežurstva in pripravljenosti ter evidenco delovnega časa sodnikov, ki so dali soglasje po drugem odstavku tega člena. Evidenci mora na podlagi zahteve predložiti Vrhovnemu sodišču Republike Slovenije ali ministrstvu, pristojnemu za pravosodje."
+    },
+    {
+      "document_id": "ZAKO334",
+      "provision_ref": "44",
+      "chapter": "IV. poglavje  SODNIŠKE PRAVICE",
+      "section": "1. oddelek\n Sodniška plača in nadomestila",
+      "article": "44",
+      "content": "Sodnik ima pravico do osnovne plače, ki ustreza plačnemu razredu za sodniški naziv, v katerega je imenovan, ali položaju, na katerega je imenovan.\nSodnik ima pravico do dodatkov kot dela plače pod pogoji in v višini, kot jih določa zakon, ki ureja sistem plač v javnem sektorju.\nSodniku se plača v času trajanja sodniške službe ne sme znižati, razen v primerih, ki jih določa zakon."
+    },
+    {
+      "document_id": "ZAKO334",
+      "provision_ref": "45",
+      "chapter": "IV. poglavje  SODNIŠKE PRAVICE",
+      "section": "1. oddelek\n Sodniška plača in nadomestila",
+      "article": "45",
+      "content": "Sodnika v skladu s tem zakonom in z zakonom, ki ureja sistem plač v javnem sektorju, uvrsti v plačni razred predsednik sodišča, predsednika sodišča predsednik neposrednega višjega sodišča in predsednika Vrhovnega sodišča Republike Slovenije sodni svet. Ne glede na prejšnji stavek uvrsti sodnika v plačni razred sodni svet, če je imenovanje povezano s hitrejšim ali izjemnim napredovanjem.\nUvrstitev v plačni razred je sestavni del odločbe o napredovanju oziroma imenovanju. Uvrstitev v plačni razred se ne objavi v Uradnem listu Republike Slovenije."
+    },
+    {
+      "document_id": "ZAKO334",
+      "provision_ref": "46",
+      "chapter": "IV. poglavje  SODNIŠKE PRAVICE",
+      "section": "1. oddelek\n Sodniška plača in nadomestila",
+      "article": "46",
+      "content": "V okviru razponov, ki jih določa zakon, ki ureja sistem plač v javnem sektorju, lahko okrajni sodniki napredujejo za največ štiri, okrožni sodniki za največ tri in višji sodniki za največ dva plačna razreda.\nVrhovni sodniki ne napredujejo v plačnih razredih.\nSodnik se s pridobitvijo položaja svetnika uvrsti za en plačni razred višje od najvišjega plačnega razreda posameznega sodniškega naziva."
+    },
+    {
+      "document_id": "ZAKO334",
+      "provision_ref": "49",
+      "chapter": "IV. poglavje  SODNIŠKE PRAVICE",
+      "section": "1. oddelek\n Sodniška plača in nadomestila",
+      "article": "49",
+      "title": "(črtan)",
+      "content": "Za ure pripravljenosti pripada sodniku dodatek za pripravljenost v višini, kot ga določa zakon, ki ureja sistem plač v javnem sektorju. Če sodnik med pripravljenostjo prevzame opravljanje nujnih procesnih dejanj, se ta čas vrednoti in evidentira kot ure med dežurstvom, sodniku pa za ta čas ne pripada dodatek za pripravljenost.\nZa ure dežurstva, ki presegajo polni delovni čas, pripada sodniku dodatek za delo prek polnega delovnega časa v skladu z zakonom, ki ureja sistem plač v javnem sektorju."
+    },
+    {
+      "document_id": "ZAKO334",
+      "provision_ref": "51",
+      "chapter": "IV. poglavje  SODNIŠKE PRAVICE",
+      "section": "1. oddelek\n Sodniška plača in nadomestila",
+      "article": "51",
+      "title": "(črtan)",
+      "content": "Sodnik, ki opravlja dežurstvo na dela proste dneve, ima pravico do tedenskega počitka na kakšen drug dan v tednu."
+    },
+    {
+      "document_id": "ZAKO334",
+      "provision_ref": "52",
+      "chapter": "IV. poglavje  SODNIŠKE PRAVICE",
+      "section": "1. oddelek\n Sodniška plača in nadomestila",
+      "article": "52",
+      "content": "Sodniška plača, določena po določbah tega poglavja, se lahko zmanjša le na podlagi pravnomočne sodbe disciplinskega sodišča, odločbe sodnega sveta ali odločbe pristojnega organa za čas, ko je sodnik začasno odstranjen iz sodniške službe ali je zoper njega odrejen pripor."
+    },
+    {
+      "document_id": "ZAKO334",
+      "provision_ref": "53",
+      "chapter": "IV. poglavje  SODNIŠKE PRAVICE",
+      "section": "1. oddelek\n Sodniška plača in nadomestila",
+      "article": "53",
+      "content": "Sodnik ima za čas letnega dopusta in izrednega plačanega dopusta pravico do nadomestila plače v višini 100% plače za pretekli mesec za polni delovni čas."
+    },
+    {
+      "document_id": "ZAKO334",
+      "provision_ref": "54",
+      "chapter": "IV. poglavje  SODNIŠKE PRAVICE",
+      "section": "1. oddelek\n Sodniška plača in nadomestila",
+      "article": "54",
+      "content": "Predpisi o pokojninskem in invalidskem ter zdravstvenem in drugem socialnem zavarovanju, ki veljajo za osebe v delovnem razmerju, se uporabljajo tudi za sodnike, če ni z zakonom drugače določeno.\nSodniška služba se šteje v delovno dobo."
+    },
+    {
+      "document_id": "ZAKO334",
+      "provision_ref": "55",
+      "chapter": "IV. poglavje  SODNIŠKE PRAVICE",
+      "section": "1. oddelek\n Sodniška plača in nadomestila",
+      "article": "55",
+      "content": "Poleg povračil stroškov in drugih prejemkov, ki so določeni z zakonom, ki ureja pravice funkcionarjev, ima sodnik pravico do:\n-        povračila stroškov prevoza ob dela prostih dnevih in praznikih, ki so dela prosti dnevi, ter enkrat tedensko ob sobotah in nedeljah, iz kraja, kjer ima službeno stanovanje, do kraja stalnega prebivališča in nazaj, in sicer v enaki višini, kot je za javne uslužbence v državni upravi določeno povračilo stroškov prevoza na delo in z dela;\n-        povračila stroškov selitve iz kraja stalnega prebivališča v kraj, kjer ima službeno stanovanje, in nazaj in\n-        povračila stroškov za izobraževanje."
+    },
+    {
+      "document_id": "ZAKO334",
+      "provision_ref": "57",
+      "chapter": "IV. poglavje  SODNIŠKE PRAVICE",
+      "section": "1. oddelek\n Sodniška plača in nadomestila",
+      "article": "57",
+      "content": "(1) Pogoje in višino povračila iz druge in tretje alineje 55. člena tega zakona določi predsednik vrhovnega sodišča, če s tem zakonom ni drugače določeno.\n(2) Izplačilo prejemkov in povračil, do katerih je sodnik upravičen v skladu s tem zakonom in zakonom, ki ureja pravice funkcionarjev, odobri predsednik sodišča."
+    },
+    {
+      "document_id": "ZAKO334",
+      "provision_ref": "58",
+      "chapter": "IV. poglavje  SODNIŠKE PRAVICE",
+      "section": "2. oddelek\n Dopusti",
+      "article": "58",
+      "content": "Sodnik ima pravico do letnega dopusta v trajanju do štirideset delovnih dni, vendar ne manj kot trideset delovnih dni.\nSodnik ima pravico do izrednega plačanega dopusta do sedem delovnih dni v posameznem koledarskem letu zaradi osebnih razlogov.\nČe sodnik kandidira za poslanca ali predsednika republike, ima od dneva potrditve kandidature pravico do izrednega neplačanega dopusta za pripravo na volitve v trajanju trideset delovnih dni.\nV drugih izjemnih primerih se lahko sodniku odobri izredni neplačani dopust do trideset dni v koledarskem letu.\nMerila za trajanje dopusta ter primere in pogoje iz prejšnjih odstavkov določi minister, pristojen za pravosodje, v soglasju s sodnim svetom."
+    },
+    {
+      "document_id": "ZAKO334",
+      "provision_ref": "59",
+      "chapter": "IV. poglavje  SODNIŠKE PRAVICE",
+      "section": "2. oddelek\n Dopusti",
+      "article": "59",
+      "content": "Sodnik mora poskrbeti, da izkoristi letni dopust tako, da ne bo ovirano opravljanje sodniške službe. Večji del letnega dopusta izkoristi sodnik v času sodnih počitnic, razen v primeru, kadar po letnem razporedu opravlja sodniško službo v nujnih zadevah.\nSodnik napove čas izrabe večjega dela letnega dopusta najkasneje do 31. maja za tekoče leto, o spremembi časa izrabe pa pravočasno obvesti predsednika sodišča.\nČe bi bilo zaradi napovedane izrabe ali spremembe izrabe letnega dopusta občutno ovirano redno izvajanje sodne oblasti, predsednik sodišča ne ugodi napovedani izrabi ali spremembi izrabe letnega dopusta.\nProti odločitvi predsednika sodišča se sodnik lahko pritoži v treh dneh. O pritožbi okrajnega, okrožnega in višjega sodnika odloči personalni svet višjega sodišča, o pritožbi vrhovnega sodnika pa personalni svet Vrhovnega sodišča Republike Slovenije. Pritožba ne zadrži izvršitve odločitve."
+    },
+    {
+      "document_id": "ZAKO334",
+      "provision_ref": "60",
+      "chapter": "IV. poglavje  SODNIŠKE PRAVICE",
+      "section": "2. oddelek\n Dopusti",
+      "article": "60",
+      "content": "Izredni dopust sodnika odobri predsednik sodišča, za predsednika sodišča predsednik neposredno višjega sodišča, za predsednika vrhovnega sodišča pa predsednik sodnega sveta.\nČe predsednik sodišča zavrne zahtevo za odobritev izrednega dopusta, ima sodnik pravico, da se zoper odločitev v roku petih dni pritoži.\nO pritožbi odloči personalni svet, ki je pristojen po četrtem odstavku prejšnjega člena."
+    },
+    {
+      "document_id": "ZAKO334",
+      "provision_ref": "61",
+      "chapter": "IV. poglavje  SODNIŠKE PRAVICE",
+      "section": "3. oddelek\n Službeno oblačilo",
+      "article": "61",
+      "content": "Sodniku pripada službeno oblačilo, to je sodniška toga.\nVrste službenih oblačil za sodnike na posameznih sodniških mestih oziroma položajih in način nošenja predpiše minister, pristojen za pravosodje."
+    },
+    {
+      "document_id": "ZAKO334",
+      "provision_ref": "62",
+      "chapter": "IV. poglavje  SODNIŠKE PRAVICE",
+      "section": "4. oddelek\n Sodniško izobraževanje",
+      "article": "62",
+      "content": "Sodniške štipendije se pod pogoji tega zakona podeljujejo sodnikom za podiplomski študij prava ter za specialistični študij prava v državi ali v tujini oziroma za strokovno usposabljanje na kakšnem drugem strokovnem področju, ki je povezano s sodniškim delom.\nSodniška štipendija predstavlja povračilo stroškov izobraževanja, vključno z nabavo potrebne strokovne literature, če mora sodnik v času izobraževanja bivati zunaj svojega stalnega prebivališča, pa tudi povračilo stroškov bivanja.\nSredstva za sodniške štipendije se zagotavljajo v proračunu Republike Slovenije v okviru sredstev ministrstva, pristojnega za pravosodje."
+    },
+    {
+      "document_id": "ZAKO334",
+      "provision_ref": "63",
+      "chapter": "IV. poglavje  SODNIŠKE PRAVICE",
+      "section": "4. oddelek\n Sodniško izobraževanje",
+      "article": "63",
+      "content": "Štipendije se podeljujejo na podlagi razpisa ministrstva, pristojnega za pravosodje, ki zbere prijave in jih s svojim mnenjem posreduje sodnemu svetu.\nSodni svet odloči, katerim najboljšim kandidatom se glede na letna razpoložljiva sredstva za štipendije dodelijo štipendije. Pred odločitvijo sodni svet pridobi mnenje predsednika sodišča, na katerem kandidat opravlja sodniško funkcijo, če gre za predsednika sodišča, pa predsednika sodišča neposredno višje stopnje.\nPostopek in pogoje za podelitev štipendij predpiše minister, pristojen za pravosodje.\nČe izobraževanje zahteva sodnikovo odsotnost, ima sodnik, ki mu je štipendija podeljena, pravico do odsotnosti s pravico do nadomestila plače v višini plače, vendar največ trideset dni v koledarskem letu.\nO odsotnosti odloča predsednik sodišča, za predsednika sodišča predsednik neposredno višjega sodišča, za predsednika Vrhovnega sodišča Republike Slovenije pa predsednik sodnega sveta.\nČe predsednik sodišča zavrne zahtevo za odobritev odsotnosti, ima sodnik pravico, da se zoper odločitev v osmih dneh pritoži.\nO pritožbi odloča personalni svet, ki je pristojen po četrtem odstavku 59. člena tega zakona."
+    },
+    {
+      "document_id": "ZAKO334",
+      "provision_ref": "64",
+      "chapter": "IV. poglavje  SODNIŠKE PRAVICE",
+      "section": "4. oddelek\n Sodniško izobraževanje",
+      "article": "64",
+      "content": "Sodnik ima pravico do udeležbe v izobraževalnih oblikah, na posvetovanjih ali na drugih srečanjih pravnih strokovnjakov.\nV primerih iz prejšnjega odstavka ima sodnik pravico biti odsoten v času, ki je potreben za udeležbo, s pravico do nadomestila v višini plače in povračila stroškov po določbah tega zakona.\nO udeležbi sodnika odloči na podlagi prijav sodnikov predsednik sodišča, ki mora skrbeti, da se sodniki z določenega pravnega področja enakomerno izmenjavajo v udeležbi izobraževalnih ali posvetovalnih oblik iz prvega odstavka tega člena."
+    },
+    {
+      "document_id": "ZAKO334",
+      "provision_ref": "65",
+      "chapter": "IV. poglavje  SODNIŠKE PRAVICE",
+      "section": "4. oddelek\n Sodniško izobraževanje",
+      "article": "65",
+      "content": "Pravico do odsotnosti po določbi četrtega odstavka 63. člena tega zakona s pravico do nadomestila v višini plače ima tudi sodnik, ki se na svoje stroške izobražuje na podiplomskem študiju prava ali v drugih oblikah usposabljanja po določbi prvega odstavka 62. člena tega zakona."
+    },
+    {
+      "document_id": "ZAKO334",
+      "provision_ref": "66",
+      "chapter": "IV. poglavje  SODNIŠKE PRAVICE",
+      "section": "5. oddelek\n Premestitev in dodelitev sodnika",
+      "article": "66",
+      "content": "Sodnika se lahko na predlog predsednika Vrhovnega sodišča Republike Slovenije in s soglasjem predsednikov obeh pristojnih sodišč po njegovi vnaprejšnji pisni privolitvi premesti na drugo sodišče istega ali nižjega položaja in pristojnosti.\nIzjemoma je lahko sodnik premeščen na drugo sodišče brez njegove privolitve:\n1.     če se odpravi sodišče, v katerem sodnik opravlja sodniško službo;\n2.     če se bistveno za daljši, čas zmanjša obseg dela sodišča ali se zaradi zmanjšanega obsega dela zmanjša število sodniških mest pri sodišču, v katerem sodnik opravlja sodniško službo;\n3.     če se spremeni organizacija sodišč;\n4.     v drugih primerih, ko zakon tako določa.\nV primerih iz prejšnjega odstavka je treba sodniku zagotoviti enako sodniško mesto in enak plačni razred, ki ga je imel pred premestitvijo. Če to ni mogoče, se sodnika premesti na drugo sodišče, ima pa pravico zadržati svoj prejšnji sodniški položaj kot naziv in svoj prejšnji plačni razred, če sta bila višja, in pravico do napredovanja, kot jo je imel pred premestitvijo.\nO premestitvi sodnika po določbah prejšnjih odstavkov odloča oziroma jo, v primeru izrečenega disciplinskega sklepa, izvede sodni svet brez razpisa.\nŠteje se, da je s premestitvijo sodnik imenovan na sodniško mesto pri sodišču, na katerega je premeščen.\nO vseh drugih premestitvah sodni svet odloča na podlagi razpisa."
+    },
+    {
+      "document_id": "ZAKO334",
+      "provision_ref": "67",
+      "chapter": "IV. poglavje  SODNIŠKE PRAVICE",
+      "section": "5. oddelek\n Premestitev in dodelitev sodnika",
+      "article": "67",
+      "content": "Sodnik je lahko, tudi brez privolitve, dodeljen, da opravlja sodniško službo na drugem sodišču istega ali nižjega položaja, za polni delovni čas ali za del polnega delovnega časa:\n-       če je to potrebno, da se omogoči redno izvajanje sodne oblasti pri sodišču,\n-       če je to potrebno, da se odpravijo zaostanki pri delu sodišča,\n-       če na sodišču, na katero je imenovan, zaradi začasno zmanjšanega pripada zadev ne more dosegati pričakovanega obsega dela.\nSoglasje sodnika za dodelitev po prejšnjem odstavku je potrebno, če gre za dodelitev na sodniško mesto na sodišču, ki je od kraja sodišča, na katerem je imenovan, oddaljeno več kakor 70 kilometrov oziroma več kakor eno uro vožnje z javnim prevoznim sredstvom, če je sodnica noseča ali doji otroka in če sodnik ali sodnica neguje otroka, starega do treh let.\nDodelitev po tem členu lahko, glede na potrebe, traja največ dve leti, s soglasjem sodnika pa se lahko podaljša."
+    },
+    {
+      "document_id": "ZAKO334",
+      "provision_ref": "67.a",
+      "chapter": "IV. poglavje  SODNIŠKE PRAVICE",
+      "section": "5. oddelek\n Premestitev in dodelitev sodnika",
+      "article": "67.a",
+      "content": "Sodnik, ki napreduje na višje sodniško mesto in ima v reševanju zadeve, ki so mu bile dodeljene v času opravljanja sodniške službe pred imenovanjem na razpisano višje sodniško mesto in so določene kot sodni zaostanek, je lahko pod pogoji iz 67. člena tega zakona istočasno z imenovanjem na višje sodniško mesto dodeljen na prejšnje sodniško mesto. Sodnik opravlja sodniško službo na sodniškem mestu, na katerega je dodeljen, in na sodniškem mestu, na katerega je imenovan, v skladu s sporazumom oziroma odločitvijo iz tretjega odstavka 67. člena tega zakona.\nO dodelitvi iz prejšnjega odstavka odloči predsednik Vrhovnega sodišča Republike Slovenije na predlog predsednika sodišča, pri katerem sodnik opravlja sodniško službo pred napredovanjem na višje sodniško mesto. Zoper odločitev se dodeljeni sodnik lahko pritoži v skladu z drugim odstavkom 68. člena tega zakona.\nO obremenitvi sodnika na posameznem sodniškem mestu sporazumno odločata predsednik sodišča, pri katerem sodnik opravlja sodniško službo pred napredovanjem, in predsednik neposredno višjega sodišča, na katerega je sodnik imenovan. Če do sporazuma o razporeditvi obremenitve na posameznem sodišču ne pride, o tem odloči predsednik Vrhovnega sodišča Republike Slovenije."
+    },
+    {
+      "document_id": "ZAKO334",
+      "provision_ref": "68",
+      "chapter": "IV. poglavje  SODNIŠKE PRAVICE",
+      "section": "5. oddelek\n Premestitev in dodelitev sodnika",
+      "article": "68",
+      "content": "O dodelitvi odloči predsednik Vrhovnega sodišča Republike Slovenije, na predlog predsednika sodišča, na katero bo sodnik dodeljen, če to ni mogoče, pa na predlog predsednika sodišča višje stopnje.\nZoper odločitev se dodeljeni sodnik lahko pritoži v treh dneh od prejema odločbe. O pritožbi, ki ne zadrži izvršitve odločitve, odloči sodni svet v petnajstih dneh."
+    },
+    {
+      "document_id": "ZAKO334",
+      "provision_ref": "69.a",
+      "chapter": "IV. poglavje  SODNIŠKE PRAVICE",
+      "section": "5. oddelek\n Premestitev in dodelitev sodnika",
+      "article": "69.a",
+      "title": "(črtan)",
+      "content": "Za reševanje zadev iz pristojnosti specializiranih oddelkov okrožnih sodišč na sedežih višjih sodišč, ki opravljajo preiskavo in sodijo v zahtevnejših zadevah organiziranega in gospodarskega kriminala, terorizma, korupcijskih in drugih podobnih kaznivih dejanj (v nadaljnjem besedilu: specializirani oddelek), je specializiranemu oddelku lahko dodeljen sodnik okrožnega sodišča na območju višjega sodišča, na sedežu katerega deluje specializirani oddelek, ali sodnik višjega sodišča, na sedežu katerega deluje specializirani oddelek, ali sodnik Vrhovnega sodišča Republike Slovenije. Za opravljanje preiskovalnih dejanj in sojenje o kaznivih dejanjih iz pristojnosti specializiranega oddelka je specializiranemu oddelku lahko dodeljen tudi sodnik okrajnega sodišča na območju višjega sodišča, na sedežu katerega deluje specializirani oddelek.\nPredsedniki okrožnih sodišč na sedežih višjih sodišč pošljejo predloge za objavo pozivov k prijavi za dodelitev sodnikov v specializirane oddelke ministrstvu, pristojnemu za pravosodje, najkasneje v treh mesecih pred prenehanjem dodelitve oziroma nemudoma, če sodniku dodelitev preneha pred iztekom roka dodelitve, ali v enem mesecu po spremembi določitve števila dodeljenih sodnikov v specializiranih oddelkih.\nPoziv k prijavam za dodelitev objavi ministrstvo, pristojno za pravosodje, v 15 dneh od prejema predloga iz prejšnjega odstavka. Poziv se objavi v Uradnem listu Republike Slovenije. Rok za prijave ne sme biti krajši od 15 dni."
+    },
+    {
+      "document_id": "ZAKO334",
+      "provision_ref": "69.b",
+      "chapter": "IV. poglavje  SODNIŠKE PRAVICE",
+      "section": "5. oddelek\n Premestitev in dodelitev sodnika",
+      "article": "69.b",
+      "content": "O dodelitvi sodnika iz 69.a člena tega zakona odloča sodni svet, ki posebno usposobljenost in izkušenost za reševanje zahtevnejših kazenskih zadev ocenjuje tako, da upošteva:\n1.     mnenje sodnikov kazenskega oddelka pristojnega višjega sodišča;\n2.     trajanje sodniške službe sodnika na kazenskem področju;\n3.     veljavno oceno sodniške službe;\n4.     dokazila o posebnih izkušnjah in dodatnem strokovnem usposabljanju sodnika na področju kazenskega prava.\nDodelitev za polni ali del polnega delovnega časa traja do dveh let in se lahko s soglasjem dodeljenega sodnika ponovi enkrat ali večkrat. Če se dodelitev izteče pred izdajo odločbe v sodniku dodeljeni zadevi, se dodelitev podaljša do izdaje te odločbe."
+    },
+    {
+      "document_id": "ZAKO334",
+      "provision_ref": "69.c",
+      "chapter": "IV. poglavje  SODNIŠKE PRAVICE",
+      "section": "5. oddelek\n Premestitev in dodelitev sodnika",
+      "article": "69.c",
+      "content": "Plačo dodeljenih sodnikov za čas, v katerem rešujejo zadeve iz pristojnosti specializiranega oddelka, določa zakon, ki ureja sodišča.\nV času trajanja dodelitve se dodeljenemu sodniku obseg dela na sodišču, na katerem je imenovan, zmanjša za toliko, kolikor je treba zaradi reševanja zadev v specializiranem oddelku. Če se predsednika sodišč ne moreta sporazumeti o obsegu zmanjšanja dela, o tem odloči predsednik višjega sodišča na sedežu okrožnega sodišča, pri katerem deluje specializirani oddelek."
+    },
+    {
+      "document_id": "ZAKO334",
+      "provision_ref": "70",
+      "chapter": "IV. poglavje  SODNIŠKE PRAVICE",
+      "section": "5. oddelek\n Premestitev in dodelitev sodnika",
+      "article": "70",
+      "content": "Dodelitev po 67., 67.a, 69.a in 71. členu tega zakona ne posega v sodnikov položaj in sodnikovo plačo, ki ju ima sodnik na mestu, na katerega je imenovan, razen če ta zakon določa drugače.\nNapredovanje sodnika v času dodelitve ne vpliva na čas trajanja dodelitve.\nŽe dodeljene zadeve, ki so določene kot zaostanek, se sodniku, dodeljenem po 67. in 69. členu tega zakona dodelijo na novo, ob upoštevanju načela zakonitega sodnika."
+    },
+    {
+      "document_id": "ZAKO334",
+      "provision_ref": "70.a",
+      "chapter": "IV. poglavje  SODNIŠKE PRAVICE",
+      "section": "5. oddelek\n Premestitev in dodelitev sodnika",
+      "article": "70.a",
+      "content": "Trajanje dodelitve po 67., 67.a, 69., 69.a in 71. členu tega zakona se lahko skrajša na dobo, krajšo od dobe, za katero je bil sodnik dodeljen, oziroma mu dodelitev predčasno preneha:\n1.     na predlog predstojnika organa, ki mu je bil sodnik dodeljen, če prenehajo razlogi ali se spremenijo okoliščine, zaradi katerih je bila izvedena dodelitev, ali če za to obstajajo drugi utemeljeni razlogi;\n2.     na predlog dodeljenega sodnika, če za to obstajajo utemeljeni razlogi;\n3.     na podlagi sporazumnega predloga predstojnika organa, ki mu je bil sodnik dodeljen, in dodeljenega sodnika.\nO skrajšanju trajanja dodelitve oziroma predčasnem prenehanju odloča sodni svet.\nPred odločitvijo na podlagi 2. točke prvega odstavka tega člena je treba pridobiti mnenje predstojnika organa, ki mu je bil sodnik dodeljen."
+    },
+    {
+      "document_id": "ZAKO334",
+      "provision_ref": "71",
+      "chapter": "IV. poglavje  SODNIŠKE PRAVICE",
+      "section": "5. oddelek\n Premestitev in dodelitev sodnika",
+      "article": "71",
+      "content": "Sodnik je lahko dodeljen na delo na Ustavno sodišče Republike Slovenije, Vrhovno sodišče Republike Slovenije, višje sodišče, v strokovno službo sodnega sveta, v center za izobraževanje v pravosodju ali za opravljanje zahtevnejših strokovnih del na ministrstvo, pristojno za pravosodje.\nPoziv k prijavam za dodelitev in predviden čas dodelitve objavi ministrstvo, pristojno za pravosodje, v petnajstih dneh od prejema predloga predstojnika organa iz prejšnjega odstavka.\nO dodelitvi odloča sodni svet na predlog predstojnika organa, kateremu bo sodnik dodeljen. Sodni svet pred odločitvijo pridobi pisno privolitev sodnika in mnenje predsednika sodišča, kjer sodnik opravlja sodniško službo. Prijava sodnika na poziv k prijavam za dodelitev šteje za pisno privolitev iz tretjega odstavka 4. člena tega zakona.\nDodelitev lahko traja največ tri leta, in se lahko s soglasjem dodeljenega sodnika ponovi."
+    },
+    {
+      "document_id": "ZAKO334",
+      "provision_ref": "71.a",
+      "chapter": "IV. poglavje  SODNIŠKE PRAVICE",
+      "section": "5. oddelek\n Premestitev in dodelitev sodnika",
+      "article": "71.a",
+      "content": "Če se na poziv iz drugega odstavka prejšnjega člena ne prijavi nihče ali ni izbran noben kandidat, razpiše ministrstvo, pristojno za pravosodje, prosto sodniško mesto za sodnika, ki bo takoj po izvolitvi dodeljen na podlagi prejšnjega člena, če tako skupaj predlagata predsednika sodišča, na katero bo sodnik imenovan, in predstojnik organa iz prvega odstavka prejšnjega člena, kateremu bo sodnik dodeljen.\nProsto sodniško mesto se razpiše v petnajstih dneh od prejema skupnega predloga.\nPrijava kandidata na tako sodniško mesto šteje za pisno privolitev iz tretjega odstavka 4. člena tega zakona.\nV primeru iz prvega odstavka tega člena se šteje, da je sodnik z izvolitvijo dodeljen za čas, ki je bil naveden v razpisu."
+    },
+    {
+      "document_id": "ZAKO334",
+      "provision_ref": "71.b",
+      "chapter": "IV. poglavje  SODNIŠKE PRAVICE",
+      "section": "5. oddelek\n Premestitev in dodelitev sodnika",
+      "article": "71.b",
+      "content": "Osebni spis za sodnika, dodeljenega po 71. členu tega zakona, se vodi v uradu oziroma kabinetu predstojnika organa, kateremu je dodeljen.\nPooblastila iz tega zakona v razmerju do sodnika, dodeljenega po 71. členu tega zakona, izvršujeta predstojnik organa, kateremu je sodnik dodeljen, in personalni svet Vrhovnega sodišča Republike Slovenije, za sodnike, dodeljene na višje sodišče, pa personalni svet višjega sodišča."
+    },
+    {
+      "document_id": "ZAKO334",
+      "provision_ref": "71.c",
+      "chapter": "IV. poglavje  SODNIŠKE PRAVICE",
+      "section": "5. oddelek\n Premestitev in dodelitev sodnika",
+      "article": "71.c",
+      "content": "Sodnik, ki je dodeljen na višje sodišče ali Vrhovno sodišče Republike Slovenije ali v strokovno službo sodnega sveta je lahko v tem času v celoti ali deloma oproščen opravljanja sodniške službe.\nO oprostitvi opravljanja sodniške službe odloča sodni svet.\nSodnik, ki je dodeljen na Ustavno sodišče Republike Slovenije, v center za izobraževanje v pravosodju za vodenje centra ali za opravljanje drugih nalog v centru ali za opravljanje zahtevnejših strokovnih nalog na ministrstvo, pristojno za pravosodje, obdrži pravico uporabljati naziv sodnik, vendar ne more hkrati opravljati sodniške službe in mu obveznosti iz sodniške službe mirujejo. Dodeljen sodnik lahko v času dodelitve kandidira in je imenovan za predsednika sodišča, podpredsednika sodišča ali na druga vodstvena mesta na sodišču pod pogoji in po postopku, ki ga določa zakon, ki ureja sodišča.\nNe glede na določbe 28. člena ter drugega in tretjega odstavka 32. člena tega zakona se pri oceni sodniške službe za čas dodelitve upošteva mnenje o delu sodnika, ki ga za namene ocene sodniške službe izdela predstojnik organa, pri katerem je oziroma je bil sodnik dodeljen.\nSodniku iz tretjega odstavka tega člena pripada najmanj takšna plača, kot bi jo prejemal, če bi opravljal sodniško službo, varovane pa so tudi vse njegove pravice do napredovanja v skladu s tem zakonom.\nSodniku iz tretjega odstavka tega člena, razen sodniku, ki je dodeljen na Ustavno sodišče Republike Slovenije, pripada pod pogojem, da opravlja povečan obseg dela oziroma je dodatno delovno obremenjen, dodatno plačilo za povečan obseg dela oziroma za nadpovprečno delovno obremenjenost, skladno s pogoji, merili in obsegom plačila za povečan obseg dela oziroma dodatno delovno obremenjenost, ki jih določi Vlada Republike Slovenije z uredbo.\nSodnik iz tretjega odstavka tega člena, razen sodnik, ki je dodeljen na Ustavno sodišče Republike Slovenije, predsednik sodišča, pri katerem je sodnik iz tretjega odstavka tega člena opravljal sodniško službo pred dodelitvijo, in predstojnik organa, na katerega je sodnik dodeljen, sklenejo pisni sporazum o višini dodatnega plačila za povečan obseg dela oziroma za nadpovprečno delovno obremenjenost in o načinu povračila plače, nadomestila plače, dodatnega plačila za povečan obseg dela oziroma za nadpovprečno delovno obremenjenost in drugih osebnih prejemkov ter povračil dodeljenega sodnika sodišču, pri katerem je sodnik opravljal sodniško službo pred dodelitvijo."
+    },
+    {
+      "document_id": "ZAKO334",
+      "provision_ref": "72",
+      "chapter": "V. poglavje  CENTRALNA KADROVSKA EVIDENCA",
+      "article": "72",
+      "content": "Za urejanje položaja, pravic, dolžnosti in odgovornosti sodnikov ter omogočanje opravljanja zadev sodne uprave Vrhovno sodišče Republike Slovenije upravlja centralno kadrovsko evidenco sodnikov po določbah zakona, ki ureja sodišča."
+    },
+    {
+      "document_id": "ZAKO334",
+      "provision_ref": "73",
+      "chapter": "V. poglavje  CENTRALNA KADROVSKA EVIDENCA",
+      "article": "73",
+      "content": "Podatki iz centralne kadrovske evidence, ki vsebujejo osebne podatke, oceno sodniške službe in podatke o učinkovitosti sodnikovega dela ter disciplinske sklepe, se pošiljajo in vračajo v zapečateni pisemski ovojnici z oznako »zaupno«."
+    },
+    {
+      "document_id": "ZAKO334",
+      "provision_ref": "74",
+      "chapter": "VI. poglavje  PRENEHANJE SODNIŠKE FUNKCIJE, POSEBNE PRAVICE SODNIKA, KI JE PRIDOBIL PRAVICO DO POKOJNINE, IN RAZREŠITEV SODNIKA",
+      "section": "1. oddelek\n Prenehanje sodniške funkcije in sodniške službe",
+      "article": "74",
+      "content": "Sodniku preneha sodniška funkcija po zakonu:\n1.     če ne priseže najpozneje v šestdesetih dneh od dneva izvolitve v sodniško funkcijo, razen če ne priseže iz razlogov, na katere sam ne more vplivati;\n2.     če izgubi državljanstvo Republike Slovenije;\n3.     če izgubi poslovno sposobnost ali zdravstveno zmožnost za opravljanje službe;\n4.     če se odpove sodniški službi s pisno vlogo, ki se pošlje sodnemu svetu po predsedniku sodišča;\n5.     če se odpravi sodišče in sodniku ni mogoče zagotoviti, da nadaljuje z opravljanjem sodniške službe v drugem sodišču;\n6.     če sodnik sprejme funkcijo, začne opravljati dejavnost ali sklene delovno razmerje oziroma kljub prepovedi opravlja delo, ki ni združljivo s sodniško funkcijo (41. člen, tretji odstavek 42. člena in tretji odstavek 43. člena);\n7.     če iz ocene njegove službe izhaja, da ne ustreza sodniški službi (33. člen);\n8.     če mu je izrečena disciplinska sankcija prenehanja sodniške funkcije.\nSodniku preneha sodniška služba po zakonu z upokojitvijo, vendar najpozneje, ko dopolni 70 let starosti.\nŠteje se, da je razlog iz 1. točke prvega odstavka tega člena podan, ko preteče šestdeset dni od izvolitve sodnika v sodniško funkcijo, razlog iz 2., 3. in 8. točke prvega odstavka tega člena z dnem pravnomočnosti odločbe pristojnega organa, razlog iz 5. točke prvega odstavka tega člena z dnem prenehanja dela sodišča, razlog iz 7. točke prvega odstavka tega člena z dnem, ko sodni svet potrdi oceno, razlog iz prejšnjega odstavka pa s potekom leta, v katerem je sodnik dosegel starostno mejo za upokojitev.\nSodniška funkcija iz razloga po 4. točki prvega odstavka tega člena preneha šestdeseti dan po prispetju sodnikove odpovedi na sodni svet, iz razloga po 6. točki prvega odstavka tega člena pa z dnem nastopa funkcije oziroma dela, ki ni združljivo s sodniško funkcijo."
+    },
+    {
+      "document_id": "ZAKO334",
+      "provision_ref": "75",
+      "chapter": "VI. poglavje  PRENEHANJE SODNIŠKE FUNKCIJE, POSEBNE PRAVICE SODNIKA, KI JE PRIDOBIL PRAVICO DO POKOJNINE, IN RAZREŠITEV SODNIKA",
+      "section": "1. oddelek\n Prenehanje sodniške funkcije in sodniške službe",
+      "article": "75",
+      "content": "S prenehanjem sodniške funkcije iz razloga po 3. ali 5. točki prvega odstavka prejšnjega člena pridobi sodnik\npravico do predčasne upokojitve, če izpolnjuje pogoje, ki jih za predčasno upokojitev določajo predpisi o pokojninskem in invalidskem zavarovanju."
+    },
+    {
+      "document_id": "ZAKO334",
+      "provision_ref": "76",
+      "chapter": "VI. poglavje  PRENEHANJE SODNIŠKE FUNKCIJE, POSEBNE PRAVICE SODNIKA, KI JE PRIDOBIL PRAVICO DO POKOJNINE, IN RAZREŠITEV SODNIKA",
+      "section": "1. oddelek\n Prenehanje sodniške funkcije in sodniške službe",
+      "article": "76",
+      "content": "O nastopu razlogov iz prvega in drugega odstavka 74. člena tega zakona obvesti predsednik sodišča sodni svet, ki izda ugotovitveno odločbo o prenehanju sodniške funkcije oziroma sodniške službe."
+    },
+    {
+      "document_id": "ZAKO334",
+      "provision_ref": "77",
+      "chapter": "VI. poglavje  PRENEHANJE SODNIŠKE FUNKCIJE, POSEBNE PRAVICE SODNIKA, KI JE PRIDOBIL PRAVICO DO POKOJNINE, IN RAZREŠITEV SODNIKA",
+      "section": "3. oddelek\n Razrešitev sodnika",
+      "article": "77",
+      "content": "Če sodnik naklepno stori kaznivo dejanje z zlorabo sodniške funkcije, mora sodišče pravnomočno obsodilno sodbo poslati sodnemu svetu.\nSodni svet je v primeru iz prejšnjega odstavka dolžan brez odlašanja obvestiti državni zbor, ki sodnika razreši."
+    },
+    {
+      "document_id": "ZAKO334",
+      "provision_ref": "78",
+      "chapter": "VI. poglavje  PRENEHANJE SODNIŠKE FUNKCIJE, POSEBNE PRAVICE SODNIKA, KI JE PRIDOBIL PRAVICO DO POKOJNINE, IN RAZREŠITEV SODNIKA",
+      "section": "3. oddelek\n Razrešitev sodnika",
+      "article": "78",
+      "content": "Če je sodnik obsojen zaradi kaznivega dejanja na zaporno kazen, mora sodišče pravnomočno sodbo poslati sodnemu svetu.\nČe je sodnik obsojen zaradi naklepnega kaznivega dejanja na zaporno kazen, ki je daljša od šestih mesecev, sodni svet predlaga državnemu zboru, da sodnika razreši, o ostalih sodbah, s katerimi je sodnik obsojen za kaznivo dejanje, pa sodni svet državni zbor le obvesti.\nČe je sodnik obsojen zaradi kaznivega dejanja na zaporno kazen, ki je krajša od šestih mesecev ali na neprostostno kazen, sodni svet predlaga državnemu zboru, da sodnika razreši, če gre za kaznivo dejanje, zaradi katerega je osebnostno neprimeren za opravljanje sodniške funkcije."
+    },
+    {
+      "document_id": "ZAKO334",
+      "provision_ref": "79",
+      "chapter": "VI. poglavje  PRENEHANJE SODNIŠKE FUNKCIJE, POSEBNE PRAVICE SODNIKA, KI JE PRIDOBIL PRAVICO DO POKOJNINE, IN RAZREŠITEV SODNIKA",
+      "section": "3. oddelek\n Razrešitev sodnika",
+      "article": "79",
+      "content": "Oseba, ki ji je prenehala sodniška funkcija iz razloga 7. točke prvega odstavka 74. člena tega zakona, oziroma oseba, ki je bila razrešena po določbah tega zakona, ne more kandidirati za izvolitev v sodniško funkcijo."
+    },
+    {
+      "document_id": "ZAKO334",
+      "provision_ref": "79.a",
+      "chapter": "VI.a SLUŽBENI NADZOR SODNIKOVEGA DELA",
+      "article": "79.a",
+      "content": "Službeni nadzor sodnikovega dela (v nadaljnjem besedilu: službeni nadzor) je namenjen ugotavljanju izpolnjevanja sodniških dolžnosti po zakonu in sodnem redu ter zajema vse ukrepe za odpravljanje vzrokov za neustrezen obseg, kakovost in strokovnost dela ter zaostanke pri delu.\nPri službenem nadzoru ni dovoljeno posegati v neodvisnost sodnika pri opravljanju sodniške funkcije.\nSlužbeni nadzor sodnikovega dela opravlja predsednik sodišča ali neposredno višje sodišče. Neposredno višje sodišče opravlja službeni nadzor po sodnikih, ki jih glede na delovno področje določi predsednik tega sodišča izmed sodnikov, ki so z letnim razporedom dela določeni za opravljanje službenega nadzora.\nPri službenem nadzoru se lahko pregledujejo spisi vseh sodniku dodeljenih zadev in zadev, v katerih je že bilo pravnomočno odločeno, pridobijo in analizirajo podatki o sodnikovem delu ter opravi razgovor s sodnikom.\nPri službenem nadzoru se sodniku lahko izreče opozorilo in določi obdobje, po katerem bo službeni nadzor ponovljen. Predsednik Vrhovnega sodišča Republike Slovenije, sodnega sveta, disciplinski tožilec ali disciplinsko sodišče, minister, pristojen za pravosodje, predsednik sodišča višje stopnje in predsednik sodišča, na katerem opravlja sodniško funkcijo sodnik, nad čigar delom je bil opravljen službeni nadzor, lahko podatke oziroma ocene iz poročila iz prvega odstavka 79.c člena tega zakona uporabijo za izvedbo ali predlaganje uvedbe ukrepov ali postopkov po določbah tega zakona, zakona, ki ureja sodišča, zakona, ki ureja sodni svet, in zakona, ki ureja varstvo pravice do sojenja brez nepotrebnega odlašanja, zlasti glede ocene sodniške službe, postopka ugotavljanja disciplinske odgovornosti sodnika, in za izvedbo ali predlaganje uvedbe ukrepov ali postopkov na podlagi drugih zakonskih pristojnosti ali obveznosti ministrstva, pristojnega za pravosodje. Podatki oziroma ocene iz poročila iz prvega odstavka 79.c člena tega zakona se pri odločanju o ukrepih ali postopkih iz prejšnjega stavka ne smejo uporabiti.\nPodatki oziroma ocene iz poročila iz prvega odstavka 79.c člena tega zakona se uporabljajo do dokončanja postopkov, ki so bili uvedeni na podlagi teh podatkov oziroma ocen.\nČe se pri službenem nadzoru ugotovi, da je ogrožena ali kršena pravica do odločanja brez nepotrebnega odlašanja, se sodniku lahko odredi prednostno reševanje zadeve in določi rok, v katerem mora poročati o posameznih dejanjih v postopku."
+    },
+    {
+      "document_id": "ZAKO334",
+      "provision_ref": "79.b",
+      "chapter": "VI.a SLUŽBENI NADZOR SODNIKOVEGA DELA",
+      "article": "79.b",
+      "content": "Predsednik sodišča opravi službeni nadzor glede na lastne ugotovitve o sodnikovem delu ali na pobudo varuha človekovih pravic, obvezno pa na obrazloženo zahtevo predsednika neposredno višjega sodišča ali predsednika Vrhovnega sodišča Republike Slovenije, ministra, pristojnega za pravosodje, pristojnega personalnega sveta in sodnega sveta. Službeni nadzor se opravi v zahtevanem obsegu.\nPredsednik neposredno višjega sodišče opravi službeni nadzor glede na lastne ugotovitve o delu sodišča in delu posameznih sodnikov pri odločanju o pravnih sredstvih ali na predlog predsednika sodišča, predsednika Vrhovnega sodišča Republike Slovenije, ministra, pristojnega za pravosodje, pristojnega personalnega sveta ali sodnega sveta. Če predsednik neposredno višjega sodišča obrazloženo zavrne predlog za nadzor, lahko predlagatelj nadzora, razen če je predlagatelj nadzora sodni svet, zahteva, da o utemeljenosti predloga dokončno odloči sodni svet v 30 dneh po prejemu zahteve."
+    },
+    {
+      "document_id": "ZAKO334",
+      "provision_ref": "79.c",
+      "chapter": "VI.a SLUŽBENI NADZOR SODNIKOVEGA DELA",
+      "article": "79.c",
+      "content": "O ugotovitvah in ukrepih službenega nadzora se sestavi poročilo, ki se vroči sodniku, predsedniku sodišča, kadar nadzor opravi neposredno višje sodišče, pristojnemu personalnemu svetu in vlagatelju pobude, predloga ali zahteve ter shrani v sodnikovem osebnem spisu.\nSodnik oziroma vlagatelj predloga ali zahteve, ki ne soglaša z ugotovitvami in ukrepi pri službenem nadzoru, lahko zahteva oceno sodniške službe v obsegu, ki ga je zajel službeni nadzor."
+    },
+    {
+      "document_id": "ZAKO334",
+      "provision_ref": "80",
+      "chapter": "VII. poglavje  DISCIPLINSKI POSTOPKI IN ZAČASNA ODSTRANITEV IZ SODNIŠKE SLUŽBE",
+      "section": "1. oddelek\n Disciplinska odgovornost, disciplinske kazni in zastaranje",
+      "article": "80",
+      "content": "Sodniku ni mogoče izreči disciplinske sankcije, razen ob pogojih in po postopku, ki je predpisan v zakonu, ki ureja sodni svet.\nDisciplinski postopek je hiter. (prenehal veljati)\nKazenska odgovornost in odgovornost za prekršek ne izključujeta disciplinske odgovornosti sodnika.\nV okviru disciplinskega postopka ni dovoljeno posegati v neodvisnost sodnika pri opravljanju sodniške funkcije. (prenehal veljati)"
+    },
+    {
+      "document_id": "ZAKO334",
+      "provision_ref": "81",
+      "chapter": "VII. poglavje  DISCIPLINSKI POSTOPKI IN ZAČASNA ODSTRANITEV IZ SODNIŠKE SLUŽBE",
+      "section": "1. oddelek\n Disciplinska odgovornost, disciplinske kazni in zastaranje",
+      "article": "81",
+      "content": "Sodniku, ki je z naklepom ali iz malomarnosti kršil sodniške dolžnosti, ki so predpisane z zakonom in sodnim redom, ali neredno opravljal sodniško službo, se lahko izreče disciplinska sankcija.\nDejanja, ki pomenijo kršitev sodniške dolžnosti oziroma neredno opravljanje sodniške službe, so:\n1.     dejanje, ki ima zakonske znake kaznivega dejanja, storjenega pri opravljanju sodniške funkcije;\n2.     neizpolnitev ali neupravičena odklonitev izvršitve sodniške dolžnosti;\n3.     nevestno, nepravočasno, neustrezno ali malomarno opravljanje sodniške službe;\n4.     nezakonito ali nesmotrno razpolaganje s sredstvi;\n5.     izdajanje uradne ali druge tajnosti, določene z zakonom ali sodnim redom;\n6.     zloraba položaja ali prekoračitev uradnih pooblastil;\n7.     zloraba pravice do odsotnosti z dela;\n8.     nedoseganje pričakovanih rezultatov dela več kot tri mesece zaporedoma iz neopravičenih razlogov;\n9.     kršitev z zakonom in sodnim redom določenega vrstnega reda oziroma prednostnega obravnavanja zadev;\n10.  opravljanje funkcij, dela ali dejavnosti, ki so po ustavi in zakonu nezdružljive s sodniško funkcijo;\n11.  opustitev obvestila predsedniku sodišča o sprejemu dela zaradi ocene nezdružljivosti s sodniško funkcijo;\n12.  opustitev sporočila o podanih zakonskih razlogih za izločitev sodnika ali nadaljevanje dela v zadevi, v kateri obstaja izločitveni razlog;\n13.  vnaprejšnje javno izražanje v sodni zadevi, o kateri še ni pravnomočno odločeno oziroma v kateri je vloženo izredno pravno sredstvo;\n14.  vedenje in ravnanje sodnika, ki je v nasprotju s sodniško neodvisnostjo ali s katerim se krši ugled sodniškega poklica;\n15.  neprimerno, nedostojno ali žaljivo obnašanje ali izražanje do posameznikov, državnih organov ter pravnih oseb v zvezi z opravljanjem sodniške službe ali zunaj nje;\n16.  oviranje delovanja sodišča zaradi uveljavljanja lastnih pravic;\n17.  sprejemanje daril ali drugih koristi v zvezi s sodniško službo;\n18.  nepredložitev ali nepravočasna predložitev podatkov o premoženjskem stanju;\n19.  kršitev ali opustitev mentorskih zadolžitev;\n20.  nespoštovanje izdanih odločb o premestiti ali dodelitvi sodnika;\n21.  onemogočanje ali oviranje izvajanja določb zakona o službenem nadzoru sodnikovega dela in o nadzorstvenih pritožbah;\n22.  poslovanje s strankami, njihovimi pooblaščenci in drugimi osebami v nasprotju z določbami sodnega reda;\n23.  neupoštevanje ukrepov za redno in učinkovito izvajanje sodne oblasti;\n24.  kršitev ali opustitev ukrepov po programu za reševanje zaostanka pri sodišču;\n25.  neizpolnjevanje dolžnosti strokovnega izobraževanja;\n26.  kršitev predpisov o varstvu pri delu;\n27.  kršitev določb sodnega reda o uporabi službenega oblačila.\nTežjo disciplinsko kršitev iz petega odstavka 83. člena tega zakona predstavljajo dejanja po 1., 2., 3., 5., 6., 8., 10., 12., 13., 17., 18., 20., 21., 23. in 24. točki prejšnjega odstavka, dejanje po 14. točki prejšnjega odstavka pa le, če ima hujše posledice za sodniško neodvisnost oziroma ugled sodniškega poklica.\nČe sodni svet predlaga državnemu zboru razrešitev sodnika po drugem ali tretjem odstavku 78. člena tega zakona, pa ga državni zbor ne razreši, sodni svet poda pobudo za uvedbo disciplinskega postopka."
+    },
+    {
+      "document_id": "ZAKO334",
+      "provision_ref": "82",
+      "chapter": "VII. poglavje  DISCIPLINSKI POSTOPKI IN ZAČASNA ODSTRANITEV IZ SODNIŠKE SLUŽBE",
+      "section": "1. oddelek\n Disciplinska odgovornost, disciplinske kazni in zastaranje",
+      "article": "82",
+      "content": "Disciplinske sankcije po tem zakonu so:\n1.     pisni opomin;\n2.     ustavitev napredovanja;\n3.     znižanje plače;\n4.     premestitev na drugo sodišče;\n5.     prenehanje sodniške funkcije."
+    },
+    {
+      "document_id": "ZAKO334",
+      "provision_ref": "83",
+      "chapter": "VII. poglavje  DISCIPLINSKI POSTOPKI IN ZAČASNA ODSTRANITEV IZ SODNIŠKE SLUŽBE",
+      "section": "1. oddelek\n Disciplinska odgovornost, disciplinske kazni in zastaranje",
+      "article": "83",
+      "content": "Pisni opomin pomeni formalno grajo sodniku za disciplinsko kršitev, ki jo disciplinsko sodišče oceni kot lažjo, in se lahko izreče, če sodniku še ni bila izrečena disciplinska sankcija.\nUstavitev napredovanja se izreče za čas največ treh let.\nZnižanje plače se izreče do višine 20% za čas do enega leta.\nPremestitev na drugo sodišče za eno stopnjo nižjega položaja ali na drugo sodišče enakega položaja v drugem kraju, se lahko izreče za čas od šestih mesecev do treh let. Te sankcije ni mogoče izreči vrhovnemu sodniku.\nPrenehanje sodniške funkcije se izreče sodniku, če zaradi težje disciplinske kršitve ni več primeren za opravljanje sodniške funkcije.\nPravnomočen sklep o izrečeni disciplinski sankciji se pošlje predsedniku sodišča, ministrstvu, pristojnemu za pravosodje, in sodnemu svetu, ki je pristojen za izvršitev disciplinske sankcije iz drugega, tretjega in četrtega odstavka tega člena."
+    },
+    {
+      "document_id": "ZAKO334",
+      "provision_ref": "84",
+      "chapter": "VII. poglavje  DISCIPLINSKI POSTOPKI IN ZAČASNA ODSTRANITEV IZ SODNIŠKE SLUŽBE",
+      "section": "1. oddelek\n Disciplinska odgovornost, disciplinske kazni in zastaranje",
+      "article": "84",
+      "content": "Disciplinskega postopka zoper sodnika ni mogoče uvesti, ko pretečeta dve leti od dneva kršitve. Zastaralni rok začne teči s prenehanjem ravnanja ali opustitve, ki pomenita disciplinsko kršitev.\nNe glede na določbo prejšnjega odstavka, se lahko uvede disciplinski postopek zoper sodnika, ki je bil pravnomočno obsojen, najkasneje v treh mesecih od dneva pravnomočnosti kazenske obsodilne odločbe.\nZastaranje pretrga vsako procesno dejanje pristojnega organa za pregon sodnika zaradi storjene disciplinske kršitve. Zastaranje se pretrga tudi, če sodnik v času, ko teče zastaralni rok, stori novo disciplinsko kršitev.\nDisciplinski pregon zastara v vsakem primeru, ko pretečejo štiri leta od storitve disciplinske kršitve.\nIzvršitev izrečene disciplinske sankcije zastara v šestih mesecih od pravnomočnosti sklepa."
+    },
+    {
+      "document_id": "ZAKO334",
+      "provision_ref": "85",
+      "chapter": "VII. poglavje  DISCIPLINSKI POSTOPKI IN ZAČASNA ODSTRANITEV IZ SODNIŠKE SLUŽBE",
+      "section": "1. oddelek\n Disciplinska odgovornost, disciplinske kazni in zastaranje",
+      "article": "85",
+      "content": "Kolikor ta zakon nima posebnih določb, se za disciplinsko odgovornost sodnikov smiselno uporabljajo določbe 22., 23., 24., 25., 26., 29., 30., 31. in 32. člena Kazenskega zakonika (Uradni list RS, št. 50/12 – uradno prečiščeno besedilo)."
+    },
+    {
+      "document_id": "ZAKO334",
+      "provision_ref": "95",
+      "chapter": "VII. poglavje  DISCIPLINSKI POSTOPKI IN ZAČASNA ODSTRANITEV IZ SODNIŠKE SLUŽBE",
+      "section": "4. oddelek\n Začasna odstranitev iz sodniške službe",
+      "article": "95",
+      "content": "Če je zoper sodnika uveden kazenski postopek zaradi utemeljenega suma storitve kaznivega dejanja z zlorabo sodniške funkcije, mora predsednik vrhovnega sodišča sodniku izreči začasno odstranitev iz sodniške službe (v nadaljnjem besedilu: suspenz).\nČe je zoper sodnika uveden kazenski postopek zaradi kaznivega dejanja, ki se preganja po uradni dolžnosti in za katero je mogoče izreči kazen zapora več kot dve leti, zaradi katere je sodnik lahko razrešen, predsednik vrhovnega sodišča lahko izreče suspenz.\nO suspenzu predsednika vrhovnega sodišča iz sodniške službe v primerih iz prejšnjih odstavkov odloči sodni svet."
+    },
+    {
+      "document_id": "ZAKO334",
+      "provision_ref": "96",
+      "chapter": "VII. poglavje  DISCIPLINSKI POSTOPKI IN ZAČASNA ODSTRANITEV IZ SODNIŠKE SLUŽBE",
+      "section": "4. oddelek\n Začasna odstranitev iz sodniške službe",
+      "article": "96",
+      "content": "Zoper odločitev o suspenzu, ki mora biti obrazložena, se sodnik lahko pritoži v petnajstih dneh od prejema odločbe na sodni svet, predsednik vrhovnega sodišča pa na državni zbor.\nPritožba ne zadrži izvršitve odločbe."
+    },
+    {
+      "document_id": "ZAKO334",
+      "provision_ref": "97",
+      "chapter": "VII. poglavje  DISCIPLINSKI POSTOPKI IN ZAČASNA ODSTRANITEV IZ SODNIŠKE SLUŽBE",
+      "section": "4. oddelek\n Začasna odstranitev iz sodniške službe",
+      "article": "97",
+      "content": "Suspenz traja do dokončne odločitve pristojnega organa o razrešitvi sodnika.\nČe se postopek pred kazenskim sodiščem konča tako, da ni podlage za razrešitev sodnika po tem zakonu, suspenz preneha z dnem izdaje odločbe, s katero se konča postopek na prvi stopnji, z dnem pravnomočnosti take odločbe pa se odpravi skupaj z vsemi njegovimi posledicami.\nV primeru iz četrtega odstavka 91. člena tega zakona traja suspenz najdalj do dokončne odločitve pristojnega organa v disciplinskem postopku. (prenehal veljati)"
+    },
+    {
+      "document_id": "ZAKO334",
+      "provision_ref": "98",
+      "chapter": "VII. poglavje  DISCIPLINSKI POSTOPKI IN ZAČASNA ODSTRANITEV IZ SODNIŠKE SLUŽBE",
+      "section": "4. oddelek\n Začasna odstranitev iz sodniške službe",
+      "article": "98",
+      "content": "V času suspenza prejema sodnik nadomestilo plače, ki je enako polovici plače, ki bi jo prejemal sodnik, če bi delal."
+    },
+    {
+      "document_id": "ZAKO334",
+      "provision_ref": "99",
+      "chapter": "VII. poglavje  DISCIPLINSKI POSTOPKI IN ZAČASNA ODSTRANITEV IZ SODNIŠKE SLUŽBE",
+      "section": "4. oddelek\n Začasna odstranitev iz sodniške službe",
+      "article": "99",
+      "content": "Kadar je za odreditev pripora oziroma za začetek kazenskega postopka zoper sodnika potrebno dovoljenje državnega zbora, pristojno sodišče o tem, da je vložilo zahtevo za dovoljenje, obvesti sodni svet in ministrstvo, pristojno za pravosodje.\nDržavni zbor odloči o dovoljenju po pridobitvi mnenja sodnega sveta."
+    },
+    {
+      "document_id": "ZAKO334",
+      "provision_ref": "100",
+      "chapter": "VII. poglavje  DISCIPLINSKI POSTOPKI IN ZAČASNA ODSTRANITEV IZ SODNIŠKE SLUŽBE",
+      "section": "4. oddelek\n Začasna odstranitev iz sodniške službe",
+      "article": "100",
+      "content": "Sodišče, ki odredi pripor zoper sodnika, mora o tem nemudoma obvestiti predsednika sodišča, v katerem opravlja sodnik sodniško službo, sodni svet ter ministrstvo, pristojno za pravosodje.\nSodnik, ki je v priporu, ima pravico do nadomestila plače v enaki višini kot sodnik, ki je v suspenzu, če preživlja družino, sicer pa le v višini ene tretjine plače."
+    },
+    {
+      "document_id": "ZAKO334",
+      "provision_ref": "101",
+      "chapter": "VIII. poglavje  PREHODNE IN KONČNE DOLOČBE",
+      "article": "101",
+      "content": "Sodniki, ki ob uveljavitvi tega zakona opravljajo sodniško funkcijo na rednih sodiščih in sodiščih združenega dela, imajo pravico pred iztekom svojega mandata prijaviti kandidaturo za sodniško mesto, ki ga zasedajo, za izvolitev v sodniško funkcijo po določbah tega zakona. Kandidaturo prijavijo ministrstvu, pristojnem za pravosodje.\nV primeru iz prejšnjega odstavka se šteje, da se sodnik odpove svojemu mandatu, zaradi česar se njegovo sodniško mesto šteje za prosto in ga mora ministrstvo, pristojno za pravosodje, razpisati v petnajstih dneh po prejemu kandidature sodnika, ki mora vsebovati vse sestavine, ki se po določbah tega zakona zahtevajo za prijavo na prosto sodniško mesto.\nSodniku iz prvega odstavka tega člena preneha sedanji mandat z dnem, ko državni zbor izvoli sodnika na podlagi razpisnega postopka iz prejšnjega odstavka. Sodnik iz prvega odstavka tega člena, ki ni bil izvoljen v trajno sodniško funkcijo, ima pravice, ki so jih dosedanji predpisi določali za sodnike, ki niso bili ponovno izvoljeni.\nPravica iz prvega in tretjega odstavka tega člena gre tudi sodnikom, ki ob uveljavitvi tega zakona opravljajo funkcijo predsednika sodišča, s tem da prijavijo kandidaturo za izvolitev v sodniško funkcijo po določbah tega zakona."
+    },
+    {
+      "document_id": "ZAKO334",
+      "provision_ref": "102",
+      "chapter": "VIII. poglavje  PREHODNE IN KONČNE DOLOČBE",
+      "article": "102",
+      "content": "Sodniki iz prvega odstavka prejšnjega člena, ki ne kandidirajo za izvolitev v trajno sodniško funkcijo in do 1. januarja 1995 dopolnijo petintrideset let (moški) oziroma trideset let (ženske) pokojninske dobe, lahko uveljavljajo pravico do pokojnine s polno pokojninsko dobo, ne glede na pogoje, ki so določeni za pridobitev pokojnine po splošnih predpisih.\nSredstva za razliko med pokojnino po splošnih predpisih in po tem zakonu se zagotavljajo iz proračuna Republike Slovenije."
+    },
+    {
+      "document_id": "ZAKO334",
+      "provision_ref": "103",
+      "chapter": "VIII. poglavje  PREHODNE IN KONČNE DOLOČBE",
+      "article": "103",
+      "content": "Prosta sodniška mesta sodnikov iz tretjega odstavka 8. člena Ustavnega zakona za izvedbo ustave Republike Slovenije (Uradni list RS, št. 33/91) in sodnikov, ki po določbi prvega in drugega odstavka 8. člena tega ustavnega zakona nadaljujejo mandat, se razpišejo pet mesecev pred iztekom mandata sodnikov."
+    },
+    {
+      "document_id": "ZAKO334",
+      "provision_ref": "104",
+      "chapter": "VIII. poglavje  PREHODNE IN KONČNE DOLOČBE",
+      "article": "104",
+      "content": "Za sodnike iz prvega odstavka 101. člena tega zakona in prejšnjega člena, ki prijavijo kandidaturo na razpisano prosto sodniško mesto, zahteva sodni svet izdelavo ocene sodniškega dela. Ocena sodniškega dela je sestavni del prijave sodnika.\nOcena po prejšnjem odstavku je strokovna ocena sodniškega dela, ki jo za sodnike sodišč prve stopnje izdelajo pristojna višja sodišča, za sodnike višjih sodišč vrhovno sodišče, za sodnike vrhovnega sodišča pa to sodišče na občni seji. Strokovni oceni, ki se izdela po kriterijih iz 29. člena tega zakona, je treba priložiti poročila o opravljenih inštruktažnih pregledih, ki so jih opravila pristojna sodišča in se nanašajo na delo sodnika.\nSodišča iz prejšnjega odstavka morajo predložiti sodnemu svetu oceno sodniškega dela v petnajstih dneh od zahteve.\nDo uveljavitve zakona, ki bo urejal pristojnost in organizacijo delovnih in socialnih sodišč, izdela oceno sodniškega dela za sodnike Sodišča združenega dela Republike Slovenije to sodišče na občni seji.\nČe se na sodniško mesto, ki je razpisano po drugem odstavku 101. člena ali 103. členu tega zakona, prijavi kot edini kandidat sodnik iz prvega odstavka tega člena in je ocena sodniškega dela iz drugega odstavka tega člena pozitivna, ga je sodni svet dolžan izbrati."
+    },
+    {
+      "document_id": "ZAKO334",
+      "provision_ref": "105",
+      "chapter": "VIII. poglavje  PREHODNE IN KONČNE DOLOČBE",
+      "article": "105",
+      "content": "Z opravljanjem sodniške službe po določbah tega zakona je izenačeno opravljanje sodniške funkcije po dosedanjih predpisih, opravljanje funkcije državnega tožilca, sodnika za prekrške in javnega pravobranilca, poklic odvetnika, delo pravnega strokovnjaka v državnem organu, pri pravni ali fizični osebi ter delo višjih strokovnih sodelavcev.\nPogoj iz 3. točke prvega odstavka 8. člena tega zakona izpolnjuje tudi, kdor bo 30 let starosti dopolnil do 31. decembra 1997.\nČe se na razpis prostega sodniškega mesta na okrajnem sodišču ne prijavi kandidat, ki izpolnjuje pogoje iz 8. in 9. člena zakona, je do 31. 12. 1999 ne glede na pogoje iz 3. točke prvega odstavka 8. člena in 9. člena tega zakona, lahko za sodnika okrajnega sodišča izvoljena oseba, ki je dopolnila 27 let starosti in ima po opravljenem pravniškem državnem izpitu najmanj eno leto delovnih izkušenj na sodišču, ali najmanj tri leta delovnih izkušenj po opravljenem pravniškem državnem izpitu.\nZa sodnika, izvoljenega pod pogoji iz prejšnjega odstavka tega člena se v prvih treh letih izdela ocena sodniške službe za vsako leto.\nPogoj iz 4. točke prvega odstavka 8. člena tega zakona izpolnjuje tudi, kdor je pred 25. junijem 1991 pridobil strokovni naslov diplomirani pravnik v kateri od republik bivše SFRJ.\nDo uveljavitve zakona, ki bo urejal pravniški državni izpit, se šteje, da izpolnjuje pogoj iz 5. točke prvega odstavka 8. člena tega zakona, kdor ima opravljen pravosodni izpit ali drug izpit, ki je po zakonu izenačen s pravosodnim izpitom."
+    },
+    {
+      "document_id": "ZAKO334",
+      "provision_ref": "106",
+      "chapter": "VIII. poglavje  PREHODNE IN KONČNE DOLOČBE",
+      "article": "106",
+      "content": "Pravice po tem zakonu se zagotavljajo sodnikom, ki so sodniško funkcijo opravljali ob uveljavitvi tega zakona, in ki so izvoljeni za sodnike po določbah tega zakona, z dnem nastopa sodniške službe, kolikor ta zakon ne določa drugače.\nOkrajni sodniki, ki so pred izvolitvijo za sodnika po določbah tega zakona najmanj petnajst let opravljali sodniško funkcijo, pridobijo hkrati z izvolitvijo pravico do naziva svetnika okrajnega sodišča in uvrstitve v ustrezni plačilni razred."
+    },
+    {
+      "document_id": "ZAKO334",
+      "provision_ref": "107",
+      "chapter": "VIII. poglavje  PREHODNE IN KONČNE DOLOČBE",
+      "article": "107",
+      "content": "Za sodnike, ki nadaljujejo funkcijo v smislu 8. člena ustavnega zakona za izvedbo ustave Republike Slovenije, veljajo glede dolžnosti in pravic določbe tega zakona, razen določb petega oddelka IV. poglavja tega zakona ter določb prvega do tretjega oddelka VII. poglavja tega zakona. Po izteku mandata imajo, če niso izvoljeni v sodniško funkcijo po določbah tega zakona, pravice, ki so jih dosedanji predpisi določali za sodnike, ki niso bili ponovno izvoljeni.\nSodnika iz prejšnjega odstavka uvrsti sodni svet v plačilni razred, ki ustreza dosedanji dolžini opravljanja sodniške funkcije na sodišču, na katerem nadaljuje delo, ob smiselni uporabi določb tega zakona o napredovanju sodnika in ob upoštevanju razvrstitve po določbi 124. člena zakona o sodiščih.\nPri sodnikih temeljnih sodišč iz prvega odstavka tega člena, ki se razporedijo na okrajna in okrožna sodišča, se praviloma šteje za uvrstitev v plačilni razred po določbi\nprejšnjega odstavka čas prvih štirih let opravljanja sodniške funkcije sodnika temeljnega sodišča za čas opravljanja službe okrajnega sodnika, čas, ki presega štiri leta, pa za čas opravljanja sodniške službe okrožnega sodnika.\nZa sodnike iz prvega odstavka tega člena se, razen v primeru iz prvega odstavka 101. člena tega zakona, uporabljajo določbe dosedanjih predpisov, ki se nanašajo na razrešitev sodnika."
+    },
+    {
+      "document_id": "ZAKO334",
+      "provision_ref": "108",
+      "chapter": "VIII. poglavje  PREHODNE IN KONČNE DOLOČBE",
+      "article": "108",
+      "content": "Z dnem uveljavitve tega zakona se za sodnike preneha uporabljati določba 36. člena zakona o poslancih (Uradni list RS, št. 48/92)."
+    },
+    {
+      "document_id": "ZAKO334",
+      "provision_ref": "109",
+      "chapter": "VIII. poglavje  PREHODNE IN KONČNE DOLOČBE",
+      "article": "109",
+      "content": "Določbe tega zakona o plačah sodnikov se pričnejo uporabljati s 1. julijem 1994, za sodnike, ki pred tem dnem nastopijo sodniško službo po določbah tega zakona, pa z dnem, določenim v prvem odstavku 106. člena tega zakona.\nZ datumom iz prejšnjega odstavka se za sodnike preneha uporabljati zakon o sodniških plačah in drugih prejemkih (Uradni list RS, št. 10/93)."
+    },
+    {
+      "document_id": "ZAKO334",
+      "provision_ref": "110",
+      "chapter": "VIII. poglavje  PREHODNE IN KONČNE DOLOČBE",
+      "article": "110",
+      "content": "Ta zakon začne veljati petnajsti dan po objavi v Uradnem listu Republike Slovenije."
+    }
+  ]
+}

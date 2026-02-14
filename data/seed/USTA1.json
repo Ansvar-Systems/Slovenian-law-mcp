@@ -1,0 +1,1472 @@
+{
+  "documents": [
+    {
+      "id": "USTA1",
+      "type": "constitutional",
+      "title": "Ustava Republike Slovenije (URS)",
+      "short_name": "URS",
+      "status": "in_force",
+      "issued_date": "1991-12-28",
+      "in_force_date": "1991-12-23",
+      "url": "https://pisrs.si/pregledPredpisa?id=USTA1"
+    }
+  ],
+  "provisions": [
+    {
+      "document_id": "USTA1",
+      "provision_ref": "1",
+      "chapter": "I. SPLOŠNE DOLOČBE",
+      "article": "1",
+      "content": "Slovenija je demokratična republika."
+    },
+    {
+      "document_id": "USTA1",
+      "provision_ref": "2",
+      "chapter": "I. SPLOŠNE DOLOČBE",
+      "article": "2",
+      "content": "Slovenija je pravna in socialna država."
+    },
+    {
+      "document_id": "USTA1",
+      "provision_ref": "3",
+      "chapter": "I. SPLOŠNE DOLOČBE",
+      "article": "3",
+      "content": "Slovenija je država vseh svojih državljank in državljanov, ki temelji na trajni in neodtujljivi pravici slovenskega naroda do samoodločbe.\nV Sloveniji ima oblast ljudstvo. Državljanke in državljani jo izvršujejo neposredno in z volitvami, po načelu delitve oblasti na zakonodajno, izvršilno in sodno."
+    },
+    {
+      "document_id": "USTA1",
+      "provision_ref": "3.a",
+      "chapter": "I. SPLOŠNE DOLOČBE",
+      "article": "3.a",
+      "content": "Slovenija lahko z mednarodno pogodbo, ki jo ratificira državni zbor z dvotretjinsko večino glasov vseh poslancev, prenese izvrševanje dela suverenih pravic na mednarodne organizacije, ki temeljijo na spoštovanju človekovih pravic in temeljnih svoboščin, demokracije in načel pravne države, ter vstopi v obrambno zvezo z državami, ki temeljijo na spoštovanju teh vrednot.\nPred ratifikacijo mednarodne pogodbe iz prejšnjega odstavka lahko državni zbor razpiše referendum. Predlog je na referendumu sprejet, če zanj glasuje večina volivcev, ki so veljavno glasovali. Državni zbor je vezan na izid referenduma. Če je bil referendum izveden, glede zakona o ratifikaciji take mednarodne pogodbe referenduma ni dopustno razpisati.\nPravni akti in odločitve, sprejeti v okviru mednarodnih organizacij, na katere Slovenija prenese izvrševanje dela suverenih pravic, se v Sloveniji uporabljajo v skladu s pravno ureditvijo teh organizacij.\nV postopkih sprejemanja pravnih aktov in odločitev v mednarodnih organizacijah, na katere Slovenija prenese izvrševanje dela suverenih pravic, vlada sproti obvešča državni zbor o predlogih takih aktov in odločitev ter o svoji dejavnosti. Državni zbor lahko o tem sprejema stališča, vlada pa jih upošteva pri svojem delovanju. Razmerja med državnim zborom in vlado iz tega odstavka podrobneje ureja zakon, ki se sprejme z dvotretjinsko večino glasov navzočih poslancev."
+    },
+    {
+      "document_id": "USTA1",
+      "provision_ref": "4",
+      "chapter": "I. SPLOŠNE DOLOČBE",
+      "article": "4",
+      "content": "Slovenija je ozemeljsko enotna in nedeljiva država."
+    },
+    {
+      "document_id": "USTA1",
+      "provision_ref": "5",
+      "chapter": "I. SPLOŠNE DOLOČBE",
+      "article": "5",
+      "content": "Država na svojem ozemlju varuje človekove pravice in temeljne svoboščine. Varuje in zagotavlja pravice avtohtone italijanske in madžarske narodne skupnosti. Skrbi za avtohtone slovenske narodne manjšine v sosednjih državah, za slovenske izseljence in zdomce, ter pospešuje njihove stike z domovino. Skrbi za ohranjanje naravnega bogastva in kulturne dediščine ter ustvarja možnosti za skladen civilizacijski in kulturni razvoj Slovenije.\nSlovenci brez slovenskega državljanstva lahko uživajo v Sloveniji posebne pravice in ugodnosti. Vrsto in obseg teh pravic in ugodnosti določa zakon."
+    },
+    {
+      "document_id": "USTA1",
+      "provision_ref": "6",
+      "chapter": "I. SPLOŠNE DOLOČBE",
+      "article": "6",
+      "content": "Grb Slovenije ima obliko ščita. V sredini ščita je na modri podlagi lik Triglava v beli barvi, pod njim sta dve valoviti modri črti, ki ponazarjata morje in reke, nad njim pa so v obliki navzdol obrnjenega trikotnika razporejene tri zlate šesterokrake zvezde. Ščit je ob stranicah rdeče obrobljen. Grb se oblikuje po določenem geometrijskem in barvnem pravilu.\nZastava Slovenije je belo-modro-rdeča slovenska narodna zastava z grbom Slovenije. Razmerje med širino in dolžino zastave je ena proti dve. Barve zastave gredo po vrstnem redu: bela, modra, rdeča. Vsaka barva zavzema po širini tretjino prostora zastave. Grb je v levem gornjem delu zastave tako, da sega z eno polovico v belo polje, z drugo pa v modro.\nHimna Slovenije je Zdravljica.\nUporabo grba, zastave in himne ureja zakon."
+    },
+    {
+      "document_id": "USTA1",
+      "provision_ref": "7",
+      "chapter": "I. SPLOŠNE DOLOČBE",
+      "article": "7",
+      "content": "Država in verske skupnosti so ločene.\nVerske skupnosti so enakopravne; njihovo delovanje je svobodno."
+    },
+    {
+      "document_id": "USTA1",
+      "provision_ref": "8",
+      "chapter": "I. SPLOŠNE DOLOČBE",
+      "article": "8",
+      "content": "Zakoni in drugi predpisi morajo biti v skladu s splošno veljavnimi načeli mednarodnega prava in z mednarodnimi pogodbami, ki obvezujejo Slovenijo. Ratificirane in objavljene mednarodne pogodbe se uporabljajo neposredno."
+    },
+    {
+      "document_id": "USTA1",
+      "provision_ref": "9",
+      "chapter": "I. SPLOŠNE DOLOČBE",
+      "article": "9",
+      "content": "V Sloveniji je zagotovljena lokalna samouprava."
+    },
+    {
+      "document_id": "USTA1",
+      "provision_ref": "10",
+      "chapter": "I. SPLOŠNE DOLOČBE",
+      "article": "10",
+      "content": "Glavno mesto Slovenije je Ljubljana."
+    },
+    {
+      "document_id": "USTA1",
+      "provision_ref": "11",
+      "chapter": "I. SPLOŠNE DOLOČBE",
+      "article": "11",
+      "content": "Uradni jezik v Sloveniji je slovenščina. Na območjih občin, v katerih živita italijanska ali madžarska narodna skupnost, je uradni jezik tudi italijanščina ali madžarščina."
+    },
+    {
+      "document_id": "USTA1",
+      "provision_ref": "12",
+      "chapter": "I. SPLOŠNE DOLOČBE",
+      "article": "12",
+      "content": "Državljanstvo Slovenije ureja zakon."
+    },
+    {
+      "document_id": "USTA1",
+      "provision_ref": "13",
+      "chapter": "I. SPLOŠNE DOLOČBE",
+      "article": "13",
+      "content": "Tujci imajo v Sloveniji v skladu z mednarodnimi pogodbami vse pravice, zagotovljene s to ustavo in z zakoni, razen tistih, ki jih imajo po ustavi ali po zakonu samo državljani Slovenije."
+    },
+    {
+      "document_id": "USTA1",
+      "provision_ref": "14",
+      "chapter": "II. ČLOVEKOVE PRAVICE IN TEMELJNE SVOBOŠČINE",
+      "article": "14",
+      "content": "V Sloveniji so vsakomur zagotovljene enake človekove pravice in temeljne svoboščine, ne glede na narodnost, raso, spol, jezik, vero, politično ali drugo prepričanje, gmotno stanje, rojstvo, izobrazbo, družbeni položaj, invalidnost ali katerokoli drugo osebno okoliščino.\nVsi so pred zakonom enaki."
+    },
+    {
+      "document_id": "USTA1",
+      "provision_ref": "15",
+      "chapter": "II. ČLOVEKOVE PRAVICE IN TEMELJNE SVOBOŠČINE",
+      "article": "15",
+      "title": "(enakost pred zakonom)",
+      "content": "Človekove pravice in temeljne svoboščine se uresničujejo neposredno na podlagi ustave.\nZ zakonom je mogoče predpisati način uresničevanja človekovih pravic in temeljnih svoboščin, kadar tako določa ustava, ali če je to nujno zaradi same narave posamezne pravice ali svoboščine.\nČlovekove pravice in temeljne svoboščine so omejene samo s pravicami drugih in v primerih, ki jih določa ta ustava.\nZagotovljeni sta sodno varstvo človekovih pravic in temeljnih svoboščin ter pravica do odprave posledic njihove kršitve.\nNobene človekove pravice ali temeljne svoboščine, urejene v pravnih aktih, ki veljajo v Sloveniji, ni dopustno omejevati z izgovorom, da je ta ustava ne priznava ali da jo priznava v manjši meri."
+    },
+    {
+      "document_id": "USTA1",
+      "provision_ref": "16",
+      "chapter": "II. ČLOVEKOVE PRAVICE IN TEMELJNE SVOBOŠČINE",
+      "article": "16",
+      "title": "(uresničevanje in omejevanje pravic)",
+      "content": "S to ustavo določene človekove pravice in temeljne svoboščine je izjemoma dopustno začasno razveljaviti ali omejiti v vojnem in izrednem stanju. Človekove pravice in temeljne svoboščine se smejo razveljaviti ali omejiti le za čas trajanja vojnega ali izrednega stanja, vendar v obsegu, ki ga tako stanje zahteva in tako, da sprejeti ukrepi ne povzročajo neenakopravnosti, ki bi temeljila le na rasi, narodni pripadnosti, spolu, jeziku, veri, političnem ali drugem prepričanju, gmotnem stanju, rojstvu, izobrazbi, družbenem položaju ali katerikoli drugi osebni okoliščini.\nDoločba prejšnjega odstavka ne dopušča nobenega začasnega razveljavljanja ali omejevanja pravic, določenih v 17., 18., 21., 27., 28., 29. in 41. členu."
+    },
+    {
+      "document_id": "USTA1",
+      "provision_ref": "17",
+      "chapter": "II. ČLOVEKOVE PRAVICE IN TEMELJNE SVOBOŠČINE",
+      "article": "17",
+      "title": "(začasna razveljavitev in omejitev pravic)",
+      "content": "Človekovo življenje je nedotakljivo. V Sloveniji ni smrtne kazni."
+    },
+    {
+      "document_id": "USTA1",
+      "provision_ref": "18",
+      "chapter": "II. ČLOVEKOVE PRAVICE IN TEMELJNE SVOBOŠČINE",
+      "article": "18",
+      "title": "(nedotakljivost človekovega življenja)",
+      "content": "Nihče ne sme biti podvržen mučenju, nečloveškemu ali ponižujočemu kaznovanju ali ravnanju. Na človeku je prepovedano delati medicinske ali druge znanstvene poskuse brez njegove svobodne privolitve."
+    },
+    {
+      "document_id": "USTA1",
+      "provision_ref": "19",
+      "chapter": "II. ČLOVEKOVE PRAVICE IN TEMELJNE SVOBOŠČINE",
+      "article": "19",
+      "title": "(prepoved mučenja)",
+      "content": "Vsakdo ima pravico do osebne svobode.\nNikomur se ne sme vzeti prostost, razen v primerih in po postopku, ki ga določa zakon.\nVsakdo, ki mu je odvzeta prostost, mora biti v materinem jeziku ali v jeziku, ki ga razume, takoj obveščen o razlogih za odvzem prostosti. V čim krajšem času mu mora biti tudi pisno sporočeno, zakaj mu je bila prostost odvzeta. Takoj mora biti poučen o tem, da ni dolžan ničesar izjaviti, da ima pravico do takojšnje pravne pomoči zagovornika, ki si ga svobodno izbere, in o tem, da je pristojni organ na njegovo zahtevo dolžan o odvzemu prostosti obvestiti njegove bližnje."
+    },
+    {
+      "document_id": "USTA1",
+      "provision_ref": "20",
+      "chapter": "II. ČLOVEKOVE PRAVICE IN TEMELJNE SVOBOŠČINE",
+      "article": "20",
+      "title": "(varstvo osebne svobode)",
+      "content": "Oseba, za katero obstaja utemeljen sum, da je storila kaznivo dejanje, se sme pripreti samo na podlagi odločbe sodišča, kadar je to neogibno potrebno za potek kazen­skega postopka ali za varnost ljudi.\nOb priporu, najkasneje pa v 24 urah po njem, mora biti priprtemu vročena pisna, obrazložena odločba. Proti tej odločbi ima priprti pravico do pritožbe, o kateri mora sodišče odločiti v 48 urah. Pripor sme trajati samo toliko časa, dokler so za to dani zakonski razlogi, vendar največ tri mesece od dneva odvzema prostosti. Vrhovno sodišče sme pripor podaljšati še za nadaljnje tri mesece.\nČe do izteka teh rokov obtožnica ni vložena, se obdolženec izpusti."
+    },
+    {
+      "document_id": "USTA1",
+      "provision_ref": "21",
+      "chapter": "II. ČLOVEKOVE PRAVICE IN TEMELJNE SVOBOŠČINE",
+      "article": "21",
+      "title": "(odreditev in trajanje pripora)",
+      "content": "Zagotovljeno je spoštovanje človekove osebnosti in njegovega dostojanstva v kazenskem in v vseh drugih pravdnih postopkih, in prav tako med odvzemom prostosti in izvrševanjem kazni.\nPrepovedano je vsakršno nasilje nad osebami, ki jim je prostost kakorkoli omejena, ter vsakršno izsiljevanje priznanj in izjav."
+    },
+    {
+      "document_id": "USTA1",
+      "provision_ref": "22",
+      "chapter": "II. ČLOVEKOVE PRAVICE IN TEMELJNE SVOBOŠČINE",
+      "article": "22",
+      "title": "(varstvo človekove osebnosti in dostojanstva)",
+      "content": "Vsakomur je zagotovljeno enako varstvo njegovih pravic v postopku pred sodiščem in pred drugimi državnimi organi, organi lokalnih skupnosti in nosilci javnih pooblastil, ki odločajo o njegovih pravicah, dolžnostih ali pravnih interesih."
+    },
+    {
+      "document_id": "USTA1",
+      "provision_ref": "23",
+      "chapter": "II. ČLOVEKOVE PRAVICE IN TEMELJNE SVOBOŠČINE",
+      "article": "23",
+      "title": "(enako varstvo pravic)",
+      "content": "Vsakdo ima pravico, da o njegovih pravicah in dolžnostih ter o obtožbah proti njemu brez nepotrebnega odlašanja odloča neodvisno, nepristransko in z zakonom ustanovljeno sodišče.\nSodi mu lahko samo sodnik, ki je izbran po pravilih, vnaprej določenih z zakonom in s sodnim redom."
+    },
+    {
+      "document_id": "USTA1",
+      "provision_ref": "24",
+      "chapter": "II. ČLOVEKOVE PRAVICE IN TEMELJNE SVOBOŠČINE",
+      "article": "24",
+      "title": "(pravica do sodnega varstva)",
+      "content": "Sodne obravnave so javne. Sodbe se izrekajo javno. Izjeme določa zakon."
+    },
+    {
+      "document_id": "USTA1",
+      "provision_ref": "25",
+      "chapter": "II. ČLOVEKOVE PRAVICE IN TEMELJNE SVOBOŠČINE",
+      "article": "25",
+      "title": "(javnost sojenja)",
+      "content": "Vsakomur je zagotovljena pravica do pritožbe ali drugega pravnega sredstva proti odločbam sodišč in drugih državnih organov, organov lokalnih skupnosti in nosilcev javnih pooblastil, s katerimi ti odločajo o njegovih pravicah, dolžnostih ali pravnih interesih."
+    },
+    {
+      "document_id": "USTA1",
+      "provision_ref": "26",
+      "chapter": "II. ČLOVEKOVE PRAVICE IN TEMELJNE SVOBOŠČINE",
+      "article": "26",
+      "title": "(pravica do pravnega sredstva)",
+      "content": "Vsakdo ima pravico do povračila škode, ki mu jo v zvezi z opravljanjem službe ali kakšne druge dejavnosti državnega organa, organa lokalne skupnosti ali nosilca javnih pooblastil s svojim protipravnim ravnanjem stori oseba ali organ, ki tako službo ali dejavnost opravlja.\nOškodovanec ima pravico, da v skladu z zakonom zahteva povračilo tudi neposredno od tistega, ki mu je škodo povzročil."
+    },
+    {
+      "document_id": "USTA1",
+      "provision_ref": "27",
+      "chapter": "II. ČLOVEKOVE PRAVICE IN TEMELJNE SVOBOŠČINE",
+      "article": "27",
+      "title": "(pravica do povračila škode)",
+      "content": "Kdor je obdolžen kaznivega ravnanja, velja za nedolžnega, dokler njegova krivda ni ugotovljena s pravnomočno sodbo."
+    },
+    {
+      "document_id": "USTA1",
+      "provision_ref": "28",
+      "chapter": "II. ČLOVEKOVE PRAVICE IN TEMELJNE SVOBOŠČINE",
+      "article": "28",
+      "title": "(domneva nedolžnosti)",
+      "content": "Nihče ne sme biti kaznovan za dejanje, za katero ni zakon določil, da je kaznivo, in ni zanj predpisal kazni, še preden je bilo dejanje storjeno.\nDejanja, ki so kazniva, se ugotavljajo in kazni zanje izrekajo po zakonu, ki je veljal ob storitvi dejanja, razen če je novi zakon za storilca milejši."
+    },
+    {
+      "document_id": "USTA1",
+      "provision_ref": "29",
+      "chapter": "II. ČLOVEKOVE PRAVICE IN TEMELJNE SVOBOŠČINE",
+      "article": "29",
+      "title": "(načelo zakonitosti v kazenskem pravu)",
+      "content": "Vsakomur, ki je obdolžen kaznivega dejanja, morajo biti ob popolni enakopravnosti zagotovljene tudi naslednje pravice:\n-        da ima primeren čas in možnosti za pripravo svoje obrambe;\n-        da se mu sodi v njegovi navzočnosti in da se brani sam ali z zagovornikom;\n-        da mu je zagotovljeno izvajanje dokazov v njegovo korist;\n-        da ni dolžan izpovedati zoper sebe ali svoje bližnje, ali priznati krivdo."
+    },
+    {
+      "document_id": "USTA1",
+      "provision_ref": "30",
+      "chapter": "II. ČLOVEKOVE PRAVICE IN TEMELJNE SVOBOŠČINE",
+      "article": "30",
+      "title": "(pravna jamstva v kazenskem postopku)",
+      "content": "Kdor je bil po krivem obsojen za kaznivo dejanje ali mu je bila prostost neutemeljeno odvzeta, ima pravico do rehabilitacije, do povrnitve škode, in druge pravice po zakonu."
+    },
+    {
+      "document_id": "USTA1",
+      "provision_ref": "31",
+      "chapter": "II. ČLOVEKOVE PRAVICE IN TEMELJNE SVOBOŠČINE",
+      "article": "31",
+      "title": "(pravica do rehabilitacije in odškodnine)",
+      "content": "Nihče ne sme biti ponovno obsojen ali kaznovan zaradi kaznivega dejanja, za katero je bil kazenski postopek zoper njega pravnomočno ustavljen ali je bila obtožba zoper njega pravnomočno zavrnjena, ali je bil s pravnomočno sodbo oproščen ali obsojen."
+    },
+    {
+      "document_id": "USTA1",
+      "provision_ref": "32",
+      "chapter": "II. ČLOVEKOVE PRAVICE IN TEMELJNE SVOBOŠČINE",
+      "article": "32",
+      "title": "(prepoved ponovnega sojenja o isti stvari)",
+      "content": "Vsakdo ima pravico, da se prosto giblje in si izbira prebivališče, da zapusti državo in se vanjo kadarkoli vrne.\nTa pravica se sme omejiti z zakonom, vendar samo, če je to potrebno, da bi se zagotovil potek kazenskega postopka, da bi se preprečilo širjenje nalezljivih bolezni, se zavaroval javni red, ali če to zahtevajo interesi obrambe države.\nTujcem se na podlagi zakona lahko omeji vstop v državo in čas bivanja v njej."
+    },
+    {
+      "document_id": "USTA1",
+      "provision_ref": "33",
+      "chapter": "II. ČLOVEKOVE PRAVICE IN TEMELJNE SVOBOŠČINE",
+      "article": "33",
+      "title": "(svoboda gibanja)",
+      "content": "Zagotovljena je pravica do zasebne lastnine in dedovanja."
+    },
+    {
+      "document_id": "USTA1",
+      "provision_ref": "34",
+      "chapter": "II. ČLOVEKOVE PRAVICE IN TEMELJNE SVOBOŠČINE",
+      "article": "34",
+      "title": "(pravica do zasebne lastnine in dedovanja)",
+      "content": "Vsakdo ima pravico do osebnega dostojanstva in varnosti."
+    },
+    {
+      "document_id": "USTA1",
+      "provision_ref": "35",
+      "chapter": "II. ČLOVEKOVE PRAVICE IN TEMELJNE SVOBOŠČINE",
+      "article": "35",
+      "title": "(pravica do osebnega dostojanstva in varnosti)",
+      "content": "Zagotovljena je nedotakljivost človekove telesne in duševne celovitosti, njegove zasebnosti ter osebnostnih pravic."
+    },
+    {
+      "document_id": "USTA1",
+      "provision_ref": "36",
+      "chapter": "II. ČLOVEKOVE PRAVICE IN TEMELJNE SVOBOŠČINE",
+      "article": "36",
+      "title": "(varstvo pravic zasebnosti in osebnostnih pravic)",
+      "content": "Stanovanje je nedotakljivo.\nNihče ne sme brez odločbe sodišča proti volji stanovalca vstopiti v tuje stanovanje ali v druge tuje prostore, niti jih ne sme preiskovati.\nPri preiskavi ima pravico biti navzoč tisti, čigar stanovanje ali prostori se preiskujejo, ali njegov zastopnik.\nPreiskava se sme opraviti samo v navzočnosti dveh prič.\nPod pogoji, ki jih določa zakon, sme uradna oseba brez odločbe sodišča vstopiti v tuje stanovanje ali v tuje prostore in izjemoma brez navzočnosti prič opraviti preiskavo, če je to neogibno potrebno, da lahko neposredno prime storilca kaznivega dejanja ali da se zavarujejo ljudje in premoženje."
+    },
+    {
+      "document_id": "USTA1",
+      "provision_ref": "37",
+      "chapter": "II. ČLOVEKOVE PRAVICE IN TEMELJNE SVOBOŠČINE",
+      "article": "37",
+      "title": "(nedotakljivost stanovanja)",
+      "content": "Zagotovljena je tajnost pisem in drugih občil.\nSamo zakon lahko predpiše, da se na podlagi odločbe sodišča za določen čas ne upošteva varstvo tajnosti pisem in drugih občil in nedotakljivost človekove zasebnosti, če je to nujno za uvedbo ali potek kazenskega postopka ali za varnost države."
+    },
+    {
+      "document_id": "USTA1",
+      "provision_ref": "38",
+      "chapter": "II. ČLOVEKOVE PRAVICE IN TEMELJNE SVOBOŠČINE",
+      "article": "38",
+      "title": "(varstvo tajnosti pisem in drugih občil)",
+      "content": "Zagotovljeno je varstvo osebnih podatkov. Prepovedana je uporaba osebnih podatkov v nasprotju z namenom njihovega zbiranja.\nZbiranje, obdelovanje, namen uporabe, nadzor, in varstvo tajnosti osebnih podatkov določa zakon.\nVsakdo ima pravico seznaniti se z zbranimi osebnimi podatki, ki se nanašajo nanj, in pravico do sodnega varstva ob njihovi zlorabi."
+    },
+    {
+      "document_id": "USTA1",
+      "provision_ref": "39",
+      "chapter": "II. ČLOVEKOVE PRAVICE IN TEMELJNE SVOBOŠČINE",
+      "article": "39",
+      "title": "(varstvo osebnih podatkov)",
+      "content": "Zagotovljena je svoboda izražanja misli, govora in javnega nastopanja, tiska in drugih oblik javnega obveščanja in izražanja. Vsakdo lahko svobodno zbira, sprejema in širi vesti in mnenja.\nVsakdo ima pravico dobiti informacijo javnega značaja, za katero ima v zakonu utemeljen pravni interes, razen v primerih, ki jih določa zakon."
+    },
+    {
+      "document_id": "USTA1",
+      "provision_ref": "40",
+      "chapter": "II. ČLOVEKOVE PRAVICE IN TEMELJNE SVOBOŠČINE",
+      "article": "40",
+      "title": "(svoboda izražanja)",
+      "content": "Zagotovljena je pravica do popravka objavljenega obvestila, s katerim sta prizadeta pravica ali interes posameznika, organizacije ali organa, in prav tako je zagotov­ljena pravica do odgovora na objavljeno informacijo."
+    },
+    {
+      "document_id": "USTA1",
+      "provision_ref": "41",
+      "chapter": "II. ČLOVEKOVE PRAVICE IN TEMELJNE SVOBOŠČINE",
+      "article": "41",
+      "title": "(pravica do popravka in odgovora)",
+      "content": "Izpovedovanje vere in drugih opredelitev v zasebnem in javnem življenju je svobodno.\nNihče se ni dolžan opredeliti glede svojega verskega ali drugega prepričanja.\nStarši imajo pravico, da v skladu s svojim prepričanjem zagotavljajo svojim otrokom versko in moralno vzgojo. Usmerjanje otrok glede verske in moralne vzgoje mora biti v skladu z otrokovo starostjo in zrelostjo ter z njegovo svobodo vesti, verske in druge opredelitve ali prepričanja."
+    },
+    {
+      "document_id": "USTA1",
+      "provision_ref": "42",
+      "chapter": "II. ČLOVEKOVE PRAVICE IN TEMELJNE SVOBOŠČINE",
+      "article": "42",
+      "title": "(svoboda vesti)",
+      "content": "Zagotovljena je pravica do mirnega zbiranja in do javnih zborovanj.\nVsakdo ima pravico, da se svobodno združuje z drugimi.\nZakonske omejitve teh pravic so dopustne, če to zahteva varnost države ali javna varnost ter varstvo pred širjenjem nalezljivih bolezni.\nPoklicni pripadniki obrambnih sil in policije ne morejo biti člani političnih strank."
+    },
+    {
+      "document_id": "USTA1",
+      "provision_ref": "43",
+      "chapter": "II. ČLOVEKOVE PRAVICE IN TEMELJNE SVOBOŠČINE",
+      "article": "43",
+      "title": "(pravica do zbiranja in združevanja)",
+      "content": "Volilna pravica je splošna in enaka.\nVsak državljan, ki je dopolnil 18 let, ima pravico voliti in biti voljen.\nZakon lahko določi, v katerih primerih in pod katerimi pogoji imajo volilno pravico tujci.\nZakon določi ukrepe za spodbujanje enakih možnosti moških in žensk pri kandidiranju na volitvah v državne organe in organe lokalnih skupnosti."
+    },
+    {
+      "document_id": "USTA1",
+      "provision_ref": "44",
+      "chapter": "II. ČLOVEKOVE PRAVICE IN TEMELJNE SVOBOŠČINE",
+      "article": "44",
+      "title": "(volilna pravica)",
+      "content": "Vsak državljan ima pravico, da v skladu z zakonom neposredno ali po izvoljenih predstavnikih sodeluje pri upravljanju javnih zadev."
+    },
+    {
+      "document_id": "USTA1",
+      "provision_ref": "45",
+      "chapter": "II. ČLOVEKOVE PRAVICE IN TEMELJNE SVOBOŠČINE",
+      "article": "45",
+      "title": "(sodelovanje pri upravljanju javnih zadev)",
+      "content": "Vsak državljan ima pravico do vlaganja peticij in do drugih pobud splošnega pomena."
+    },
+    {
+      "document_id": "USTA1",
+      "provision_ref": "46",
+      "chapter": "II. ČLOVEKOVE PRAVICE IN TEMELJNE SVOBOŠČINE",
+      "article": "46",
+      "title": "(pravica do peticije)",
+      "content": "Ugovor vesti je dopusten v primerih, ki jih določi zakon, če se s tem ne omejujejo pravice in svoboščine drugih oseb."
+    },
+    {
+      "document_id": "USTA1",
+      "provision_ref": "47",
+      "chapter": "II. ČLOVEKOVE PRAVICE IN TEMELJNE SVOBOŠČINE",
+      "article": "47",
+      "title": "(pravica do ugovora vesti)",
+      "content": "Državljana Slovenije ni dovoljeno izročiti ali predati, razen če obveznost izročitve ali predaje izhaja iz mednarodne pogodbe, s katero Slovenija v skladu z določbo prvega odstavka 3.a člena prenaša izvrševanje dela suverenih pravic na mednarodno organizacijo."
+    },
+    {
+      "document_id": "USTA1",
+      "provision_ref": "48",
+      "chapter": "II. ČLOVEKOVE PRAVICE IN TEMELJNE SVOBOŠČINE",
+      "article": "48",
+      "title": "(izročitev)",
+      "content": "V mejah zakona je priznana pravica pribežališča tujim državljanom in osebam brez državljanstva, ki so preganjane zaradi zavzemanja za človekove pravice in temeljne svoboščine."
+    },
+    {
+      "document_id": "USTA1",
+      "provision_ref": "49",
+      "chapter": "II. ČLOVEKOVE PRAVICE IN TEMELJNE SVOBOŠČINE",
+      "article": "49",
+      "title": "(pribežališče)",
+      "content": "Zagotovljena je svoboda dela.\nVsakdo prosto izbira zaposlitev.\nVsakomur je pod enakimi pogoji dostopno vsako delovno mesto.\nPrisilno delo je prepovedano."
+    },
+    {
+      "document_id": "USTA1",
+      "provision_ref": "50",
+      "chapter": "II. ČLOVEKOVE PRAVICE IN TEMELJNE SVOBOŠČINE",
+      "article": "50",
+      "title": "(svoboda dela)",
+      "content": "Državljani imajo pod pogoji, določenimi z zakonom, pravico do socialne varnosti, vključno s pravico do pokojnine.\nDržava ureja obvezno zdravstveno, pokojninsko, invalidsko in drugo socialno zavarovanje ter skrbi za njihovo delovanje.\nVojnim veteranom in žrtvam vojnega nasilja je zagotovljeno posebno varstvo v skladu z zakonom."
+    },
+    {
+      "document_id": "USTA1",
+      "provision_ref": "51",
+      "chapter": "II. ČLOVEKOVE PRAVICE IN TEMELJNE SVOBOŠČINE",
+      "article": "51",
+      "title": "(pravica do socialne varnosti)",
+      "content": "Vsakdo ima pravico do zdravstvenega varstva pod pogoji, ki jih določa zakon.\nZakon določa pravice do zdravstvenega varstva iz javnih sredstev.\nNikogar ni mogoče prisiliti k zdravljenju, razen v primerih, ki jih določa zakon."
+    },
+    {
+      "document_id": "USTA1",
+      "provision_ref": "52",
+      "chapter": "II. ČLOVEKOVE PRAVICE IN TEMELJNE SVOBOŠČINE",
+      "article": "52",
+      "title": "(pravica do zdravstvenega varstva)",
+      "content": "Invalidom je v skladu z zakonom zagotovljeno varstvo ter usposabljanje za delo.\nOtroci z motnjami v telesnem ali duševnem razvoju ter druge huje prizadete osebe imajo pravico do izobraževanja in usposabljanja za dejavno življenje v družbi.\nIzobraževanje in usposabljanje iz prejšnjega odstavka se financira iz javnih sredstev."
+    },
+    {
+      "document_id": "USTA1",
+      "provision_ref": "53",
+      "chapter": "II. ČLOVEKOVE PRAVICE IN TEMELJNE SVOBOŠČINE",
+      "article": "53",
+      "title": "(pravice invalidov)",
+      "content": "Zakonska zveza temelji na enakopravnosti zakoncev. Sklene se pred pristojnim državnim organom.\nZakonsko zvezo in pravna razmerja v njej, v družini in v zunajzakonski skupnosti ureja zakon.\nDržava varuje družino, materinstvo, očetovstvo, otroke in mladino ter ustvarja za to varstvo potrebne razmere."
+    },
+    {
+      "document_id": "USTA1",
+      "provision_ref": "54",
+      "chapter": "II. ČLOVEKOVE PRAVICE IN TEMELJNE SVOBOŠČINE",
+      "article": "54",
+      "title": "(zakonska zveza in družina)",
+      "content": "Starši imajo pravico in dolžnost vzdrževati, izobraževati in vzgajati svoje otroke. Ta pravica in dolžnost se staršem lahko odvzame ali omeji samo iz razlogov, ki jih zaradi varovanja otrokovih koristi določa zakon.\nOtroci, rojeni zunaj zakonske zveze, imajo enake pravice kakor otroci, rojeni v njej."
+    },
+    {
+      "document_id": "USTA1",
+      "provision_ref": "55",
+      "chapter": "II. ČLOVEKOVE PRAVICE IN TEMELJNE SVOBOŠČINE",
+      "article": "55",
+      "title": "(pravice in dolžnosti staršev)",
+      "content": "Odločanje o rojstvih svojih otrok je svobodno.\nDržava zagotavlja možnosti za uresničevanje te svoboščine in ustvarja razmere, ki omogočajo staršem, da se odločajo za rojstva svojih otrok."
+    },
+    {
+      "document_id": "USTA1",
+      "provision_ref": "56",
+      "chapter": "II. ČLOVEKOVE PRAVICE IN TEMELJNE SVOBOŠČINE",
+      "article": "56",
+      "title": "(svobodno odločanje o rojstvih otrok)",
+      "content": "Otroci uživajo posebno varstvo in skrb. Človekove pravice in temeljne svoboščine uživajo otroci v skladu s svojo starostjo in zrelostjo.\nOtrokom se zagotavlja posebno varstvo pred gospodarskim, socialnim, telesnim, duševnim ali drugim izkoriščanjem in zlorabljanjem. Takšno varstvo ureja zakon.\nOtroci in mladoletniki, za katere starši ne skrbijo, ki nimajo staršev ali so brez ustrezne družinske oskrbe, uživajo posebno varstvo države. Njihov položaj ureja zakon."
+    },
+    {
+      "document_id": "USTA1",
+      "provision_ref": "57",
+      "chapter": "II. ČLOVEKOVE PRAVICE IN TEMELJNE SVOBOŠČINE",
+      "article": "57",
+      "title": "(pravice otrok)",
+      "content": "Izobraževanje je svobodno.\nOsnovnošolsko izobraževanje je obvezno in se financira iz javnih sredstev.\nDržava ustvarja možnosti, da si državljani lahko pridobijo ustrezno izobrazbo."
+    },
+    {
+      "document_id": "USTA1",
+      "provision_ref": "58",
+      "chapter": "II. ČLOVEKOVE PRAVICE IN TEMELJNE SVOBOŠČINE",
+      "article": "58",
+      "title": "(izobrazba in šolanje)",
+      "content": "Državne univerze in državne visoke šole so avtonomne.\nNačin njihovega financiranja ureja zakon."
+    },
+    {
+      "document_id": "USTA1",
+      "provision_ref": "59",
+      "chapter": "II. ČLOVEKOVE PRAVICE IN TEMELJNE SVOBOŠČINE",
+      "article": "59",
+      "title": "(avtonomnost univerze in drugih visokih šol)",
+      "content": "Zagotovljena je svoboda znanstvenega in umetniškega ustvarjanja."
+    },
+    {
+      "document_id": "USTA1",
+      "provision_ref": "60",
+      "chapter": "II. ČLOVEKOVE PRAVICE IN TEMELJNE SVOBOŠČINE",
+      "article": "60",
+      "title": "(svoboda znanosti in umetnosti)",
+      "content": "Zagotovljeno je varstvo avtorskih in drugih pravic, ki izvirajo iz umetniške, znanstvene, raziskovalne in izumiteljske dejavnosti."
+    },
+    {
+      "document_id": "USTA1",
+      "provision_ref": "61",
+      "chapter": "II. ČLOVEKOVE PRAVICE IN TEMELJNE SVOBOŠČINE",
+      "article": "61",
+      "title": "(pravice iz ustvarjalnosti)",
+      "content": "Vsakdo ima pravico, da svobodno izraža pripadnost k svojemu narodu ali narodni skupnosti, da goji in izraža svojo kulturo in uporablja svoj jezik in pisavo."
+    },
+    {
+      "document_id": "USTA1",
+      "provision_ref": "62",
+      "chapter": "II. ČLOVEKOVE PRAVICE IN TEMELJNE SVOBOŠČINE",
+      "article": "62",
+      "title": "(izražanje narodne pripadnosti)",
+      "content": "Vsakdo ima pravico, da pri uresničevanju svojih pravic in dolžnosti ter v postopkih pred državnimi in drugimi organi, ki opravljajo javno službo, uporablja svoj jezik in pisavo na način, ki ga določi zakon."
+    },
+    {
+      "document_id": "USTA1",
+      "provision_ref": "62.a",
+      "chapter": "II. ČLOVEKOVE PRAVICE IN TEMELJNE SVOBOŠČINE",
+      "article": "62.a",
+      "title": "(pravica do uporabe svojega jezika in pisave)",
+      "content": "Zagotovljena sta svobodna uporaba in razvoj slovenskega znakovnega jezika. Na območjih občin, kjer sta uradna jezika tudi italijanščina ali madžarščina, je zagotovljena svobodna uporaba italijanskega in madžarskega znakovnega jezika. Uporabo teh jezikov in položaj njihovih uporabnikov ureja zakon.\nSvobodno uporabo in razvoj jezika gluhoslepih ureja zakon."
+    },
+    {
+      "document_id": "USTA1",
+      "provision_ref": "63",
+      "chapter": "II. ČLOVEKOVE PRAVICE IN TEMELJNE SVOBOŠČINE",
+      "article": "63",
+      "title": "(znakovni jezik in jezik gluhoslepih)",
+      "content": "Protiustavno je vsakršno spodbujanje k narodni, rasni, verski ali drugi neenakopravnosti ter razpihovanje narodnega, rasnega, verskega ali drugega sovraštva in nestrpnosti.\nProtiustavno je vsakršno spodbujanje k nasilju in vojni."
+    },
+    {
+      "document_id": "USTA1",
+      "provision_ref": "64",
+      "chapter": "II. ČLOVEKOVE PRAVICE IN TEMELJNE SVOBOŠČINE",
+      "article": "64",
+      "title": "(prepoved spodbujanja k neenakopravnosti in nestrpnosti ter prepoved spodbujanja k nasilju in vojni)",
+      "content": "Avtohtoni italijanski in madžarski narodni skupnosti ter njunim pripadnikom je zagotovljena pravica, da svobodno uporabljajo svoje narodne simbole in da za ohranjanje svoje narodne identitete ustanavljajo organizacije, razvijajo gospodarske, kulturne in znanstvenoraziskovalne dejavnosti ter dejavnosti na področju javnega obveščanja in založništva. V skladu z zakonom imata ti narodni skupnosti in njuni pripadniki pravico do vzgoje in izobraževanja v svojem jeziku ter do oblikovanja in razvijanja te vzgoje in izobraževanja. Zakon določa območja, na katerih je dvojezično šolstvo obvezno. Narodnima skupnostima in njunim pripadnikom je zagotovljena pravica, da gojijo odnose s svojima matičnima narodoma in njunima državama. Država gmotno in moralno podpira uveljavljanje teh pravic.\nNa območjih, kjer ti skupnosti živita, ustanovijo njuni pripadniki za uresničevanje svojih pravic svoje samoupravne skupnosti. Na njihov predlog lahko država pooblasti samoupravne narodne skupnosti za opravljanje določenih nalog iz državne pristojnosti ter zagotavlja sredstva za njihovo uresničevanje.\nNarodni skupnosti sta neposredno zastopani v predstavniških organih lokalne samouprave in v državnem zboru.\nZakon ureja položaj in način uresničevanja pravic italijanske oziroma madžarske narodne skupnosti na območjih, kjer živita, obveznosti samoupravnih lokalnih skupnosti za uresničevanje teh pravic, ter tiste pravice, ki jih pripadniki teh narodnih skupnosti uresničujejo tudi zunaj teh območij. Pravice obeh narodnih skupnosti ter njunih pripadnikov so zagotovljene ne glede na število pripadnikov teh skupnosti.\nZakoni, drugi predpisi in splošni akti, ki zadevajo uresničevanje v ustavi določenih pravic in položaja zgolj narodnih skupnosti, ne morejo biti sprejeti brez soglasja predstavnikov narodnih skupnosti."
+    },
+    {
+      "document_id": "USTA1",
+      "provision_ref": "65",
+      "chapter": "II. ČLOVEKOVE PRAVICE IN TEMELJNE SVOBOŠČINE",
+      "article": "65",
+      "title": "(posebne pravice avtohtone italijanske in madžarske narodne skupnosti v Sloveniji)",
+      "content": "Položaj in posebne pravice romske skupnosti, ki živi v Sloveniji, ureja zakon."
+    },
+    {
+      "document_id": "USTA1",
+      "provision_ref": "66",
+      "chapter": "III. GOSPODARSKA IN SOCIALNA RAZMERJA",
+      "article": "66",
+      "content": "Država ustvarja možnosti za zaposlovanje in za delo ter zagotavlja njuno zakonsko varstvo."
+    },
+    {
+      "document_id": "USTA1",
+      "provision_ref": "67",
+      "chapter": "III. GOSPODARSKA IN SOCIALNA RAZMERJA",
+      "article": "67",
+      "title": "(varstvo dela)",
+      "content": "Zakon določa način pridobivanja in uživanja lastnine tako, da je zagotovljena njena gospodarska, socialna in ekološka funkcija.\nZakon določa način in pogoje dedovanja."
+    },
+    {
+      "document_id": "USTA1",
+      "provision_ref": "68",
+      "chapter": "III. GOSPODARSKA IN SOCIALNA RAZMERJA",
+      "article": "68",
+      "title": "(lastnina)",
+      "content": "Tujci lahko pridobijo lastninsko pravico na nepremičninah pod pogoji, ki jih določa zakon ali mednarodna pogodba, ki jo ratificira državni zbor."
+    },
+    {
+      "document_id": "USTA1",
+      "provision_ref": "69",
+      "chapter": "III. GOSPODARSKA IN SOCIALNA RAZMERJA",
+      "article": "69",
+      "title": "(lastninska pravica tujcev)",
+      "content": "Lastninska pravica na nepremičnini se lahko v javno korist odvzame ali omeji proti nadomestilu v naravi ali proti odškodnini pod pogoji, ki jih določa zakon."
+    },
+    {
+      "document_id": "USTA1",
+      "provision_ref": "70",
+      "chapter": "III. GOSPODARSKA IN SOCIALNA RAZMERJA",
+      "article": "70",
+      "title": "(razlastitev)",
+      "content": "Na javnem dobru se lahko pridobi posebna pravica uporabe pod pogoji, ki jih določa zakon.\nZakon določa pogoje, pod katerimi se smejo izkoriščati naravna bogastva.\nZakon lahko določi, da smejo naravna bogastva izkoriščati tudi tuje osebe, in določi pogoje za izkoriščanje."
+    },
+    {
+      "document_id": "USTA1",
+      "provision_ref": "70.a",
+      "chapter": "III. GOSPODARSKA IN SOCIALNA RAZMERJA",
+      "article": "70.a",
+      "title": "(javno dobro in naravna bogastva)",
+      "content": "Vsakdo ima pravico do pitne vode.\nVodni viri so javno dobro v upravljanju države.\nVodni viri služijo prednostno in trajnostno oskrbi prebivalstva s pitno vodo in z vodo za oskrbo gospodinjstev in v tem delu niso tržno blago.\nOskrbo prebivalstva s pitno vodo in z vodo za oskrbo gospodinjstev zagotavlja država preko samoupravnih lokalnih skupnosti neposredno in neprofitno."
+    },
+    {
+      "document_id": "USTA1",
+      "provision_ref": "71",
+      "chapter": "III. GOSPODARSKA IN SOCIALNA RAZMERJA",
+      "article": "71",
+      "title": "(pravica do pitne vode)",
+      "content": "Zakon določa zaradi smotrnega izkoriščanja posebne pogoje za uporabo zemljišč.\nZakon določa posebno varstvo kmetijskih zemljišč.\nDržava skrbi za gospodarski, kulturni in socialni napredek prebivalstva na gorskih in hribovitih območjih."
+    },
+    {
+      "document_id": "USTA1",
+      "provision_ref": "72",
+      "chapter": "III. GOSPODARSKA IN SOCIALNA RAZMERJA",
+      "article": "72",
+      "title": "(varstvo zemljišč)",
+      "content": "Vsakdo ima v skladu z zakonom pravico do zdravega življenjskega okolja.\nDržava skrbi za zdravo življenjsko okolje. V ta namen zakon določa pogoje in načine za opravljanje gospodarskih in drugih dejavnosti.\nZakon določa, ob katerih pogojih in v kakšnem obsegu je povzročitelj škode v življenjskem okolju dolžan poravnati škodo. Varstvo živali pred mučenjem ureja zakon."
+    },
+    {
+      "document_id": "USTA1",
+      "provision_ref": "73",
+      "chapter": "III. GOSPODARSKA IN SOCIALNA RAZMERJA",
+      "article": "73",
+      "title": "(zdravo življenjsko okolje)",
+      "content": "Vsakdo je dolžan v skladu z zakonom varovati naravne znamenitosti in redkosti ter kulturne spomenike.\nDržava in lokalne skupnosti skrbijo za ohranjanje naravne in kulturne dediščine."
+    },
+    {
+      "document_id": "USTA1",
+      "provision_ref": "74",
+      "chapter": "III. GOSPODARSKA IN SOCIALNA RAZMERJA",
+      "article": "74",
+      "title": "(varovanje naravne in kulturne dediščine)",
+      "content": "Gospodarska pobuda je svobodna.\nZakon določa pogoje za ustanavljanje gospodarskih organizacij. Gospodarska dejavnost se ne sme izvajati v nasprotju z javno koristjo.\nPrepovedana so dejanja nelojalne konkurence in dejanja, ki v nasprotju z zakonom omejujejo konkurenco."
+    },
+    {
+      "document_id": "USTA1",
+      "provision_ref": "74.a",
+      "chapter": "III. GOSPODARSKA IN SOCIALNA RAZMERJA",
+      "article": "74.a",
+      "title": "(podjetništvo)",
+      "content": "Vsakdo ima v skladu z zakonom pravico do uporabe gotovine pri bančnem poslovanju in drugih oblikah pravnega prometa."
+    },
+    {
+      "document_id": "USTA1",
+      "provision_ref": "75",
+      "chapter": "III. GOSPODARSKA IN SOCIALNA RAZMERJA",
+      "article": "75",
+      "title": "(pravica do uporabe gotovine)",
+      "content": "Delavci sodelujejo pri upravljanju v gospodarskih organizacijah in zavodih na način in pod pogoji, ki jih določa zakon."
+    },
+    {
+      "document_id": "USTA1",
+      "provision_ref": "76",
+      "chapter": "III. GOSPODARSKA IN SOCIALNA RAZMERJA",
+      "article": "76",
+      "title": "(soodločanje)",
+      "content": "Ustanavljanje in delovanje sindikatov ter včlanjevanje vanje je svobodno."
+    },
+    {
+      "document_id": "USTA1",
+      "provision_ref": "77",
+      "chapter": "III. GOSPODARSKA IN SOCIALNA RAZMERJA",
+      "article": "77",
+      "title": "(sindikalna svoboda)",
+      "content": "Delavci imajo pravico do stavke.\nČe to zahteva javna korist, se lahko pravica do stavke, upoštevajoč vrsto in naravo dejavnosti, z zakonom omeji."
+    },
+    {
+      "document_id": "USTA1",
+      "provision_ref": "78",
+      "chapter": "III. GOSPODARSKA IN SOCIALNA RAZMERJA",
+      "article": "78",
+      "title": "(pravica do stavke)",
+      "content": "Država ustvarja možnosti, da si državljani lahko pridobijo primerno stanovanje."
+    },
+    {
+      "document_id": "USTA1",
+      "provision_ref": "79",
+      "chapter": "III. GOSPODARSKA IN SOCIALNA RAZMERJA",
+      "article": "79",
+      "title": "(primerno stanovanje)",
+      "content": "V Sloveniji zaposleni tujci in člani njihovih družin imajo posebne pravice, določene z zakonom."
+    },
+    {
+      "document_id": "USTA1",
+      "provision_ref": "80",
+      "chapter": "IV. DRŽAVNA UREDITEV",
+      "section": "a) Državni zbor",
+      "article": "80",
+      "content": "Državni zbor sestavljajo poslanci državljanov Slovenije in šteje 90 poslancev.\nPoslanci se volijo s splošnim, enakim, neposrednim in tajnim glasovanjem.\nV državni zbor se vedno izvoli po en poslanec italijanske in madžarske narodne skupnosti.\nVolilni sistem ureja zakon, ki ga sprejme državni zbor z dvotretjinsko večino glasov vseh poslancev.\nPoslanci, razen poslancev narodnih skupnosti, se volijo po načelu sorazmernega predstavništva ob štiriodstotnem volilnem pragu za vstop v Državni zbor, pri čemer imajo volivci odločilen vpliv na dodelitev mandatov kandidatom."
+    },
+    {
+      "document_id": "USTA1",
+      "provision_ref": "81",
+      "chapter": "IV. DRŽAVNA UREDITEV",
+      "section": "a) Državni zbor",
+      "article": "81",
+      "title": "(sestava in volitve)",
+      "content": "Državni zbor se voli za štiri leta.\nČe bi se mandatna doba državnega zbora iztekla med vojno ali v času trajanja izrednega stanja, preneha njegov mandat šest mesecev po prenehanju vojne ali izrednega stanja, lahko pa tudi prej, če sam tako sklene.\nVolitve v državni zbor razpiše predsednik republike. Nov državni zbor se izvoli najprej dva meseca in najkasneje 15 dni pred potekom štirih let od prve seje prejšnjega državnega zbora. Če se državni zbor razpusti, se izvoli nov najkasneje dva meseca po razpustu prejšnjega. Mandatna doba prejšnjega državnega zbora se konča s prvo sejo novega državnega zbora, ki jo skliče predsednik republike najkasneje 20 dni po njegovi izvolitvi."
+    },
+    {
+      "document_id": "USTA1",
+      "provision_ref": "82",
+      "chapter": "IV. DRŽAVNA UREDITEV",
+      "section": "a) Državni zbor",
+      "article": "82",
+      "title": "(mandatna doba državnega zbora)",
+      "content": "Poslanci so predstavniki vsega ljudstva in niso vezani na kakršnakoli navodila.\nZakon določa, kdo ne sme biti izvoljen za poslanca, ter nezdružljivost funkcije poslanca z drugimi funkcijami in dejavnostmi.\nDržavni zbor potrdi poslanske mandate. Proti odločitvi državnega zbora je v skladu z zakonom mogoča pritožba na ustavno sodišče."
+    },
+    {
+      "document_id": "USTA1",
+      "provision_ref": "83",
+      "chapter": "IV. DRŽAVNA UREDITEV",
+      "section": "a) Državni zbor",
+      "article": "83",
+      "title": "(poslanci)",
+      "content": "Poslanec državnega zbora ni kazensko odgovoren za mnenje ali glas, ki ga je izrekel na sejah državnega zbora ali njegovih delovnih teles.\nPoslanec ne sme biti priprt niti se zoper njega, če se sklicuje na imuniteto, ne sme začeti kazenski postopek brez dovoljenja državnega zbora, razen če je bil zaloten pri kaznivem dejanju, za katero je predpisana kazen zapora nad pet let.\nDržavni zbor lahko prizna imuniteto tudi poslancu, ki se nanjo ni skliceval ali ki je bil zaloten pri kaznivem dejanju iz prejšnjega odstavka."
+    },
+    {
+      "document_id": "USTA1",
+      "provision_ref": "84",
+      "chapter": "IV. DRŽAVNA UREDITEV",
+      "section": "a) Državni zbor",
+      "article": "84",
+      "title": "(poslanska imuniteta)",
+      "content": "Državni zbor ima predsednika, ki ga izvoli z večino glasov vseh poslancev."
+    },
+    {
+      "document_id": "USTA1",
+      "provision_ref": "85",
+      "chapter": "IV. DRŽAVNA UREDITEV",
+      "section": "a) Državni zbor",
+      "article": "85",
+      "title": "(predsednik državnega zbora)",
+      "content": "Državni zbor dela na rednih in izrednih sejah.\nRedne in izredne seje sklicuje predsednik državnega zbora; izredno sejo mora sklicati, če to zahteva najmanj četrtina poslancev državnega zbora ali predsednik republike."
+    },
+    {
+      "document_id": "USTA1",
+      "provision_ref": "86",
+      "chapter": "IV. DRŽAVNA UREDITEV",
+      "section": "a) Državni zbor",
+      "article": "86",
+      "title": "(zasedanja državnega zbora)",
+      "content": "Državni zbor sklepa, če je na seji navzoča večina poslancev. Državni zbor sprejema zakone in druge odločitve ter ratificira mednarodne pogodbe z večino opredeljenih glasov navzočih poslancev, kadar ni z ustavo ali z zakonom določena drugačna večina."
+    },
+    {
+      "document_id": "USTA1",
+      "provision_ref": "87",
+      "chapter": "IV. DRŽAVNA UREDITEV",
+      "section": "a) Državni zbor",
+      "article": "87",
+      "title": "(odločanje)",
+      "content": "Pravice in obveznosti državljanov ter drugih oseb lahko državni zbor določa samo z zakonom."
+    },
+    {
+      "document_id": "USTA1",
+      "provision_ref": "88",
+      "chapter": "IV. DRŽAVNA UREDITEV",
+      "section": "a) Državni zbor",
+      "article": "88",
+      "title": "(zakonska pristojnost državnega zbora)",
+      "content": "Zakone lahko predlaga vlada ali vsak poslanec. Zakon lahko predloži tudi najmanj pet tisoč volilcev."
+    },
+    {
+      "document_id": "USTA1",
+      "provision_ref": "89",
+      "chapter": "IV. DRŽAVNA UREDITEV",
+      "section": "a) Državni zbor",
+      "article": "89",
+      "title": "(zakonska iniciativa)",
+      "content": "Državni zbor sprejema zakone v večfaznem postopku, če ni s poslovnikom drugače določeno."
+    },
+    {
+      "document_id": "USTA1",
+      "provision_ref": "90",
+      "chapter": "IV. DRŽAVNA UREDITEV",
+      "section": "a) Državni zbor",
+      "article": "90",
+      "title": "(zakonodajni postopek)",
+      "content": "Državni zbor razpiše referendum o uveljavitvi zakona, ki ga je sprejel, če to zahteva najmanj štirideset tisoč volivcev.\nReferenduma ni dopustno razpisati:\n-        o zakonih o nujnih ukrepih za zagotovitev obrambe države, varnosti ali odprave posledic naravnih nesreč,\n-        o zakonih o davkih, carinah in drugih obveznih dajatvah ter o zakonu, ki se sprejema za izvrševanje državnega proračuna,\n-        o zakonih o ratifikaciji mednarodnih pogodb,\n-        o zakonih, ki odpravljajo protiustavnost na področju človekovih pravic in temeljnih svoboščin ali drugo protiustavnost.\nPravico glasovanja na referendumu imajo vsi državljani, ki imajo volilno pravico.\nZakon je na referendumu zavrnjen, če proti njemu glasuje večina volivcev, ki so veljavno glasovali, pod pogojem, da proti zakonu glasuje najmanj petina vseh volivcev.\nReferendum se ureja z zakonom, ki ga sprejme državni zbor z dvotretjinsko večino glasov navzočih poslancev."
+    },
+    {
+      "document_id": "USTA1",
+      "provision_ref": "91",
+      "chapter": "IV. DRŽAVNA UREDITEV",
+      "section": "a) Državni zbor",
+      "article": "91",
+      "title": "(zakonodajni referendum)",
+      "content": "Zakone razglaša predsednik republike najkasneje 8 dni po njihovem sprejemu.\nDržavni svet lahko v sedmih dneh od sprejetja zakona in še pred njegovo razglasitvijo zahteva, da državni zbor o njem še enkrat odloča. Pri ponovnem odločanju mora za sprejem zakona glasovati večina vseh poslancev, razen če ustava za sprejem obravnavanega zakona predvideva večje število glasov. Ponovna odločitev državnega zbora je dokončna."
+    },
+    {
+      "document_id": "USTA1",
+      "provision_ref": "92",
+      "chapter": "IV. DRŽAVNA UREDITEV",
+      "section": "a) Državni zbor",
+      "article": "92",
+      "title": "(razglasitev zakona)",
+      "content": "Izredno stanje se razglasi, kadar velika in splošna nevarnost ogroža obstoj države. O razglasitvi vojnega ali izrednega stanja, nujnih ukrepih in njihovi odpravi odloča na predlog vlade državni zbor.\nDržavni zbor odloči o uporabi obrambnih sil.\nKadar se državni zbor ne more sestati, odloča o zadevah iz prvega in drugega odstavka predsednik republike. Odločitve mora dati v potrditev državnemu zboru takoj, ko se ta sestane."
+    },
+    {
+      "document_id": "USTA1",
+      "provision_ref": "93",
+      "chapter": "IV. DRŽAVNA UREDITEV",
+      "section": "a) Državni zbor",
+      "article": "93",
+      "title": "(vojno in izredno stanje)",
+      "content": "Državni zbor lahko odredi preiskavo o zadevah javnega pomena, mora pa to storiti na zahtevo tretjine poslancev državnega zbora ali na zahtevo državnega sveta. V ta namen imenuje komisijo, ki ima v zadevah poizvedovanja in preučevanja smiselno enaka pooblastila kakor pravosodni organi."
+    },
+    {
+      "document_id": "USTA1",
+      "provision_ref": "94",
+      "chapter": "IV. DRŽAVNA UREDITEV",
+      "section": "a) Državni zbor",
+      "article": "94",
+      "title": "(parlamentarna preiskava)",
+      "content": "Državni zbor ima poslovnik, ki ga sprejme z dvotretjinsko večino glasov navzočih poslancev."
+    },
+    {
+      "document_id": "USTA1",
+      "provision_ref": "95",
+      "chapter": "IV. DRŽAVNA UREDITEV",
+      "section": "a) Državni zbor",
+      "article": "95",
+      "title": "(poslovnik državnega zbora)",
+      "content": "Poslanci državnega zbora dobivajo plačo ali nadomestilo, ki sta določeni z zakonom."
+    },
+    {
+      "document_id": "USTA1",
+      "provision_ref": "96",
+      "chapter": "IV. DRŽAVNA UREDITEV",
+      "section": "b) Državni svet",
+      "article": "96",
+      "content": "Državni svet je zastopstvo nosilcev socialnih, gospodarskih, poklicnih in lokalnih interesov. Državni svet ima 40 članov.\nSestavljajo ga:\n-        štirje predstavniki delodajalcev;\n-        štirje predstavniki delojemalcev;\n-        štirje predstavniki kmetov, obrtnikov in samostojnih poklicev;\n-        šest predstavnikov negospodarskih dejavnosti;\n-        dvaindvajset predstavnikov lokalnih interesov.\nOrganizacijo državnega sveta ureja zakon."
+    },
+    {
+      "document_id": "USTA1",
+      "provision_ref": "97",
+      "chapter": "IV. DRŽAVNA UREDITEV",
+      "section": "b) Državni svet",
+      "article": "97",
+      "title": "(sestava)",
+      "content": "Državni svet lahko:\n-        predlaga državnemu zboru sprejem zakonov;\n-        daje državnemu zboru mnenje o vseh zadevah iz njegove pristojnosti;\n-        zahteva, da državni zbor pred razglasitvijo kakega zakona o njem še enkrat odloča;\n-        (črtana);\n-        zahteva preiskavo o zadevah javnega pomena iz 93. člena.\nNa zahtevo državnega zbora mora državni svet izreči mnenje o posamezni zadevi."
+    },
+    {
+      "document_id": "USTA1",
+      "provision_ref": "98",
+      "chapter": "IV. DRŽAVNA UREDITEV",
+      "section": "b) Državni svet",
+      "article": "98",
+      "title": "(pristojnosti državnega sveta)",
+      "content": "Volitve v državni svet ureja zakon, ki ga sprejme državni zbor z dvotretjinsko večino glasov vseh poslancev.\nČlani državnega sveta se volijo za dobo petih let."
+    },
+    {
+      "document_id": "USTA1",
+      "provision_ref": "99",
+      "chapter": "IV. DRŽAVNA UREDITEV",
+      "section": "b) Državni svet",
+      "article": "99",
+      "title": "(volitve)",
+      "content": "Državni svet sklepa, če je na seji navzoča večina članov.\nDržavni svet odloča z večino opredeljenih glasov navzočih članov."
+    },
+    {
+      "document_id": "USTA1",
+      "provision_ref": "100",
+      "chapter": "IV. DRŽAVNA UREDITEV",
+      "section": "b) Državni svet",
+      "article": "100",
+      "title": "(odločanje)",
+      "content": "Član državnega sveta ne sme biti hkrati poslanec v državnem zboru.\nČlani državnega sveta uživajo enako imuniteto kakor poslanci. O imuniteti odloča državni svet."
+    },
+    {
+      "document_id": "USTA1",
+      "provision_ref": "101",
+      "chapter": "IV. DRŽAVNA UREDITEV",
+      "section": "b) Državni svet",
+      "article": "101",
+      "title": "(nezdružljivost funkcije in imuniteta)",
+      "content": "Državni svet ima poslovnik, ki ga sprejme z večino glasov vseh članov."
+    },
+    {
+      "document_id": "USTA1",
+      "provision_ref": "102",
+      "chapter": "IV. DRŽAVNA UREDITEV",
+      "section": "c) Predsednik republike",
+      "article": "102",
+      "content": "Predsednik republike predstavlja Republiko Slovenijo in je vrhovni poveljnik njenih obrambnih sil."
+    },
+    {
+      "document_id": "USTA1",
+      "provision_ref": "103",
+      "chapter": "IV. DRŽAVNA UREDITEV",
+      "section": "c) Predsednik republike",
+      "article": "103",
+      "title": "(funkcija predsednika republike)",
+      "content": "Predsednik republike se izvoli na neposrednih, splošnih in tajnih volitvah.\nZa predsednika republike je kandidat izvoljen z večino veljavnih glasov.\nPredsednik republike je izvoljen za dobo petih let, vendar največ dvakrat zaporedoma. Če se mandatna doba predsednika republike izteče med vojno ali med trajanjem izrednega stanja, mu mandat preneha šest mesecev po prenehanju vojnega ali izrednega stanja.\nZa predsednika republike je lahko izvoljen le državljan Slovenije.\nVolitve za predsednika republike razpiše predsednik državnega zbora. Predsednik republike mora biti izvoljen najkasneje 15 dni pred potekom mandatne dobe prejšnjega predsednika."
+    },
+    {
+      "document_id": "USTA1",
+      "provision_ref": "104",
+      "chapter": "IV. DRŽAVNA UREDITEV",
+      "section": "c) Predsednik republike",
+      "article": "104",
+      "title": "(volitve predsednika republike)",
+      "content": "Pred nastopom funkcije izreče predsednik republike pred državnim zborom naslednjo prisego:"
+    },
+    {
+      "document_id": "USTA1",
+      "provision_ref": "105",
+      "chapter": "IV. DRŽAVNA UREDITEV",
+      "section": "c) Predsednik republike",
+      "article": "105",
+      "title": "(prisega predsednika republike)",
+      "content": "Funkcija predsednika republike je nezdružljiva z opravljanjem druge javne funkcije ali poklica."
+    },
+    {
+      "document_id": "USTA1",
+      "provision_ref": "106",
+      "chapter": "IV. DRŽAVNA UREDITEV",
+      "section": "c) Predsednik republike",
+      "article": "106",
+      "title": "(nezdružljivost funkcije predsednika republike)",
+      "content": "V primeru trajnega zadržka, smrti, odstopa ali drugega prenehanja predsednikove funkcije do izvolitve novega predsednika funkcijo predsednika republike začasno opravlja predsednik državnega zbora. V tem primeru je treba razpisati volitve za novega predsednika republike najkasneje v 15 dneh po prenehanju funkcije prejšnjega.\nPredsednik državnega zbora začasno opravlja funkcijo predsednika republike tudi med zadržanostjo predsednika republike."
+    },
+    {
+      "document_id": "USTA1",
+      "provision_ref": "107",
+      "chapter": "IV. DRŽAVNA UREDITEV",
+      "section": "c) Predsednik republike",
+      "article": "107",
+      "title": "(nadomeščanje predsednika republike)",
+      "content": "Predsednik republike:\n-        razpisuje volitve v državni zbor;\n-        razglaša zakone;\n-        imenuje državne funkcionarje, kadar je to določeno z zakonom;\n-        postavlja in odpoklicuje veleposlanike in poslanike republike in sprejema poverilna pisma tujih diplomatskih predstavnikov;\n-        izdaja listine o ratifikaciji;\n-        odloča o pomilostitvah;\n-        podeljuje odlikovanja in častne naslove;\n-        opravlja druge zadeve, določene s to ustavo.\nNa zahtevo državnega zbora mora predsednik republike izreči mnenje o posameznem vprašanju."
+    },
+    {
+      "document_id": "USTA1",
+      "provision_ref": "108",
+      "chapter": "IV. DRŽAVNA UREDITEV",
+      "section": "c) Predsednik republike",
+      "article": "108",
+      "title": "(pristojnosti predsednika republike)",
+      "content": "Kadar se državni zbor zaradi izrednega stanja ali vojne ne more sestati, lahko predsednik republike na predlog vlade izdaja uredbe z zakonsko močjo.\nZ uredbo z zakonsko močjo se lahko izjemoma omejijo posamezne pravice in temeljne svoboščine, kakor to določa 16. člen te ustave.\nPredsednik republike mora uredbe z zakonsko močjo predložiti v potrditev državnemu zboru takoj, ko se ta sestane."
+    },
+    {
+      "document_id": "USTA1",
+      "provision_ref": "109",
+      "chapter": "IV. DRŽAVNA UREDITEV",
+      "section": "c) Predsednik republike",
+      "article": "109",
+      "title": "(uredbe z zakonsko močjo)",
+      "content": "Če predsednik republike pri opravljanju svoje funkcije krši ustavo ali huje krši zakon, ga državni zbor lahko obtoži pred ustavnim sodiščem. Le-to ugotovi utemeljenost obtožbe ali obtoženega oprosti, z dvotretjinsko večino glasov vseh sodnikov pa lahko odloči o odvzemu funkcije. Potem ko ustavno sodišče dobi sklep državnega zbora o obtožbi, lahko odloči, da predsednik republike do odločitve o obtožbi začasno ne more opravljati svoje funkcije."
+    },
+    {
+      "document_id": "USTA1",
+      "provision_ref": "110",
+      "chapter": "IV. DRŽAVNA UREDITEV",
+      "section": "č) Vlada",
+      "article": "110",
+      "content": "Vlado sestavljajo predsednik in ministri. Vlada in posamezni ministri so v okviru svojih pristojnosti samostojni in odgovorni državnemu zboru."
+    },
+    {
+      "document_id": "USTA1",
+      "provision_ref": "111",
+      "chapter": "IV. DRŽAVNA UREDITEV",
+      "section": "č) Vlada",
+      "article": "111",
+      "title": "(sestava vlade)",
+      "content": "Predsednik republike po posvetovanjih z vodji poslanskih skupin predloži državnemu zboru kandidata za predsednika vlade.\nPredsednika vlade voli državni zbor z večino glasov vseh poslancev, če ni s to ustavo drugače določeno. Glasovanje je tajno.\nČe kandidat ne dobi potrebne večine glasov, lahko predsednik republike po ponovnih posvetovanjih v štirinajstih dneh predloži drugega ali ponovno istega, kandidata, prav tako pa lahko predlagajo kandidate tudi poslanske skupine ali najmanj deset poslancev. Če je bilo v tem roku vloženih več predlogov, se glasuje o vsakem posebej, in sicer najprej o kandidatu predsednika republike, če ta ni izvoljen, pa še o drugih kandidatih po vrstnem redu vložitve predlogov.\nČe ni izvoljen noben kandidat, predsednik republike razpusti državni zbor in razpiše nove volitve, razen če državni zbor v oseminštiridesetih urah z večino opredeljenih glasov navzočih poslancev ne sklene izvesti ponovne volitve predsednika vlade, kjer zadošča za izvolitev večina opredeljenih glasov navzočih poslancev. Na ponovnih volitvah se glasuje o posameznih kandidatih po vrstnem redu števila glasov, dobljenih pri prejšnjih glasovanjih, nato pa o novih, do volitev vloženih kandidaturah, med katerimi ima prednost morebitni kandidat predsednika republike.\nČe tudi pri teh volitvah noben kandidat ne dobi potrebne večine glasov, predsednik republike razpusti državni zbor in razpiše nove volitve."
+    },
+    {
+      "document_id": "USTA1",
+      "provision_ref": "112",
+      "chapter": "IV. DRŽAVNA UREDITEV",
+      "section": "č) Vlada",
+      "article": "112",
+      "title": "(volitve predsednika vlade)",
+      "content": "Ministre imenuje in razrešuje državni zbor na predlog predsednika vlade.\nPredlagani minister se mora pred imenovanjem predstaviti pristojni komisiji državnega zbora in odgovarjati na njena vprašanja."
+    },
+    {
+      "document_id": "USTA1",
+      "provision_ref": "113",
+      "chapter": "IV. DRŽAVNA UREDITEV",
+      "section": "č) Vlada",
+      "article": "113",
+      "title": "(imenovanje ministrov)",
+      "content": "Predsednik vlade in ministri izrečejo po izvolitvi oziroma po imenovanju pred državnim zborom prisego, določeno s 104. členom."
+    },
+    {
+      "document_id": "USTA1",
+      "provision_ref": "114",
+      "chapter": "IV. DRŽAVNA UREDITEV",
+      "section": "č) Vlada",
+      "article": "114",
+      "title": "(prisega vlade)",
+      "content": "Predsednik vlade skrbi za enotnost politične in upravne usmeritve vlade ter usklajuje delo ministrov. Ministri so skupno odgovorni za delo vlade, vsak minister pa za delo svojega ministrstva.\nSestavo in delovanje vlade, število, pristojnosti in organizacijo ministrstev ureja zakon."
+    },
+    {
+      "document_id": "USTA1",
+      "provision_ref": "115",
+      "chapter": "IV. DRŽAVNA UREDITEV",
+      "section": "č) Vlada",
+      "article": "115",
+      "title": "(organizacija vlade)",
+      "content": "Funkcija predsednika vlade in ministrov preneha, ko se po volitvah sestane nov državni zbor, funkcija ministrov pa tudi z vsakim drugim prenehanjem funkcije predsednika vlade ter z razrešitvijo ali odstopom ministra, morajo pa opravljati tekoče posle do izvolitve novega predsednika vlade oziroma do imenovanja novih ministrov."
+    },
+    {
+      "document_id": "USTA1",
+      "provision_ref": "116",
+      "chapter": "IV. DRŽAVNA UREDITEV",
+      "section": "č) Vlada",
+      "article": "116",
+      "title": "(prenehanje funkcije predsednika in ministrov vlade)",
+      "content": "Državni zbor lahko izglasuje nezaupnico vladi le tako, da na predlog najmanj desetih poslancev z večino glasov vseh poslancev izvoli novega predsednika vlade. S tem je dotedanji predsednik vlade razrešen, mora pa skupaj s svojimi ministri opravljati tekoče posle do prisege nove vlade.\nMed vložitvijo predloga za izvolitev novega predsednika vlade in volitvami mora poteči najmanj oseminštirideset ur, razen če državni zbor z dvotretjinsko večino glasov vseh poslancev ne sklene drugače, ali če je država v vojnem ali izrednem stanju.\nČe je bil predsednik vlade izvoljen na temelju četrtega odstavka 111. člena, mu je izrečena nezaupnica, če državni zbor na predlog najmanj desetih poslancev izvoli novega predsednika vlade z večino opredeljenih glasov."
+    },
+    {
+      "document_id": "USTA1",
+      "provision_ref": "117",
+      "chapter": "IV. DRŽAVNA UREDITEV",
+      "section": "č) Vlada",
+      "article": "117",
+      "title": "(nezaupnica vladi)",
+      "content": "Predsednik vlade lahko zahteva glasovanje o zaupnici vladi. Če vlada ne dobi podpore večine glasov vseh poslancev, mora državni zbor v tridesetih dneh izvoliti novega predsednika vlade ali dotedanjemu predsedniku pri ponovljenem glasovanju izglasovati zaupnico, sicer predsednik republike razpusti državni zbor in razpiše nove volitve. Predsednik vlade lahko vprašanje zaupnice veže tudi na sprejem zakona ali druge odločitve v državnem zboru. Če odločitev ni sprejeta, se šteje, da je bila vladi izglasovana nezaupnica.\nMed zahtevo za glasovanje o zaupnici in glasovanjem mora poteči najmanj oseminštirideset ur."
+    },
+    {
+      "document_id": "USTA1",
+      "provision_ref": "118",
+      "chapter": "IV. DRŽAVNA UREDITEV",
+      "section": "č) Vlada",
+      "article": "118",
+      "title": "(zaupnica vladi)",
+      "content": "Najmanj deset poslancev lahko sproži v državnem zboru interpelacijo o delu vlade ali posameznega ministra.\nČe po razpravi o interpelaciji večina vseh poslancev izreče nezaupnico vladi ali posameznemu ministru, državni zbor vlado ali ministre razreši."
+    },
+    {
+      "document_id": "USTA1",
+      "provision_ref": "119",
+      "chapter": "IV. DRŽAVNA UREDITEV",
+      "section": "č) Vlada",
+      "article": "119",
+      "title": "(interpelacija)",
+      "content": "Predsednika vlade ali ministre lahko državni zbor pred ustavnim sodiščem obtoži kršitve ustave in zakonov, storjene pri opravljanju njihovih funkcij. Ustavno sodišče obravnava obtožbo na način, kakor je določen v 109. členu."
+    },
+    {
+      "document_id": "USTA1",
+      "provision_ref": "120",
+      "chapter": "IV. DRŽAVNA UREDITEV",
+      "section": "d) Uprava",
+      "article": "120",
+      "content": "Organizacijo uprave, njene pristojnosti in način imenovanja njenih funkcionarjev ureja zakon.\nUpravni organi opravljajo svoje delo samostojno v okviru in na podlagi ustave in zakonov.\nProti odločitvam in dejanjem upravnih organov in nosilcev javnih pooblastil je zagotovljeno sodno varstvo pravic in zakonitih interesov državljanov in organizacij."
+    },
+    {
+      "document_id": "USTA1",
+      "provision_ref": "121",
+      "chapter": "IV. DRŽAVNA UREDITEV",
+      "section": "d) Uprava",
+      "article": "121",
+      "title": "(organizacija in delo uprave)",
+      "content": "Z zakonom ali na njegovi podlagi lahko pravne ali fizične osebe dobijo javno pooblastilo za opravljanje določenih nalog državne uprave."
+    },
+    {
+      "document_id": "USTA1",
+      "provision_ref": "122",
+      "chapter": "IV. DRŽAVNA UREDITEV",
+      "section": "d) Uprava",
+      "article": "122",
+      "title": "(javno pooblastilo)",
+      "content": "Zaposlitev v upravnih službah je mogoča samo na temelju javnega natečaja, razen v primerih, ki jih določa zakon."
+    },
+    {
+      "document_id": "USTA1",
+      "provision_ref": "123",
+      "chapter": "IV. DRŽAVNA UREDITEV",
+      "section": "e) Obramba države",
+      "article": "123",
+      "content": "Obramba države je za državljane obvezna v mejah in na način, ki ga določa zakon.\nDržavljanom, ki zaradi svojih religioznih, filozofskih ali humanitarnih nazorov niso pripravljeni sodelovati pri opravljanju vojaških obveznosti, je treba omogočiti, da sodelujejo pri obrambi države na drug način."
+    },
+    {
+      "document_id": "USTA1",
+      "provision_ref": "124",
+      "chapter": "IV. DRŽAVNA UREDITEV",
+      "section": "e) Obramba države",
+      "article": "124",
+      "title": "(dolžnost sodelovanja pri obrambi države)",
+      "content": "Vrsto, obseg in organizacijo obrambe nedotakljivosti in celovitosti državnega ozemlja ureja zakon, ki ga sprejme državni zbor z dvotretjinsko večino glasov navzočih poslancev.\nIzvajanje obrambe nadzoruje državni zbor.\nPri zagotavljanju varnosti izhaja država predvsem iz mirovne politike ter kulture miru in nenasilja."
+    },
+    {
+      "document_id": "USTA1",
+      "provision_ref": "125",
+      "chapter": "IV. DRŽAVNA UREDITEV",
+      "section": "f) Sodstvo",
+      "article": "125",
+      "content": "Sodniki so pri opravljanju sodniške funkcije neodvisni. Vezani so na ustavo in zakon."
+    },
+    {
+      "document_id": "USTA1",
+      "provision_ref": "126",
+      "chapter": "IV. DRŽAVNA UREDITEV",
+      "section": "f) Sodstvo",
+      "article": "126",
+      "title": "(neodvisnost sodnikov)",
+      "content": "Ureditev in pristojnosti sodišč določa zakon.\nIzrednih sodišč ni dovoljeno ustanavljati, v mirnem času pa tudi vojaških sodišč ne."
+    },
+    {
+      "document_id": "USTA1",
+      "provision_ref": "127",
+      "chapter": "IV. DRŽAVNA UREDITEV",
+      "section": "f) Sodstvo",
+      "article": "127",
+      "title": "(ureditev in pristojnosti sodišč)",
+      "content": "Vrhovno sodišče je najvišje sodišče v državi.\nOdloča o rednih in izrednih pravnih sredstvih ter opravlja druge zadeve, ki jih določa zakon."
+    },
+    {
+      "document_id": "USTA1",
+      "provision_ref": "128",
+      "chapter": "IV. DRŽAVNA UREDITEV",
+      "section": "f) Sodstvo",
+      "article": "128",
+      "title": "(Vrhovno sodišče)",
+      "content": "Zakon ureja primere in oblike neposredne udeležbe državljanov pri izvajanju sodne oblasti."
+    },
+    {
+      "document_id": "USTA1",
+      "provision_ref": "129",
+      "chapter": "IV. DRŽAVNA UREDITEV",
+      "section": "f) Sodstvo",
+      "article": "129",
+      "title": "(udeležba, državljanov pri izvajanju sodne oblasti)",
+      "content": "Funkcija sodnika je trajna. Zakon določa starostno mejo in druge pogoje za izvolitev.\nZakon določa starostno mejo, pri kateri se sodnik upokoji."
+    },
+    {
+      "document_id": "USTA1",
+      "provision_ref": "130",
+      "chapter": "IV. DRŽAVNA UREDITEV",
+      "section": "f) Sodstvo",
+      "article": "130",
+      "title": "(trajnost sodniške funkcije)",
+      "content": "Sodnike voli državni zbor na predlog sodnega sveta."
+    },
+    {
+      "document_id": "USTA1",
+      "provision_ref": "131",
+      "chapter": "IV. DRŽAVNA UREDITEV",
+      "section": "f) Sodstvo",
+      "article": "131",
+      "title": "(izvolitev sodnikov)",
+      "content": "Sodni svet sestavlja enajst članov. Pet članov izvoli na predlog predsednika republike državni zbor izmed univerzitetnih profesorjev prava, odvetnikov in drugih pravnikov, šest članov pa izmed sebe izvolijo sodniki, ki trajno opravljajo sodniško funkcijo. Predsednika izberejo člani sveta izmed sebe."
+    },
+    {
+      "document_id": "USTA1",
+      "provision_ref": "132",
+      "chapter": "IV. DRŽAVNA UREDITEV",
+      "section": "f) Sodstvo",
+      "article": "132",
+      "title": "(sodni svet)",
+      "content": "Sodniku preneha sodniška funkcija, če nastopijo razlogi, ki jih določa zakon.\nČe sodnik pri opravljanju sodniške funkcije krši ustavo ali huje krši zakon, lahko državni zbor na predlog sodnega sveta sodnika razreši.\nV primeru naklepno storjenega kaznivega dejanja z zlorabo sodne funkcije, ugotovljenega s pravnomočno sodno odločbo, državni zbor sodnika razreši."
+    },
+    {
+      "document_id": "USTA1",
+      "provision_ref": "133",
+      "chapter": "IV. DRŽAVNA UREDITEV",
+      "section": "f) Sodstvo",
+      "article": "133",
+      "title": "(prenehanje in odvzem sodniške funkcije)",
+      "content": "Funkcija sodnika ni združljiva s funkcijami v drugih državnih organih, v organih lokalne samouprave in v organih političnih strank, ter z drugimi funkcijami in dejavnostmi, za katere to določa zakon."
+    },
+    {
+      "document_id": "USTA1",
+      "provision_ref": "134",
+      "chapter": "IV. DRŽAVNA UREDITEV",
+      "section": "f) Sodstvo",
+      "article": "134",
+      "title": "(nezdružljivost sodniške funkcije)",
+      "content": "Nikogar, ki sodeluje pri sojenju, ni mogoče klicati na odgovornost za mnenje, ki ga je dal pri odločanju v sodišču.\nSodnik ne sme biti priprt, niti ne sme biti brez dovoljenja državnega zbora zoper njega začet kazenski postopek, če je osumljen kaznivega dejanja pri opravljanju sodniške funkcije."
+    },
+    {
+      "document_id": "USTA1",
+      "provision_ref": "135",
+      "chapter": "IV. DRŽAVNA UREDITEV",
+      "section": "g) Državno tožilstvo",
+      "article": "135",
+      "content": "Državni tožilec vlaga in zastopa kazenske obtožbe in ima druge z zakonom določene pristojnosti.\nUreditev in pristojnosti državnih tožilstev določa zakon."
+    },
+    {
+      "document_id": "USTA1",
+      "provision_ref": "136",
+      "chapter": "IV. DRŽAVNA UREDITEV",
+      "section": "g) Državno tožilstvo",
+      "article": "136",
+      "title": "(državni tožilec)",
+      "content": "Funkcija državnega tožilca ni združljiva s funkcijami v drugih državnih organih, v organih lokalne samouprave in v organih političnih strank ter z drugimi funkcijami in dejavnostmi, za katere to določa zakon."
+    },
+    {
+      "document_id": "USTA1",
+      "provision_ref": "137",
+      "chapter": "IV. DRŽAVNA UREDITEV",
+      "section": "h) Odvetništvo in notariat",
+      "article": "137",
+      "content": "Odvetništvo je kot del pravosodja samostojna in neodvisna služba, ki jo ureja zakon.\nNotariat je javna služba, ki jo ureja zakon."
+    },
+    {
+      "document_id": "USTA1",
+      "provision_ref": "138",
+      "chapter": "V. SAMOUPRAVA",
+      "section": "a) Lokalna samouprava",
+      "article": "138",
+      "content": "Prebivalci Slovenije uresničujejo lokalno samoupravo v občinah in drugih lokalnih skupnostih."
+    },
+    {
+      "document_id": "USTA1",
+      "provision_ref": "139",
+      "chapter": "V. SAMOUPRAVA",
+      "section": "a) Lokalna samouprava",
+      "article": "139",
+      "title": "(uresničevanje lokalne samouprave)",
+      "content": "Občina je samoupravna lokalna skupnost.\nObmočje občine obsega naselje ali več naselij, ki so povezana s skupnimi potrebami in interesi prebivalcev.\nObčina se ustanovi z zakonom po prej opravljenem referendumu, s katerim se ugotovi volja prebivalcev na določenem območju. Zakon tudi določi območje občine."
+    },
+    {
+      "document_id": "USTA1",
+      "provision_ref": "140",
+      "chapter": "V. SAMOUPRAVA",
+      "section": "a) Lokalna samouprava",
+      "article": "140",
+      "title": "(občina)",
+      "content": "V pristojnost občine spadajo lokalne zadeve, ki jih občina lahko ureja samostojno in ki zadevajo samo prebivalce občine.\nDržava lahko z zakonom prenese na občine opravljanje posameznih nalog iz državne pristojnosti, če za to zagotovi tudi potrebna sredstva.\nV zadevah, ki jih je na organe lokalne skupnosti prenesla država, opravljajo državni organi tudi nadzor nad primernostjo in strokovnostjo njihovega dela."
+    },
+    {
+      "document_id": "USTA1",
+      "provision_ref": "141",
+      "chapter": "V. SAMOUPRAVA",
+      "section": "a) Lokalna samouprava",
+      "article": "141",
+      "title": "(delovno področje samoupravnih lokalnih skupnosti)",
+      "content": "Mesto lahko dobi po postopku in ob pogojih, ki jih določa zakon, status mestne občine.\nMestna občina opravlja kot svoje tudi z zakonom določene naloge iz državne pristojnosti, ki se nanašajo na razvoj mest."
+    },
+    {
+      "document_id": "USTA1",
+      "provision_ref": "142",
+      "chapter": "V. SAMOUPRAVA",
+      "section": "a) Lokalna samouprava",
+      "article": "142",
+      "title": "(mestna občina)",
+      "content": "Občina se financira iz lastnih virov. Občinam, ki zaradi slabše gospodarske razvitosti ne morejo v celoti zagotoviti opravljanja svojih nalog, država v skladu z zakonsko določenimi načeli in merili zagotovi dodatna sredstva."
+    },
+    {
+      "document_id": "USTA1",
+      "provision_ref": "143",
+      "chapter": "V. SAMOUPRAVA",
+      "section": "a) Lokalna samouprava",
+      "article": "143",
+      "title": "(dohodki občine)",
+      "content": "Pokrajina je samoupravna lokalna skupnost, ki opravlja lokalne zadeve širšega pomena in z zakonom določene zadeve regionalnega pomena.\nPokrajine se ustanovijo z zakonom, s katerim se določi tudi njihovo območje, sedež in ime. Zakon sprejme državni zbor z dvotretjinsko večino glasov navzočih poslancev. V postopku za sprejem zakona mora biti zagotovljeno sodelovanje občin.\nDržava z zakonom prenese na pokrajine opravljanje posameznih nalog iz državne pristojnosti, mora pa jim za to zagotoviti potrebna sredstva."
+    },
+    {
+      "document_id": "USTA1",
+      "provision_ref": "144",
+      "chapter": "V. SAMOUPRAVA",
+      "section": "a) Lokalna samouprava",
+      "article": "144",
+      "title": "(pokrajina)",
+      "content": "Državni organi nadzorujejo zakonitost dela organov lokalnih skupnosti."
+    },
+    {
+      "document_id": "USTA1",
+      "provision_ref": "145",
+      "chapter": "V. SAMOUPRAVA",
+      "section": "b) Druga samouprava",
+      "article": "145",
+      "content": "Državljani se lahko za uveljavljanje svojih interesov samoupravno združujejo.\nDržavljanom se lahko z zakonom prepusti samoupravno urejanje posameznih zadev iz državne pristojnosti."
+    },
+    {
+      "document_id": "USTA1",
+      "provision_ref": "146",
+      "chapter": "VI. JAVNE FINANCE",
+      "article": "146",
+      "content": "Država in lokalne skupnosti pridobivajo sredstva za uresničevanje svojih nalog z davki in z drugimi obveznimi dajatvami ter s prihodki od lastnega premoženja.\nDržava in lokalne skupnosti izkazujejo vrednost svojega premoženja s premoženjskimi bilancami."
+    },
+    {
+      "document_id": "USTA1",
+      "provision_ref": "147",
+      "chapter": "VI. JAVNE FINANCE",
+      "article": "147",
+      "title": "(financiranje države in lokalnih skupnosti)",
+      "content": "Država z zakonom predpisuje davke, carine in druge dajatve. Lokalne skupnosti predpisujejo davke in druge dajatve ob pogojih, ki jih določata ustava in zakon."
+    },
+    {
+      "document_id": "USTA1",
+      "provision_ref": "148",
+      "chapter": "VI. JAVNE FINANCE",
+      "article": "148",
+      "title": "(davki)",
+      "content": "Vsi prejemki in izdatki za financiranje javne porabe morajo biti zajeti v proračunih države.\nPrihodki in izdatki proračunov države morajo biti srednjeročno uravnoteženi brez zadolževanja, ali pa morajo prihodki presegati izdatke. Od tega načela se lahko začasno odstopi samo v izjemnih okoliščinah za državo.\nZ zakonom, ki ga sprejme državni zbor z dvotretjinsko večino glasov vseh poslancev, se določijo način in časovni okvir izvajanja načela iz prejšnjega odstavka, merila za določitev izjemnih okoliščin in način ravnanja ob njihovem nastopu.\nČe proračun ni sprejet do prvega dne, ko ga je potrebno začeti izvrševati, se upravičenci, ki se financirajo iz proračuna, začasno financirajo po prejšnjem proračunu."
+    },
+    {
+      "document_id": "USTA1",
+      "provision_ref": "149",
+      "chapter": "VI. JAVNE FINANCE",
+      "article": "149",
+      "title": "(proračun)",
+      "content": "Krediti v breme države in poroštvo države za kredite so dovoljeni le na podlagi zakona."
+    },
+    {
+      "document_id": "USTA1",
+      "provision_ref": "150",
+      "chapter": "VI. JAVNE FINANCE",
+      "article": "150",
+      "title": "(krediti v breme države)",
+      "content": "Računsko sodišče je najvišji organ kontrole državnih računov, državnega proračuna in celotne javne porabe.\nUreditev in pristojnosti računskega sodišča določa zakon.\nRačunsko sodišče je pri svojem delu neodvisno in vezano na ustavo in zakon."
+    },
+    {
+      "document_id": "USTA1",
+      "provision_ref": "151",
+      "chapter": "VI. JAVNE FINANCE",
+      "article": "151",
+      "title": "(računsko sodišče)",
+      "content": "Člane računskega sodišča imenuje državni zbor."
+    },
+    {
+      "document_id": "USTA1",
+      "provision_ref": "152",
+      "chapter": "VI. JAVNE FINANCE",
+      "article": "152",
+      "title": "(imenovanje članov računskega sodišča)",
+      "content": "Slovenija ima centralno banko. V svojem delovanju je ta banka samostojna in odgovarja neposredno državnemu zboru. Centralna banka se ustanovi z zakonom.\nGuvernerja centralne banke imenuje državni zbor."
+    },
+    {
+      "document_id": "USTA1",
+      "provision_ref": "153",
+      "chapter": "VII. USTAVNOST IN ZAKONITOST",
+      "article": "153",
+      "content": "Zakoni, podzakonski predpisi in drugi splošni akti morajo biti v skladu z ustavo.\nZakoni morajo biti v skladu s splošno veljavnimi načeli mednarodnega prava in z veljavnimi mednarodnimi pogodbami, ki jih je ratificiral državni zbor, podzakonski predpisi in drugi splošni akti pa tudi z drugimi ratificiranimi mednarodnimi pogodbami.\nPodzakonski predpisi in drugi splošni akti morajo biti v skladu z ustavo in z zakoni.\nPosamični akti in dejanja državnih organov, organov lokalnih skupnosti in nosilcev javnih pooblastil morajo temeljiti na zakonu ali na zakonitem predpisu."
+    },
+    {
+      "document_id": "USTA1",
+      "provision_ref": "154",
+      "chapter": "VII. USTAVNOST IN ZAKONITOST",
+      "article": "154",
+      "title": "(usklajenost pravnih aktov)",
+      "content": "Predpisi morajo biti objavljeni, preden začno veljati. Predpis začne veljati petnajsti dan po objavi, če ni v njem drugače določeno.\nDržavni predpisi se objavljajo v državnem uradnem listu, predpisi lokalnih skupnosti pa v uradnem glasilu, ki ga te same določijo."
+    },
+    {
+      "document_id": "USTA1",
+      "provision_ref": "155",
+      "chapter": "VII. USTAVNOST IN ZAKONITOST",
+      "article": "155",
+      "title": "(veljavnost predpisov in njihovo objavljanje)",
+      "content": "Zakoni, drugi predpisi in splošni akti ne morejo imeti učinka za nazaj.\nSamo zakon lahko določi, da imajo posamezne njegove določbe učinek za nazaj, če to zahteva javna korist in če se s tem ne posega v pridobljene pravice."
+    },
+    {
+      "document_id": "USTA1",
+      "provision_ref": "156",
+      "chapter": "VII. USTAVNOST IN ZAKONITOST",
+      "article": "156",
+      "title": "(prepoved povratne veljave pravnih aktov)",
+      "content": "Če sodišče pri odločanju meni, da je zakon, ki bi ga moralo uporabiti, protiustaven, mora postopek prekiniti in začeti postopek pred ustavnim sodiščem. Postopek pred sodiščem se nadaljuje po odločitvi ustavnega sodišča."
+    },
+    {
+      "document_id": "USTA1",
+      "provision_ref": "157",
+      "chapter": "VII. USTAVNOST IN ZAKONITOST",
+      "article": "157",
+      "title": "(postopek za oceno ustavnosti)",
+      "content": "O zakonitosti dokončnih posamičnih aktov, s katerimi državni organi, organi lokalnih skupnosti in nosilci javnih pooblastil odločajo o pravicah ali o obveznostih in pravnih koristih posameznikov in organizacij, odloča v upravnem sporu pristojno sodišče, če za določeno zadevo ni z zakonom predvideno drugo sodno varstvo.\nČe ni zagotovljeno drugo sodno varstvo, odloča v upravnem sporu pristojno sodišče tudi o zakonitosti posamičnih dejanj in aktov, s katerimi se posega v ustavne pravice posameznika."
+    },
+    {
+      "document_id": "USTA1",
+      "provision_ref": "158",
+      "chapter": "VII. USTAVNOST IN ZAKONITOST",
+      "article": "158",
+      "title": "(upravni spor)",
+      "content": "Pravna razmerja, urejena s pravnomočno odločbo državnega organa, je mogoče odpraviti, razveljaviti ali spremeniti le v primerih in po postopku, določenih z zakonom."
+    },
+    {
+      "document_id": "USTA1",
+      "provision_ref": "159",
+      "chapter": "VII. USTAVNOST IN ZAKONITOST",
+      "article": "159",
+      "title": "(pravnomočnost)",
+      "content": "Za varovanje človekovih pravic in temeljnih svoboščin v razmerju do državnih organov, organov lokalne samouprave in nosilcev javnih pooblastil se z zakonom določi varuh pravic državljanov.\nZ zakonom se lahko za posamezna področja določijo posebni varuhi pravic državljanov."
+    },
+    {
+      "document_id": "USTA1",
+      "provision_ref": "160",
+      "chapter": "VIII. USTAVNO SODIŠČE",
+      "article": "160",
+      "content": "Ustavno sodišče odloča:\n-        o skladnosti zakonov z ustavo;\n-        o skladnosti zakonov in drugih predpisov z ratificiranimi mednarodnimi pogodbami in s splošnimi načeli mednarodnega prava;\n-        o skladnosti podzakonskih predpisov z ustavo in z zakoni;\n-        o skladnosti predpisov lokalnih skupnosti z ustavo in z zakoni;\n-        o skladnosti splošnih aktov, izdanih za izvrševanje javnih pooblastil, z ustavo, zakoni in podzakonskimi predpisi;\n-        o ustavnih pritožbah zaradi kršitev človekovih pravic in temeljnih svoboščin s posamičnimi akti;\n-        o sporih glede pristojnosti med državo in lokalnimi skupnostmi, in med samimi lokalnimi skupnostmi;\n-        o sporih glede pristojnosti med sodišči in drugimi državnimi organi;\n-        o sporih o pristojnostih med državnim zborom, predsednikom republike in vlado;\n-        o protiustavnosti aktov in delovanja političnih strank;\n-        in o drugih zadevah, ki so mu naložene s to ustavo ali z zakoni.\nNa predlog predsednika republike, vlade ali tretjine poslancev državnega zbora izreka ustavno sodišče v postopku ratifikacije mednarodne pogodbe mnenje o njeni skladnosti z ustavo. Državni zbor je vezan na mnenje ustavnega sodišča.\nČe zakon ne določa drugače, odloča ustavno sodišče o ustavni pritožbi le, če je bilo izčrpano pravno varstvo. O tem, ali ustavno sodišče ustavno pritožbo sprejme v obravnavo, odloči na podlagi meril in postopka, določenih z zakonom."
+    },
+    {
+      "document_id": "USTA1",
+      "provision_ref": "161",
+      "chapter": "VIII. USTAVNO SODIŠČE",
+      "article": "161",
+      "title": "(pristojnosti ustavnega sodišča)",
+      "content": "Če ustavno sodišče ugotovi, da je zakon protiustaven, ga v celoti ali delno razveljavi. Razveljavitev učinkuje takoj ali v roku, ki ga določi ustavno sodišče. Ta rok ne sme biti daljši od enega leta. Druge protiustavne ali nezakonite predpise ali splošne akte ustavno sodišče odpravi ali razveljavi. Ustavno sodišče lahko pod pogoji, ki jih določa zakon, do končne odločitve v celoti ali delno zadrži izvrševanje akta, katerega ustavnost ali zakonitost presoja.\nČe ustavno sodišče pri odločanju o ustavni pritožbi ugotovi tudi protiustavnost predpisa ali splošnega akta, ga lahko, v skladu z določbami prvega odstavka, odpravi ali razveljavi.\nPravne posledice odločitev ustavnega sodišča ureja zakon."
+    },
+    {
+      "document_id": "USTA1",
+      "provision_ref": "162",
+      "chapter": "VIII. USTAVNO SODIŠČE",
+      "article": "162",
+      "title": "(razveljavitev zakona)",
+      "content": "Postopek pred ustavnim sodiščem ureja zakon.\nPredlagatelje zahteve za začetek postopka pred ustavnim sodiščem določa zakon. Vsakdo lahko da pobudo za začetek postopka, če izkaže svoj pravni interes.\nUstavno sodišče odloča z večino glasov vseh sodnikov, če ustava ali zakon za posamezne primere ne določata drugače. O tem, ali bo začelo postopek na podlagi ustavne pritožbe, lahko ustavno sodišče odloča v ožji sestavi, ki jo določa zakon."
+    },
+    {
+      "document_id": "USTA1",
+      "provision_ref": "163",
+      "chapter": "VIII. USTAVNO SODIŠČE",
+      "article": "163",
+      "title": "(postopek pred ustavnim sodiščem)",
+      "content": "Ustavno sodišče je sestavljeno iz devetih sodnikov, ki jih na predlog predsednika republike izvoli državni zbor, na način, ki ga določa zakon.\nSodniki se izvolijo izmed pravnih strokovnjakov.\nPredsednika ustavnega sodišča izvolijo sodniki izmed sebe za dobo treh let."
+    },
+    {
+      "document_id": "USTA1",
+      "provision_ref": "164",
+      "chapter": "VIII. USTAVNO SODIŠČE",
+      "article": "164",
+      "title": "(sestava in volitve)",
+      "content": "Sodnik ustavnega sodišča je lahko predčasno razrešen na način, ki ga določa zakon, samo:\n-        če to sam zahteva,\n-        če je kaznovan za kaznivo dejanje s kaznijo odvzema prostosti, ali\n-        zaradi trajne izgube delovne zmožnosti za opravljanje svoje funkcije."
+    },
+    {
+      "document_id": "USTA1",
+      "provision_ref": "165",
+      "chapter": "VIII. USTAVNO SODIŠČE",
+      "article": "165",
+      "title": "(predčasna razrešitev ustavnega sodnika)",
+      "content": "Sodniki ustavnega sodišča so izvoljeni za dobo devetih let. Ustavni sodniki ne morejo biti ponovno voljeni.\nPo izteku časa, za katerega je bil ustavni sodnik izvoljen, opravlja funkcijo še do izvolitve novega sodnika."
+    },
+    {
+      "document_id": "USTA1",
+      "provision_ref": "166",
+      "chapter": "VIII. USTAVNO SODIŠČE",
+      "article": "166",
+      "title": "(mandat sodnikov)",
+      "content": "Funkcija sodnika ustavnega sodišča ni združljiva s funkcijami v državnih organih, v organih lokalne samouprave in v organih političnih strank, ter z drugimi funkcijami in dejavnostmi, ki po zakonu niso združljive s funkcijo sodnika ustavnega sodišča."
+    },
+    {
+      "document_id": "USTA1",
+      "provision_ref": "167",
+      "chapter": "VIII. USTAVNO SODIŠČE",
+      "article": "167",
+      "title": "(nezdružljivost funkcije)",
+      "content": "Sodniki ustavnega sodišča uživajo enako imuniteto kakor poslanci državnega zbora. O imuniteti odloča državni zbor."
+    },
+    {
+      "document_id": "USTA1",
+      "provision_ref": "168",
+      "chapter": "IX. POSTOPEK ZA SPREMEMBO USTAVE",
+      "article": "168",
+      "content": "Predlog za začetek postopka za spremembo ustave lahko da dvajset poslancev državnega zbora, vlada ali najmanj trideset tisoč volilcev.\nO predlogu odloči državni zbor z dvotretjinsko večino glasov navzočih poslancev."
+    },
+    {
+      "document_id": "USTA1",
+      "provision_ref": "169",
+      "chapter": "IX. POSTOPEK ZA SPREMEMBO USTAVE",
+      "article": "169",
+      "title": "(predlog za začetek postopka)",
+      "content": "Državni zbor sprejme akt o spremembi ustave z dvotretjinsko večino glasov vseh poslancev."
+    },
+    {
+      "document_id": "USTA1",
+      "provision_ref": "170",
+      "chapter": "IX. POSTOPEK ZA SPREMEMBO USTAVE",
+      "article": "170",
+      "title": "(akt o sprejemu ustave)",
+      "content": "Državni zbor mora predlagano spremembo ustave predložiti v sprejem volilcem na referendumu, če to zahteva najmanj trideset poslancev.\nSprememba ustave je na referendumu sprejeta, če zanjo glasuje večina volilcev, ki so glasovali, pod pogojem, da se glasovanja udeleži večina vseh volilcev."
+    },
+    {
+      "document_id": "USTA1",
+      "provision_ref": "171",
+      "chapter": "IX. POSTOPEK ZA SPREMEMBO USTAVE",
+      "article": "171",
+      "title": "(potrditev spremembe ustave na referendumu)",
+      "content": "Sprememba ustave začne veljati z razglasitvijo v državnem zboru."
+    },
+    {
+      "document_id": "USTA1",
+      "provision_ref": "172",
+      "chapter": "X. PREHODNE IN KONČNE DOLOČBE",
+      "article": "172",
+      "content": "Ta ustava začne veljati z razglasitvijo."
+    },
+    {
+      "document_id": "USTA1",
+      "provision_ref": "173",
+      "chapter": "X. PREHODNE IN KONČNE DOLOČBE",
+      "article": "173",
+      "content": "Določbe te ustave se uporabljajo z dnem razglasitve, razen če v ustavnem zakonu za izvedbo te ustave ni drugače določeno."
+    },
+    {
+      "document_id": "USTA1",
+      "provision_ref": "174",
+      "chapter": "X. PREHODNE IN KONČNE DOLOČBE",
+      "article": "174",
+      "content": "Za izvedbo te ustave in za zagotovitev prehoda k uporabi določb te ustave se sprejme ustavni zakon.\nUstavni zakon se sprejme z dvotretjinsko večino glasov vseh poslancev v vseh zborih Skupščine Republike Slovenije."
+    }
+  ]
+}
