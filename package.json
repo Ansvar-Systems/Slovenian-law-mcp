@@ -10,7 +10,8 @@
   },
   "files": [
     "dist",
-    "data/database.db"
+    "data/database.db",
+    "server.json"
   ],
   "scripts": {
     "build": "tsc",
@@ -31,7 +32,9 @@
     "audit:seeds": "tsx scripts/audit-seeds.ts",
     "fetch:eurlex": "tsx scripts/fetch-eurlex-metadata.ts",
     "import:eurlex-documents": "tsx scripts/import-eurlex-documents.ts",
-    "prepublishOnly": "npm run build",
+    "verify:seeds": "npm run audit:seeds && npm run build:db",
+    "verify:release": "npm run verify:seeds && npm run build && npm test",
+    "prepublishOnly": "npm run verify:release",
     "postinstall": "test -d dist || npm run build || true"
   },
   "dependencies": {

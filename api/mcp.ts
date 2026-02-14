@@ -6,6 +6,7 @@ import { join } from 'path';
 import { existsSync, copyFileSync, rmSync } from 'fs';
 
 import { registerTools } from '../src/tools/registry.js';
+import { MCP_SERVER_NAME, MCP_SERVER_VERSION } from '../src/server-metadata.js';
 
 const SOURCE_DB = process.env.SLOVENIAN_LAW_DB_PATH
   || join(process.cwd(), 'data', 'database.db');
@@ -42,8 +43,8 @@ export default async function handler(req: VercelRequest, res: VercelResponse) {
 
   if (req.method === 'GET') {
     res.status(200).json({
-      name: 'slovenian-legal-citations',
-      version: '1.1.0',
+      name: MCP_SERVER_NAME,
+      version: MCP_SERVER_VERSION,
       protocol: 'mcp-streamable-http',
     });
     return;
@@ -58,7 +59,7 @@ export default async function handler(req: VercelRequest, res: VercelResponse) {
     const database = getDatabase();
 
     const server = new Server(
-      { name: 'slovenian-legal-citations', version: '1.1.0' },
+      { name: MCP_SERVER_NAME, version: MCP_SERVER_VERSION },
       { capabilities: { tools: {} } }
     );
 

@@ -28,13 +28,12 @@ import { getProvisionEUBasis, type GetProvisionEUBasisInput } from './tools/get-
 import { validateEUCompliance, type ValidateEUComplianceInput } from './tools/validate-eu-compliance.js';
 import { getProvisionAtDate, type GetProvisionAtDateInput } from './tools/get-provision-at-date.js';
 import { detectCapabilities, readDbMetadata, type Capability, type DbMetadata } from './capabilities.js';
+import { MCP_SERVER_NAME as SERVER_NAME, MCP_SERVER_VERSION as SERVER_VERSION, METADATA_RESOURCE_URI } from './server-metadata.js';
 
 // ---------------------------------------------------------------------------
 // Constants
 // ---------------------------------------------------------------------------
 
-const SERVER_NAME = 'slovenian-legal-citations';
-const SERVER_VERSION = '1.0.0';
 const DB_ENV_VAR = 'SLOVENIAN_LAW_DB_PATH';
 const DEFAULT_DB_PATH = '../data/database.db';
 
@@ -388,7 +387,7 @@ server.setRequestHandler(CallToolRequestSchema, async (request) => {
 server.setRequestHandler(ListResourcesRequestSchema, async () => ({
   resources: [
     {
-      uri: 'case-law-stats://slovenian-law-mcp/metadata',
+      uri: METADATA_RESOURCE_URI,
       name: 'Slovenian Legal Database Metadata',
       description:
         'Metadata about the Slovenian legal database including data sources, coverage, and freshness.',
@@ -400,7 +399,7 @@ server.setRequestHandler(ListResourcesRequestSchema, async () => ({
 server.setRequestHandler(ReadResourceRequestSchema, async (request) => {
   const { uri } = request.params;
 
-  if (uri === 'case-law-stats://slovenian-law-mcp/metadata') {
+  if (uri === METADATA_RESOURCE_URI) {
     const metadata = {
       name: SERVER_NAME,
       version: SERVER_VERSION,
@@ -408,13 +407,13 @@ server.setRequestHandler(ReadResourceRequestSchema, async (request) => {
         statutes: {
           name: 'PIS (pisrs.si)',
           description: 'Pravno-informacijski sistem RS — official portal for Slovenian legislation',
-          url: 'http://www.pisrs.si',
+          url: 'https://pisrs.si',
           license: 'Public domain (government data)',
         },
         case_law: {
           name: 'sodnapraksa.si',
           description: 'Official open data portal for Slovenian court decisions',
-          url: 'http://www.sodnapraksa.si',
+          url: 'https://www.sodnapraksa.si',
           license: 'Public domain (government data)',
         },
         eu_law: {

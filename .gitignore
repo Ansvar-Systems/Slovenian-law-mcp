@@ -100,6 +100,7 @@ logs/
 tmp/
 temp/
 *.tmp
+.npm-cache/
 .serena/
 .claude/
 .vercel
