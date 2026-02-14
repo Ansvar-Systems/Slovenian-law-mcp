@@ -1,6 +1,6 @@
 {
   "name": "@ansvar/slovenian-law-mcp",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Production-grade Slovenian legal research MCP server with comprehensive statute coverage and EU law cross-references",
   "type": "module",
   "main": "dist/index.js",
@@ -56,9 +56,18 @@
   },
   "homepage": "https://github.com/Ansvar-Systems/Slovenian-law-mcp#readme",
   "keywords": [
-    "mcp", "model-context-protocol", "ai", "claude",
-    "slovenian-law", "slovenia", "legal", "compliance",
-    "pisrs", "pis", "sodnapraksa", "ansvar"
+    "mcp",
+    "model-context-protocol",
+    "ai",
+    "claude",
+    "slovenian-law",
+    "slovenia",
+    "legal",
+    "compliance",
+    "pisrs",
+    "pis",
+    "sodnapraksa",
+    "ansvar"
   ],
   "author": "Ansvar Systems AB <hello@ansvar.ai>",
   "license": "Apache-2.0"
