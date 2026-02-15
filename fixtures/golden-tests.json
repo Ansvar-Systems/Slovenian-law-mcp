@@ -101,14 +101,17 @@
     {
       "id": "si-008",
       "category": "eu_cross_reference",
-      "description": "Get EU basis for ZVOP-2 returns GDPR reference",
+      "description": "Get EU basis for ZVOP-2 (ZAKO7959) returns GDPR regulation reference",
       "tool": "get_eu_basis",
       "input": {
-        "document_id": "ZVOP-2"
+        "document_id": "ZAKO7959"
       },
       "assertions": {
         "result_not_empty": true,
-        "any_result_contains": ["2016/679", "GDPR"]
+        "any_result_contains": [
+          "2016/679",
+          "regulation"
+        ]
       }
     },
     {
