@@ -1,0 +1,49 @@
+{
+  "$schema": "./golden-hashes.schema.json",
+  "version": "1.0",
+  "mcp_name": "Slovenian Law MCP",
+  "jurisdiction": "SI",
+  "description": "Drift detection anchors for stable Slovenian legal provisions. Constitutional articles that rarely change.",
+  "provisions": [
+    {
+      "id": "si-hash-001",
+      "description": "Ustava RS Article 1 — Slovenia is a democratic republic",
+      "upstream_url": "https://pisrs.si/pregledPredpisa?id=USTA1",
+      "selector_hint": "1. clen",
+      "expected_sha256": "COMPUTE_ON_FIRST_RUN",
+      "expected_snippet": "demokraticna republika"
+    },
+    {
+      "id": "si-hash-002",
+      "description": "Ustava RS Article 14 — equality before the law",
+      "upstream_url": "https://pisrs.si/pregledPredpisa?id=USTA1",
+      "selector_hint": "14. clen",
+      "expected_sha256": "COMPUTE_ON_FIRST_RUN",
+      "expected_snippet": "enakost pred zakonom"
+    },
+    {
+      "id": "si-hash-003",
+      "description": "Ustava RS Article 38 — protection of personal data",
+      "upstream_url": "https://pisrs.si/pregledPredpisa?id=USTA1",
+      "selector_hint": "38. clen",
+      "expected_sha256": "COMPUTE_ON_FIRST_RUN",
+      "expected_snippet": "osebnih podatkov"
+    },
+    {
+      "id": "si-hash-004",
+      "description": "Ustava RS Article 8 — conformity with international law",
+      "upstream_url": "https://pisrs.si/pregledPredpisa?id=USTA1",
+      "selector_hint": "8. clen",
+      "expected_sha256": "COMPUTE_ON_FIRST_RUN",
+      "expected_snippet": "mednarodne pogodbe"
+    },
+    {
+      "id": "si-hash-005",
+      "description": "Ustava RS Article 153 — conformity of laws with constitution",
+      "upstream_url": "https://pisrs.si/pregledPredpisa?id=USTA1",
+      "selector_hint": "153. clen",
+      "expected_sha256": "COMPUTE_ON_FIRST_RUN",
+      "expected_snippet": "ustavo"
+    }
+  ]
+}

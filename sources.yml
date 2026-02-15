@@ -1,0 +1,67 @@
+# sources.yml — Data provenance metadata
+# Reference: docs/mcp-infrastructure-blueprint.md §3
+
+schema_version: "1.0"
+mcp_name: "Slovenian Law MCP"
+jurisdiction: "SI"
+
+sources:
+  - name: "Pravno-informacijski sistem (PIS)"
+    authority: "Republic of Slovenia (Sluzba Vlade RS za zakonodajo)"
+    official_portal: "https://pisrs.si"
+    canonical_identifier: "N/A"
+    retrieval_method: "HTML_SCRAPE"
+    api_documentation: "N/A"
+    update_frequency: "on_change"
+    last_ingested: "2026-02-14"
+    license_or_terms:
+      type: "Government Open Data"
+      url: "https://pisrs.si"
+      summary: "Slovenian government legal information, publicly available without restrictions"
+    coverage:
+      scope: "Consolidated Slovenian statutes, regulations, and constitutional provisions from PIS"
+      limitations: "Historical versions may be incomplete; coverage depends on seed data"
+    languages:
+      - "sl"
+
+  - name: "Sodna praksa (sodnapraksa.si)"
+    authority: "Vrhovno sodisce Republike Slovenije (Supreme Court of Slovenia)"
+    official_portal: "https://www.sodnapraksa.si"
+    canonical_identifier: "ECLI (European Case Law Identifier)"
+    retrieval_method: "HTML_SCRAPE"
+    api_documentation: "N/A"
+    update_frequency: "on_change"
+    last_ingested: "2026-02-14"
+    license_or_terms:
+      type: "Government Open Data"
+      url: "https://www.sodnapraksa.si"
+      summary: "Slovenian court decisions published as open government data"
+    coverage:
+      scope: "Published court decisions from Slovenian courts (USRS, VSRS, VSL, VSM, VSK, VSC, UPRS, VDSS)"
+      limitations: "Not all decisions are published; case law metadata only in free tier"
+    languages:
+      - "sl"
+
+  - name: "EUR-Lex"
+    authority: "Publications Office of the European Union"
+    official_portal: "https://eur-lex.europa.eu"
+    canonical_identifier: "CELEX"
+    retrieval_method: "API"
+    api_documentation: "https://eur-lex.europa.eu/content/help/data-reuse/linking.html"
+    update_frequency: "daily"
+    last_ingested: "2026-02-14"
+    license_or_terms:
+      type: "EU Open Data"
+      url: "https://eur-lex.europa.eu/content/legal-notice/legal-notice.html"
+      summary: "EU legislation metadata freely reusable under EU open data policy"
+    coverage:
+      scope: "EU directives and regulations referenced by Slovenian statutes, including ES/EGS community identifiers"
+      limitations: "Cross-references extracted from Slovenian statute text, not full EUR-Lex corpus"
+    languages:
+      - "sl"
+      - "en"
+
+data_freshness:
+  automated_checks: true
+  check_frequency: "daily"
+  last_verified: "2026-02-14"

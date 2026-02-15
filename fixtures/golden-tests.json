@@ -1,0 +1,164 @@
+{
+  "$schema": "./golden-tests.schema.json",
+  "version": "1.0",
+  "mcp_name": "Slovenian Law MCP",
+  "description": "Golden contract tests for the Slovenian Law MCP",
+  "tests": [
+    {
+      "id": "si-001",
+      "category": "article_retrieval",
+      "description": "Retrieve provision from Ustava RS (Constitution Article 1)",
+      "tool": "get_provision",
+      "input": {
+        "document_id": "Ustava-RS",
+        "article": "1"
+      },
+      "assertions": {
+        "result_not_empty": true,
+        "text_not_empty": true
+      }
+    },
+    {
+      "id": "si-002",
+      "category": "article_retrieval",
+      "description": "Retrieve provision from ZVOP-2 (personal data protection)",
+      "tool": "get_provision",
+      "input": {
+        "document_id": "ZVOP-2",
+        "article": "1"
+      },
+      "assertions": {
+        "result_not_empty": true,
+        "text_not_empty": true
+      }
+    },
+    {
+      "id": "si-003",
+      "category": "article_retrieval",
+      "description": "Retrieve provision from Kazenski zakonik (Criminal Code)",
+      "tool": "get_provision",
+      "input": {
+        "document_id": "KZ-1",
+        "article": "1"
+      },
+      "assertions": {
+        "result_not_empty": true,
+        "text_not_empty": true
+      }
+    },
+    {
+      "id": "si-004",
+      "category": "search",
+      "description": "Search for 'osebni podatki' returns GDPR-related results",
+      "tool": "search_legislation",
+      "input": {
+        "query": "osebni podatki"
+      },
+      "assertions": {
+        "result_not_empty": true,
+        "min_results": 1
+      }
+    },
+    {
+      "id": "si-005",
+      "category": "search",
+      "description": "Search for 'kaznivo dejanje' returns criminal law provisions",
+      "tool": "search_legislation",
+      "input": {
+        "query": "kaznivo dejanje"
+      },
+      "assertions": {
+        "result_not_empty": true,
+        "min_results": 1
+      }
+    },
+    {
+      "id": "si-006",
+      "category": "citation_roundtrip",
+      "description": "Validate Slovenian legal citation",
+      "tool": "validate_citation",
+      "input": {
+        "citation": "ZVOP-2"
+      },
+      "assertions": {
+        "result_not_empty": true,
+        "text_not_empty": true
+      }
+    },
+    {
+      "id": "si-007",
+      "category": "citation_roundtrip",
+      "description": "Format Slovenian citation",
+      "tool": "format_citation",
+      "input": {
+        "citation": "KZ-1"
+      },
+      "assertions": {
+        "result_not_empty": true,
+        "text_not_empty": true
+      }
+    },
+    {
+      "id": "si-008",
+      "category": "eu_cross_reference",
+      "description": "Get EU basis for ZVOP-2 returns GDPR reference",
+      "tool": "get_eu_basis",
+      "input": {
+        "document_id": "ZVOP-2"
+      },
+      "assertions": {
+        "result_not_empty": true,
+        "any_result_contains": ["2016/679", "GDPR"]
+      }
+    },
+    {
+      "id": "si-009",
+      "category": "negative_test",
+      "description": "Non-existent document returns gracefully",
+      "tool": "get_provision",
+      "input": {
+        "document_id": "DOES-NOT-EXIST-999",
+        "article": "1"
+      },
+      "assertions": {
+        "handles_gracefully": true
+      }
+    },
+    {
+      "id": "si-010",
+      "category": "negative_test",
+      "description": "Invalid citation format handled gracefully",
+      "tool": "validate_citation",
+      "input": {
+        "citation": "not-a-real-citation-12345"
+      },
+      "assertions": {
+        "handles_gracefully": true
+      }
+    },
+    {
+      "id": "si-011",
+      "category": "negative_test",
+      "description": "Search with no results handled gracefully",
+      "tool": "search_legislation",
+      "input": {
+        "query": "xyznonexistentlawterm9999"
+      },
+      "assertions": {
+        "handles_gracefully": true
+      }
+    },
+    {
+      "id": "si-012",
+      "category": "eu_cross_reference",
+      "description": "Get EU basis for Ustava RS (no EU basis expected)",
+      "tool": "get_eu_basis",
+      "input": {
+        "document_id": "Ustava-RS"
+      },
+      "assertions": {
+        "handles_gracefully": true
+      }
+    }
+  ]
+}
