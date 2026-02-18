@@ -27,6 +27,7 @@ jobs:
   check-statutes:
     name: Check statute amendments (PIS)
     runs-on: ubuntu-latest
+    timeout-minutes: 15
     outputs:
       updates_found: ${{ steps.check.outputs.updates_found }}
       update_count: ${{ steps.check.outputs.update_count }}
@@ -86,6 +87,7 @@ jobs:
   check-eu-refs:
     name: Check EU reference staleness
     runs-on: ubuntu-latest
+    timeout-minutes: 15
     outputs:
       eu_stale: ${{ steps.check.outputs.eu_stale }}
       eu_last_update: ${{ steps.check.outputs.eu_last_update }}
@@ -133,6 +135,7 @@ jobs:
     name: Report results
     needs: [check-statutes, check-eu-refs]
     runs-on: ubuntu-latest
+    timeout-minutes: 15
     if: always()
     permissions:
       contents: read
@@ -286,6 +289,7 @@ jobs:
       github.event.inputs.auto_update == 'true' &&
       needs.check-statutes.outputs.updates_found == 'true'
     runs-on: ubuntu-latest
+    timeout-minutes: 15
     permissions:
       contents: write
 

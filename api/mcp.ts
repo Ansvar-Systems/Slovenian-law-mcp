@@ -25,6 +25,7 @@ function getDatabase(): InstanceType<typeof Database> {
       copyFileSync(SOURCE_DB, TMP_DB);
     }
     db = new Database(TMP_DB, { readonly: true });
+    db.pragma('journal_mode = DELETE', { simple: true });
     db.pragma('foreign_keys = ON');
   }
   return db;

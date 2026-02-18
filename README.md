@@ -139,6 +139,19 @@ Default runtime DB path:
 Override with:
 - `SLOVENIAN_LAW_DB_PATH=/absolute/path/to/database.db`
 
+## Example Prompts
+
+Once connected, try asking your AI assistant:
+
+- "What does Article 14 of ZVOP-2 say about data processing?"
+- "Search for Slovenian laws about environmental protection (varstvo okolja)"
+- "Which EU directives does ZVOP-2 implement?"
+- "Is the Criminal Code (KZ-1) currently in force?"
+- "Show me court decisions about personal data (osebni podatki)"
+- "Build a legal stance on employee dismissal (odpoved pogodbe o zaposlitvi)"
+- "Validate the citation: 1. clen ZKP"
+- "What are the data sources used by this legal database?"
+
 ## MCP Tools
 
 1. `search_legislation`

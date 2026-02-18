@@ -134,6 +134,16 @@ export async function searchCaseLaw(
   const { court, legal_domain, procedure_type, date_from, date_to } = input;
   const limit = clampLimit(input.limit);
 
+  if (!input.query && !input.ecli) {
+    return {
+      results: [],
+      _metadata: {
+        ...generateResponseMetadata(db),
+        warning: 'Provide either a "query" or "ecli" parameter. Without arguments, no results can be returned.',
+      },
+    };
+  }
+
   if (input.ecli) {
     const results = lookupByEcli(db, input.ecli);
     return { results, _metadata: generateResponseMetadata(db) };

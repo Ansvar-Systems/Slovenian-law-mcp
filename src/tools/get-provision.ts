@@ -68,6 +68,7 @@ function getCurrentProvisions(
     JOIN legal_documents AS d ON p.document_id = d.id
     WHERE p.document_id = ?
     ORDER BY p.id
+    LIMIT 200
   `;
   return db.prepare(sql).all(documentId) as GetProvisionResult[];
 }
@@ -123,5 +124,16 @@ export async function getProvision(
     ? getVersionedProvisions(db, document_id, provisionRef, asOfDate)
     : getCurrentProvisions(db, document_id, provisionRef);
 
-  return { results, _metadata: generateResponseMetadata(db) };
+  const metadata = generateResponseMetadata(db);
+  if (!provisionRef && results.length >= 200) {
+    return {
+      results,
+      _metadata: {
+        ...metadata,
+        warning: 'Results truncated at 200 provisions. Specify an article or provision_ref to retrieve a specific provision.',
+      },
+    };
+  }
+
+  return { results, _metadata: metadata };
 }

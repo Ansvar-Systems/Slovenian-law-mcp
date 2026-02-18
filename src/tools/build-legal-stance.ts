@@ -42,7 +42,7 @@ export async function buildLegalStance(
   input: BuildLegalStanceInput,
 ): Promise<ToolResponse<BuildLegalStanceResult>> {
   const { query, document_id, as_of_date } = input;
-  const limit = input.limit ?? DEFAULT_LIMIT;
+  const limit = Math.min(input.limit ?? DEFAULT_LIMIT, 20);
 
   const provisionResults = await searchLegislation(db, {
     query,

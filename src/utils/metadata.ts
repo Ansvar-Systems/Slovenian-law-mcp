@@ -6,6 +6,7 @@ export interface ResponseMetadata {
   source_authority: SourceAuthority;
   coverage_gaps: string[];
   ai_disclosure: string;
+  warning?: string;
 }
 
 export interface DataFreshness {

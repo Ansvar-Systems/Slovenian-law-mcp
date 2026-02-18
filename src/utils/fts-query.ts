@@ -10,7 +10,13 @@ function extractTokens(query: string): string[] {
 }
 
 function escapeExplicitQuery(query: string): string {
-  return query.replace(/[()^:]/g, (char) => `"${char}"`);
+  // Balance unclosed double quotes to prevent FTS5 syntax errors
+  let escaped = query.replace(/[()^:]/g, (char) => `"${char}"`);
+  const quoteCount = (escaped.match(/"/g) ?? []).length;
+  if (quoteCount % 2 !== 0) {
+    escaped += '"';
+  }
+  return escaped;
 }
 
 function buildPrefixAndQuery(tokens: string[]): string {
