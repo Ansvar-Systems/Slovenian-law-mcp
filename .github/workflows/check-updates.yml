@@ -3,7 +3,7 @@ name: Daily Data Freshness Check
 on:
   schedule:
     # Run weekly at 5 AM UTC (6 AM CET / 7 AM CEST)
-    - cron: '0 5 * * *'
+    - cron: '0 5 * * 5'
   workflow_dispatch:
     inputs:
       auto_update:
