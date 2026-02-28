@@ -19,8 +19,7 @@ import { Server } from '@modelcontextprotocol/sdk/server/index.js';
 import { StreamableHTTPServerTransport } from '@modelcontextprotocol/sdk/server/streamableHttp.js';
 import { createServer as createHttpServer, IncomingMessage, ServerResponse } from 'node:http';
 import { randomUUID } from 'crypto';
-import { createHash } from 'crypto';
-import { existsSync, openSync, readSync, closeSync, readFileSync, statSync } from 'fs';
+import { existsSync, readFileSync } from 'fs';
 import { fileURLToPath } from 'url';
 import { dirname, join } from 'path';
 import Database from '@ansvar/mcp-sqlite';
@@ -28,13 +27,6 @@ import Database from '@ansvar/mcp-sqlite';
 import { registerTools } from './tools/registry.js';
 import { detectCapabilities, readDbMetadata } from './capabilities.js';
 
-// Local type — avoids import from ./tools/about.js which may not exist in all repos.
-// The registerTools() `context` parameter is optional (`?`) so this is safe.
-interface AboutContext {
-  version: string;
-  fingerprint: string;
-  dbBuilt: string;
-}
 
 // ---------------------------------------------------------------------------
 // Configuration (derived from package.json — works for any law MCP)
@@ -105,35 +97,13 @@ async function main() {
   console.error(`[${SERVER_NAME}] Database: ${dbPath}`);
   console.error(`[${SERVER_NAME}] Tier: ${meta.tier}, Capabilities: ${[...caps].join(', ')}`);
 
-  // About context for the about tool — use partial hash to avoid loading
-  // entire DB into memory (some are 200MB+).
-  let fingerprint = 'unknown';
-  let dbBuilt = new Date().toISOString();
-  try {
-    const SAMPLE = 64 * 1024;
-    const fd = openSync(dbPath, 'r');
-    const buf = Buffer.alloc(SAMPLE);
-    readSync(fd, buf, 0, SAMPLE, 0);
-    closeSync(fd);
-    fingerprint = createHash('sha256').update(buf).digest('hex').slice(0, 12);
-    dbBuilt = statSync(dbPath).mtime.toISOString();
-  } catch { /* non-fatal */ }
-
-  // Try db_metadata table for built_at (newer repos have this)
-  try {
-    const row = db.prepare("SELECT value FROM db_metadata WHERE key = 'built_at'").get() as { value: string } | undefined;
-    if (row) dbBuilt = row.value;
-  } catch { /* table may not exist */ }
-
-  const aboutContext: AboutContext = { version: SERVER_VERSION, fingerprint, dbBuilt };
-
   /** Create a fresh MCP server instance (one per session). */
   function createMCPServer(): Server {
     const server = new Server(
       { name: SERVER_NAME, version: SERVER_VERSION },
       { capabilities: { tools: {} } },
     );
-    registerTools(server, db, aboutContext);
+    registerTools(server, db);
     return server;
   }
 
