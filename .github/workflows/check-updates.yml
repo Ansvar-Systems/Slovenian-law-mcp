@@ -146,7 +146,7 @@ jobs:
         if: |
           needs.check-statutes.outputs.updates_found == 'true' ||
           needs.check-eu-refs.outputs.eu_stale == 'true'
-        uses: actions/github-script@v7
+        uses: actions/github-script@v8
         env:
           STATUTE_UPDATES: ${{ needs.check-statutes.outputs.update_count }}
           EU_STALE: ${{ needs.check-eu-refs.outputs.eu_stale }}
@@ -249,7 +249,7 @@ jobs:
         if: |
           needs.check-statutes.outputs.updates_found != 'true' &&
           needs.check-eu-refs.outputs.eu_stale != 'true'
-        uses: actions/github-script@v7
+        uses: actions/github-script@v8
         with:
           script: |
             const issues = await github.rest.issues.listForRepo({
