@@ -19,12 +19,25 @@ function normalizePunctuation(s: string): string {
  * Resolve a document identifier to a database document ID.
  * Handles direct IDs, exact title matches, and fuzzy title lookup.
  */
+// ---------------------------------------------------------------------------
+// Abbreviation map — add entries as needed
+// ---------------------------------------------------------------------------
+
+const ABBREVIATIONS: Record<string, string> = {
+  'ZVOP-2': 'ZAKO7959',
+  'zvop-2': 'ZAKO7959',
+};
+
 export function resolveDocumentId(
   db: Database,
   input: string,
 ): string | null {
   const trimmed = input.trim();
   if (!trimmed) return null;
+
+  // Step 0: Abbreviation map
+  const abbrev = ABBREVIATIONS[trimmed];
+  if (abbrev) return abbrev;
 
   // Step 1: Direct ID match
   try {
