@@ -1,6 +1,7 @@
 import type { Database } from '@ansvar/mcp-sqlite';
 import { buildFtsQueryVariants } from '../utils/fts-query.js';
 import { normalizeAsOfDate } from '../utils/as-of-date.js';
+import { resolveDocumentId } from '../utils/document-id.js';
 import { generateResponseMetadata, type ToolResponse } from '../utils/metadata.js';
 
 export interface SearchLegislationInput {
@@ -135,28 +136,79 @@ function runVersionedFtsSearch(
   return db.prepare(sql).all(...params) as SearchLegislationResult[];
 }
 
+/**
+ * Deduplicate search results by document_title + provision_ref.
+ * Duplicate document IDs (numeric vs slug) cause the same provision to appear twice.
+ * Keeps the first (highest-ranked) occurrence.
+ */
+function deduplicateResults(
+  rows: SearchLegislationResult[],
+  limit: number,
+): SearchLegislationResult[] {
+  const seen = new Set<string>();
+  const deduped: SearchLegislationResult[] = [];
+  for (const row of rows) {
+    const key = `${row.document_title}::${row.provision_ref}`;
+    if (seen.has(key)) continue;
+    seen.add(key);
+    deduped.push(row);
+    if (deduped.length >= limit) break;
+  }
+  return deduped;
+}
+
 export async function searchLegislation(
   db: Database,
   input: SearchLegislationInput,
 ): Promise<ToolResponse<SearchLegislationResult[]>> {
-  const { query, document_id, status } = input;
+  const { query, status } = input;
   const asOfDate = normalizeAsOfDate(input.as_of_date);
   const limit = clampLimit(input.limit);
+  // Fetch extra rows to account for deduplication
+  const fetchLimit = limit * 2;
 
   const variants = buildFtsQueryVariants(query);
   if (!variants.primary) {
     return { results: [], _metadata: generateResponseMetadata(db) };
   }
 
+  // Resolve document_id from title if provided
+  let resolvedDocId: string | undefined;
+  if (input.document_id) {
+    const resolved = resolveDocumentId(db, input.document_id);
+    resolvedDocId = resolved ?? undefined;
+    if (!resolved) {
+      return {
+        results: [],
+        _metadata: {
+          ...generateResponseMetadata(db),
+          note: `No document found matching "${input.document_id}"`,
+        },
+      };
+    }
+  }
+
   const search = asOfDate
-    ? (q: string) => runVersionedFtsSearch(db, q, asOfDate, document_id, status, limit)
-    : (q: string) => runFtsSearch(db, q, document_id, status, limit);
+    ? (q: string) => runVersionedFtsSearch(db, q, asOfDate, resolvedDocId, status, fetchLimit)
+    : (q: string) => runFtsSearch(db, q, resolvedDocId, status, fetchLimit);
 
   let results = search(variants.primary);
 
   if (results.length === 0 && variants.fallback) {
     results = search(variants.fallback);
+    if (results.length > 0) {
+      return {
+        results: deduplicateResults(results, limit),
+        _metadata: {
+          ...generateResponseMetadata(db),
+          query_strategy: 'broadened',
+        },
+      };
+    }
   }
 
-  return { results, _metadata: generateResponseMetadata(db) };
+  return {
+    results: deduplicateResults(results, limit),
+    _metadata: generateResponseMetadata(db),
+  };
 }

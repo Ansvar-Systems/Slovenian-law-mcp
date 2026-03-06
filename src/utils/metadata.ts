@@ -7,6 +7,8 @@ export interface ResponseMetadata {
   coverage_gaps: string[];
   ai_disclosure: string;
   warning?: string;
+  note?: string;
+  query_strategy?: string;
 }
 
 export interface DataFreshness {
