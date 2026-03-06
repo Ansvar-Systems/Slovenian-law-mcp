@@ -5,8 +5,12 @@ function sanitizeToken(token: string): string {
 }
 
 function extractTokens(query: string): string[] {
-  const matches = query.normalize('NFC').match(/[\p{L}\p{N}_]+/gu) ?? [];
-  return matches.map(sanitizeToken).filter(token => token.length > 1);
+  const matches = query.normalize('NFC').match(/[\p{L}\p{N}_]+\*?/gu) ?? [];
+  return matches.map(token => {
+    const hasStar = token.endsWith('*');
+    const cleaned = sanitizeToken(hasStar ? token.slice(0, -1) : token);
+    return cleaned.length > 1 ? (hasStar ? cleaned + '*' : cleaned) : '';
+  }).filter(token => token.length > 1);
 }
 
 function escapeExplicitQuery(query: string): string {
