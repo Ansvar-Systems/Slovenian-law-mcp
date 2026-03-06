@@ -1,6 +1,6 @@
 import { describe, it, expect, beforeAll, afterAll } from 'vitest';
 import { createHash } from 'node:crypto';
-import { readFileSync, rmdirSync } from 'node:fs';
+import { existsSync, readFileSync, rmdirSync } from 'node:fs';
 import { fileURLToPath } from 'node:url';
 import { dirname, join } from 'node:path';
 import { Client } from '@modelcontextprotocol/sdk/client/index.js';
@@ -129,6 +129,10 @@ const fixture: GoldenTestsFile = JSON.parse(fixtureContent);
 
 const isNightly = process.env['CONTRACT_MODE'] === 'nightly';
 
+const dbPath =
+  process.env['SLOVENIAN_LAW_DB_PATH'] ?? join(__dirname, '..', '..', 'data', 'database.db');
+const dbExists = existsSync(dbPath);
+
 let mcpClient: Client;
 let db: InstanceType<typeof Database>;
 
@@ -136,10 +140,8 @@ let db: InstanceType<typeof Database>;
 // Contract test runner
 // ---------------------------------------------------------------------------
 
-describe(`Contract tests: ${fixture.mcp_name}`, () => {
+describe.skipIf(!dbExists)(`Contract tests: ${fixture.mcp_name}`, () => {
   beforeAll(async () => {
-    const dbPath =
-      process.env['SLOVENIAN_LAW_DB_PATH'] ?? join(__dirname, '..', '..', 'data', 'database.db');
     try { rmdirSync(dbPath + '.lock'); } catch { /* ignore */ }
     db = new Database(dbPath, { readonly: true });
 

@@ -1,7 +1,6 @@
 import type { VercelRequest, VercelResponse } from '@vercel/node';
+import { MCP_SERVER_NAME, MCP_SERVER_VERSION } from '../src/server-metadata.js';
 
-const SERVER_NAME = 'slovenian-legal-citations';
-const SERVER_VERSION = '1.1.0';
 const REPO_URL = 'https://github.com/Ansvar-Systems/Slovenian-law-mcp';
 const FRESHNESS_MAX_DAYS = 30;
 
@@ -10,11 +9,11 @@ export default function handler(req: VercelRequest, res: VercelResponse) {
 
   if (url.pathname === '/version' || url.searchParams.has('version')) {
     res.status(200).json({
-      name: SERVER_NAME,
-      version: SERVER_VERSION,
+      name: MCP_SERVER_NAME,
+      version: MCP_SERVER_VERSION,
       node_version: process.version,
       transport: ['stdio', 'streamable-http'],
-      capabilities: ['statutes', 'eu_cross_references'],
+      capabilities: ['statutes', 'case_law', 'eu_cross_references', 'preparatory_works', 'citation_validation'],
       tier: 'free',
       source_schema_version: '1.0',
       repo_url: REPO_URL,
@@ -25,14 +24,14 @@ export default function handler(req: VercelRequest, res: VercelResponse) {
 
   res.status(200).json({
     status: 'ok',
-    server: SERVER_NAME,
-    version: SERVER_VERSION,
+    server: MCP_SERVER_NAME,
+    version: MCP_SERVER_VERSION,
     uptime_seconds: Math.floor(process.uptime()),
     data_freshness: {
       max_age_days: FRESHNESS_MAX_DAYS,
       note: 'Serving bundled database',
     },
-    capabilities: ['statutes', 'eu_cross_references'],
+    capabilities: ['statutes', 'case_law', 'eu_cross_references', 'preparatory_works', 'citation_validation'],
     tier: 'free',
   });
 }

@@ -162,6 +162,47 @@
       "assertions": {
         "handles_gracefully": true
       }
+    },
+    {
+      "id": "si-013",
+      "category": "provenance",
+      "description": "list_sources returns data provenance with PIS and sodnapraksa",
+      "tool": "list_sources",
+      "input": {},
+      "assertions": {
+        "result_not_empty": true,
+        "any_result_contains": [
+          "pisrs.si",
+          "sodnapraksa"
+        ]
+      }
+    },
+    {
+      "id": "si-014",
+      "category": "currency_check",
+      "description": "check_currency for Ustava RS returns in_force",
+      "tool": "check_currency",
+      "input": {
+        "document_id": "Ustava-RS"
+      },
+      "assertions": {
+        "result_not_empty": true,
+        "any_result_contains": [
+          "in_force"
+        ]
+      }
+    },
+    {
+      "id": "si-015",
+      "category": "special_characters",
+      "description": "Search with Slovenian special characters (č, š, ž)",
+      "tool": "search_legislation",
+      "input": {
+        "query": "državljanstvo"
+      },
+      "assertions": {
+        "handles_gracefully": true
+      }
     }
   ]
 }
