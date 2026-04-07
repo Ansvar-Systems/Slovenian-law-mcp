@@ -40,12 +40,12 @@ This MCP server makes Slovenian law **searchable, cross-referenceable, and AI-re
 
 > Connect directly to the hosted version -- zero dependencies, nothing to install.
 
-**Endpoint:** `https://mcp.ansvar.eu/law-slovenian-law-mcp/mcp`
+**Endpoint:** `https://mcp.ansvar.eu/law-si/mcp`
 
 | Client | How to Connect |
 |--------|---------------|
 | **Claude.ai** | Settings > Connectors > Add Integration > paste URL |
-| **Claude Code** | `claude mcp add slovenian-law --transport http https://mcp.ansvar.eu/law-slovenian-law-mcp/mcp` |
+| **Claude Code** | `claude mcp add slovenian-law --transport http https://mcp.ansvar.eu/law-si/mcp` |
 | **Claude Desktop** | Add to config (see below) |
 | **GitHub Copilot** | Add to VS Code settings (see below) |
 
@@ -56,7 +56,7 @@ This MCP server makes Slovenian law **searchable, cross-referenceable, and AI-re
   "mcpServers": {
     "slovenian-law": {
       "type": "url",
-      "url": "https://mcp.ansvar.eu/law-slovenian-law-mcp/mcp"
+      "url": "https://mcp.ansvar.eu/law-si/mcp"
     }
   }
 }
@@ -69,7 +69,7 @@ This MCP server makes Slovenian law **searchable, cross-referenceable, and AI-re
   "github.copilot.chat.mcp.servers": {
     "slovenian-law": {
       "type": "http",
-      "url": "https://mcp.ansvar.eu/law-slovenian-law-mcp/mcp"
+      "url": "https://mcp.ansvar.eu/law-si/mcp"
     }
   }
 }
