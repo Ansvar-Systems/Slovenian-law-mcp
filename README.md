@@ -375,8 +375,32 @@ Apache License 2.0. See [LICENSE](./LICENSE) for details.
 
 ### Data Licenses
 
-- **Statutes & Legislation:** Pravno-informacijski sistem RS (public domain)
-- **EU Metadata:** EUR-Lex (EU public domain)
+Ansvar attribution code: **`SI-Statutory-PD`**. Basis: ZASP (`Zakon o
+avtorski in sorodnih pravicah`) Art. 9(1)(2) — broad statutory-PD
+carve-out.
+
+- **Statutes & Legislation:** Pravno-informacijski sistem RS via
+  `pisrs.si` / `uradni-list.si`. Reused under ZASP Art. 9(1)(2).
+- **Case Law:** Sodna praksa (`sodnapraksa.si`). Reused under the same
+  ZASP Art. 9(1)(2) basis (judicial output is part of the broad
+  coverage).
+- **EU Metadata:** EUR-Lex (EU public-domain notice).
+
+### Coverage scope (broad — with translation caveat)
+
+ZASP Art. 9(1) excludes from copyright protection legislative acts,
+administrative acts, court decisions, and other official texts of a
+governmental or administrative nature.
+
+**Translation caveat (Art. 9(2)):** Non-official translations of
+official texts ARE protected by copyright. If this MCP ever ingests
+non-official translations of Slovenian statutes (for example,
+translator-attributed English renderings), those would need a separate
+licensing basis — Art. 9 does not cover them.
+
+See `docs/audits/2026-05-17-eu-copyright-statutory-works-batch-3-BG-HR-SK-SI-SE.md`
+in the Ansvar architecture-documentation repo for the verbatim Art. 9
+text and the coverage analysis.
 
 ---
 
