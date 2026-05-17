@@ -1,4 +1,5 @@
 import type { Database } from '@ansvar/mcp-sqlite';
+import type { CitationMetadata } from './citation.js';
 
 export interface ResponseMetadata {
   data_freshness: DataFreshness;
@@ -94,5 +95,5 @@ function getDataFreshness(db: Database): DataFreshness {
 export interface ToolResponse<T> {
   results: T;
   _metadata: ResponseMetadata;
-  _citation?: import('./citation.js').CitationMetadata;
+  _citation?: CitationMetadata;
 }
