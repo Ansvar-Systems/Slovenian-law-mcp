@@ -38,7 +38,14 @@
     "verify:seeds": "npm run audit:seeds && npm run build:db",
     "verify:release": "npm run verify:seeds && npm run build && npm test",
     "prepublishOnly": "npm run verify:release",
-    "postinstall": "test -d dist || npm run build || true"
+    "postinstall": "test -d dist || npm run build || true",
+    "ingest:fetch": "tsx scripts/ingest-fetch.ts",
+    "ingest:diff": "tsx scripts/ingest-diff.ts",
+    "coverage:update": "tsx scripts/update-coverage.ts",
+    "freshness:check": "tsx scripts/check-freshness.ts",
+    "coverage:verify": "tsx scripts/verify-coverage.ts",
+    "ingest:full": "npm run ingest:fetch && npm run build:db && npm run coverage:update",
+    "lint": "tsc --noEmit"
   },
   "dependencies": {
     "@ansvar/mcp-sqlite": "^1.0.0",
@@ -46,7 +53,6 @@
   },
   "devDependencies": {
     "@types/node": "^22.15.29",
-    "@vercel/node": "^5.6.3",
     "@vitest/coverage-v8": "^4.0.18",
     "fast-xml-parser": "^5.3.5",
     "tsx": "^4.21.0",
