@@ -15,9 +15,12 @@ sources:
     update_frequency: "on_change"
     last_ingested: "2026-02-14"
     license_or_terms:
-      type: "Government Open Data"
+      type: "SI-Statutory-PD"
+      ansvar_code: "SI-Statutory-PD"
+      statute_ref: "ZASP Art. 9(1)(2)"
       url: "https://pisrs.si"
-      summary: "Slovenian government legal information, publicly available without restrictions"
+      url_pattern: '^https?://(?:www\.)?(?:uradni-list|pisrs)\.si/.+'
+      summary: "Slovenian statutory-PD carve-out per ZASP (Zakon o avtorski in sorodnih pravicah) Art. 9(1)(2) — broad. CAVEAT: Art. 9(2) protects non-official translations of official texts (translation reuse needs separate basis). See infrastructure/attribution-licenses.json SI-Statutory-PD."
     coverage:
       scope: "Consolidated Slovenian statutes, regulations, and constitutional provisions from PIS"
       limitations: "Historical versions may be incomplete; coverage depends on seed data"
@@ -33,9 +36,12 @@ sources:
     update_frequency: "on_change"
     last_ingested: "2026-02-14"
     license_or_terms:
-      type: "Government Open Data"
+      type: "SI-Statutory-PD"
+      ansvar_code: "SI-Statutory-PD"
+      statute_ref: "ZASP Art. 9(1)(2)"
       url: "https://www.sodnapraksa.si"
-      summary: "Slovenian court decisions published as open government data"
+      url_pattern: '^https?://(?:www\.)?sodnapraksa\.si/.+'
+      summary: "Slovenian court decisions under ZASP Art. 9(1)(2) statutory-PD carve-out (judicial output is part of the broad coverage)."
     coverage:
       scope: "Published court decisions from Slovenian courts (USRS, VSRS, VSL, VSM, VSK, VSC, UPRS, VDSS)"
       limitations: "Not all decisions are published; case law metadata only in free tier"
