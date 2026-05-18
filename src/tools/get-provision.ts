@@ -2,6 +2,7 @@ import type { Database } from '@ansvar/mcp-sqlite';
 import { normalizeAsOfDate } from '../utils/as-of-date.js';
 import { generateResponseMetadata, type ToolResponse } from '../utils/metadata.js';
 import { resolveDocumentId } from '../utils/document-id.js';
+import { buildProvisionCitation } from '../utils/citation.js';
 
 export interface GetProvisionInput {
   document_id: string;
@@ -136,5 +137,21 @@ export async function getProvision(
     };
   }
 
+  if (provisionRef && results.length > 0) {
+    const r = results[0];
+    return {
+      results,
+      _citation: buildProvisionCitation(
+        r.document_id,
+        r.document_title,
+        r.provision_ref,
+        input.document_id,
+        input.article || input.provision_ref || '',
+        null,
+        null,
+      ),
+      _metadata: metadata,
+    };
+  }
   return { results, _metadata: metadata };
 }
