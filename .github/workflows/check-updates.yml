@@ -34,7 +34,7 @@ jobs:
       update_summary: ${{ steps.check.outputs.update_summary }}
 
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v6
 
       - uses: actions/setup-node@v4
         with:
@@ -94,7 +94,7 @@ jobs:
       eu_days_since: ${{ steps.check.outputs.eu_days_since }}
 
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v6
 
       - name: Check EU reference freshness
         id: check
@@ -294,7 +294,7 @@ jobs:
       contents: write
 
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v6
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
 
